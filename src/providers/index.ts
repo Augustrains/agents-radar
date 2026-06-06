@@ -17,6 +17,7 @@ import { AnthropicProvider } from "./anthropic.ts";
 import { OpenAIProvider } from "./openai.ts";
 import { GitHubCopilotProvider } from "./github-copilot.ts";
 import { OpenRouterProvider } from "./openrouter.ts";
+import { DeepSeekProvider } from "./deepseek.ts";
 
 // ---------------------------------------------------------------------------
 // Single source of truth — add new providers here only.
@@ -27,6 +28,11 @@ const PROVIDERS = {
   openai: () => new OpenAIProvider(),
   "github-copilot": () => new GitHubCopilotProvider(),
   openrouter: () => new OpenRouterProvider(),
+  deepseek: () => {
+    const key = process.env["DEEPSEEK_API_KEY"] ?? "";
+    if (!key) throw new Error("DEEPSEEK_API_KEY is required for DeepSeek provider");
+    return new DeepSeekProvider(key);
+  },
 } satisfies Record<string, ProviderFactory>;
 
 /** Supported provider name — derived from the PROVIDERS registry. */

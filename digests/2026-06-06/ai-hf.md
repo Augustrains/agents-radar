@@ -1,84 +1,90 @@
 # Hugging Face 热门模型日报 2026-06-06
 
-> 数据来源: [Hugging Face Hub](https://huggingface.co/) | 共 30 个模型 | 生成时间: 2026-06-06 00:27 UTC
+> 数据来源: [Hugging Face Hub](https://huggingface.co/) | 共 30 个模型 | 生成时间: 2026-06-06 08:20 UTC
 
 ---
 
-# Hugging Face 热门模型日报 | 2026-06-06
+好的，作为AI模型生态分析师，为您呈上2026年6月6日Hugging Face热门模型日报。
 
 ---
 
-## 今日速览
+### **Hugging Face 热门模型日报 | 2026-06-06**
 
-本周 Hugging Face 热度由 **DeepSeek-V4 系列** 绝对领跑，Pro 版以 4657 点赞、556 万下载碾压全场，Flash 版紧随其后。多模态赛道持续升温，NVIDIA 密集发布 Cosmos3 系列（Nano/Super 及衍生版本）与 LocateAnything-3B，展现其在视觉定位与世界模型上的野心。社区量化生态活跃，unsloth 的 GGUF 版本下载量高企，而 SulphurAI 的文本到视频模型异军突起，成为生成式 AI 黑马。
+#### **今日速览**
+
+本周Hugging Face社区热度被**多模态理解和生成**模型全面接管。**DeepSeek-V4** 系列以其绝对统治地位的点赞量证明了其行业影响力，同时开源社区对其衍生的量化版本需求旺盛。**NVIDIA** 以强大的模型矩阵（从LocateAnything到Cosmos3宇宙系列）展示了其在从感知到生成的全面布局。在开源潮中，**Qwen3.6** 的异军突起和 **Google Gemma-4** 的正式面世，标志着多模态大模型进入了一个竞争白热化、门槛持续降低的新阶段。此外，**视频生成**成为本周最耀眼的新星，多个高质量模型涌现。
+
+#### **热门模型**
+
+##### 🧠 语言模型（LLM、对话模型、指令微调）
+
+- [**deepseek-ai/DeepSeek-V4-Pro**](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) (deepseek-ai | 点赞: 4,664 | 下载: 5,510,611)
+  行业标杆级的大语言模型，凭借顶级的通用能力和推理性能，持续霸榜，是当前开源社区最核心的模型基石。
+- [**stepfun-ai/Step-3.7-Flash**](https://huggingface.co/stepfun-ai/Step-3.7-Flash) (stepfun-ai | 点赞: 337 | 下载: 38,716)
+  阶跃星辰推出的轻量级推理模型，以“快”著称，在效率和性能之间取得了良好平衡，适合需要快速响应的应用场景。
+- [**openbmb/MiniCPM5-1B**](https://huggingface.co/openbmb/MiniCPM5-1B) (openbmb | 点赞: 772 | 下载: 100,575)
+  面壁智能的小参数全能模型，以1B参数实现了令人惊喜的视觉和语言能力，是端侧和资源受限场景的热门选择。
+- [**LiquidAI/LFM2.5-8B-A1B**](https://huggingface.co/LiquidAI/LiquidAI/LFM2.5-8B-A1B) (LiquidAI | 点赞: 529 | 下载: 95,440)
+  创新的液态网络架构模型（MoE），以8B总参、1B激活参数实现了卓越的效率，代表了模型架构探索的前沿方向。
+- [**sapientinc/HRM-Text-1B**](https://huggingface.co/sapientinc/HRM-Text-1B) (sapientinc | 点赞: 702 | 下载: 161,627)
+  一个专注人力资源管理的专用模型，其热度表明AI正在深入垂直行业，解决特定领域的文本生成任务。
+- [**JetBrains/Mellum2-12B-A2.5B-Thinking**](https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking) (JetBrains｜点赞: 227 | 下载: 16,395)
+  JetBrains出品的具备深度思考能力的编程助手模型，旨在提高代码生成质量和逻辑推理能力，是开发者生态的重要补强。
+- [**nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16**](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) (nvidia｜点赞: 125 | 下载: 47,285)
+  NVIDIA的旗舰级MoE语言模型，拥有550B参数，代表了开源模型的规模天花板，是企业级和高端研究场景的算力巨兽。
+- [**nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4**](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4) (nvidia｜点赞: 112 | 下载: 17,225)
+  旗舰模型的4-bit量化版本，采用NVIDIA的NVFP4格式，极大降低了超大模型的部署门槛，是硬件与模型协同优化的典范。
+
+##### 🎨 多模态与生成（图像、视频、音频、文本到X）
+
+- [**nvidia/LocateAnything-3B**](https://huggingface.co/nvidia/LocateAnything-3B) (nvidia | 点赞: 1,399 | 下载: 111,078)
+  NVIDIA推出的“万物定位”模型，能够根据文本指令在图像中框出任何目标，是视觉理解和NLP结合的强大工具。
+- [**google/gemma-4-12B-it**](https://huggingface.co/google/gemma-4-12B-it) (google | 点赞: 568 | 下载: 315,131)
+  Google最新多模态旗舰Gemma-4的指令微调版，支持“任意到任意”的多模态处理，标志着Google正式加入多模态开源竞赛。
+- [**SulphurAI/Sulphur-2-base**](https://huggingface.co/SulphurAI/Sulphur-2-base) (SulphurAI | 点赞: 1,569 | 下载: 1,704,964)
+  基于LTX-2.3视频基座模型的高质量微调版本，在视频生成质量和一致性上表现优异，热度极高。
+- [**ideogram-ai/ideogram-4-fp8**](https://huggingface.co/ideogram-ai/ideogram-4-fp8) (ideogram-ai | 点赞: 279 | 下载: 2,818)
+  业界流行的Ideogram图像生成模型的最新版，采用FP8格式优化，在画质和提示词遵循度上保持领先。
+- [**ByteDance/Bernini-R**](https://huggingface.co/ByteDance/Bernini-R) (ByteDance | 点赞: 143 | 下载: 223)
+  字节跳动发布的图像生成视频模型，展示了从静态画面到动态视频的强大生成能力，是视频生成赛道的有力竞争者。
+- [**bosonai/higgs-audio-v3-tts-4b**](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) (bosonai｜点赞: 130 | 下载: 2,184)
+  新一代文本转语音模型，参数量达4B，代表了高质量、高表现力语音合成的发展方向。
+- [**nvidia/PiD**](https://huggingface.co/nvidia/PiD) (nvidia｜点赞: 310 | 下载: 972)
+  NVIDIA推出的图像超分辨率扩散模型，专注于提升低分辨率图像的细节和质量，是计算机视觉的重要应用。
+- [**MisoLabs/MisoTTS**](https://huggingface.co/MisoLabs/MisoTTS) (MisoLabs｜点赞: 112 | 下载: 0)
+  一个全新的TTS模型，尽管下载量尚小，但获得了社区的早期关注，预示着语音合成领域可能有新的技术创新。
+- [**nvidia/Cosmos3-Nano/Super/Text2Image/Image2Video系列**](https://huggingface.co/nvidia) (nvidia)
+  NVIDIA的Cosmos3宇宙系列是本周最大的亮点之一，覆盖了从文本到图像、图像到视频、乃至全模态的生成能力，展现了NVIDIA在生成式AI领域的系统性舰队级布局。
+
+##### 🔧 专用模型（代码、数学、医疗、多模态OCR等）
+
+- [**PaddlePaddle/PaddleOCR-VL-1.6**](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6) (PaddlePaddle | 点赞: 246 | 下载: 8,365)
+  百度飞桨推出的视觉语言OCR模型，将OCR与多模态理解结合，在复杂文档处理和信息提取场景中表现出色。
+- [**nvidia/nemotron-3.5-asr-streaming-0.6b**](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b) (nvidia | 点赞: 200 | 下载: 1,380)
+  专为流式语音识别设计的轻量级ASR模型，支持低延迟的实时语音转文字，是语音交互应用的基石。
+- [**meituan-longcat/LongCat-Video-Avatar-1.5**](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5) (meituan-longcat | 点赞: 522 | 下载: 1,806)
+  美团发布了基于音频和文本驱动的数字人生成模型，体现了大厂在虚拟人、交互式AI领域的深入探索。
+
+##### 📦 微调与量化（社区微调、GGUF、AWQ）
+
+- [**HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive**](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive) (HauhauCS | 点赞: 1,461 | 下载: 2,771,843)
+  Qwen3.6的社区强力微调版，主打“无审查”和“激进”风格，巨大的下载量反映了市场对特定风格角色的旺盛需求。
+- [**unsloth/gemma-4-12b-it-GGUF**](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) (unsloth | 点赞: 389 | 下载: 458,174)
+  Unsloth对Google Gemma-4的GGUF量化版本，极大便利了个人开发者和爱好者使用llama.cpp等工具本地部署最新多模态模型。
+- [**unsloth/Qwen3.6-27B-MTP-GGUF**](https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF) (unsloth | 点赞: 667 | 下载: 1,122,805)
+  对Qwen3.6 27B MTP（Multi-Turn Preference）模型的GGUF量化版本，支持长上下文和偏好对齐，下载量持续攀升。
+- [**nvidia/Qwen3.6-35B-A3B-NVFP4**](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4) (nvidia | 点赞: 193 | 下载: 1,015,381)
+  NVIDIA对Qwen3.6 MoE模型的专用4-bit量化版，性能损失低，极大提升了该模型在NVIDIA硬件上的推理效率。
+
+#### **生态信号**
+
+本周生态呈现 **“巨头争霸、社区赋能”** 的格局。**DeepSeek-V4** 家族依旧是社区基石，但 **Qwen3.6** 正以更积极的社区传播和微调版本迅速壮大，形成了“双雄并立”的态势。**NVIDIA** 和 **Google** 的强势入场，表明开源不再是初创团队的专属，硬软件巨头正通过提供旗舰模型和量化工具来掌控生态话语权。特别值得注意的是，**视频生成**赛道从技术预热进入爆发期（Sulphur-2、Bernini-R），而Unsloth等社区团队在 **GGUF量化** 方面的持续贡献，为这些大模型在个人电脑上的部署扫清了障碍，这是开源社区活力的最直接体现。
+
+#### **值得探索**
+
+1.  **nvidia/LocateAnything-3B**：这个模型将多模态理解推向了一个新的实用高度——“指哪打哪”。它不仅仅是识别，更是空间定位，值得所有从事目标检测、机器人、自动驾驶研究的团队深入研究。
+2.  **SulphurAI/Sulphur-2-base**：如果你对视频生成感兴趣，这个模型值得一试。基于成熟的LTX-2.3底座，它的高质量微调版本可能代表了当前社区微调视频模型的最高水平之一，是快速产出高质量视频的捷径。
+3.  **HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive**：尽管有“无审查”的争议，但超过270万的下载量本身就是最有力的研究信号。它揭示了市场对于**角色扮演、创意写作**等特定风格化内容生成的真实需求，反向推动了模型对齐技术的发展。
 
 ---
-
-## 热门模型
-
-### 🧠 语言模型（LLM、对话模型、指令微调）
-
-| 模型 | 作者 | 点赞 | 下载 | 一句话说明 |
-|:---|:---|---:|---:|:---|
-| **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)** | deepseek-ai | 4,657 | 5,562,821 | 本周绝对王者，下一代 MoE 架构对话模型，以极高效率实现 Pro 级性能，下载量证明其已成为开源推理基础设施首选。 |
-| **[deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)** | deepseek-ai | 1,412 | 3,473,265 | V4 系列的极速版本，MIT 协议更开放，在延迟敏感场景与商业化部署中快速渗透。 |
-| **[google/gemma-4-12B-it](https://huggingface.co/google/gemma-4-12B-it)** | google | 545 | 142,851 | Google Gemma 4 代首个 any-to-any 统一模型，原生支持多模态输入输出，标志轻量级通用模型新范式。 |
-| **[google/gemma-4-12B](https://huggingface.co/google/gemma-4-12B)** | google | 336 | 53,525 | Gemma-4 基座版本，为社区微调和领域适配提供高质量起点。 |
-| **[LiquidAI/LFM2.5-8B-A1B](https://huggingface.co/LiquidAI/LFM2.5-8B-A1B)** | LiquidAI | 526 | 82,709 | 液态神经网络架构的 MoE 迭代，以极低激活参数实现高效推理，代表非 Transformer 路线的持续探索。 |
-| **[sapientinc/HRM-Text-1B](https://huggingface.co/sapientinc/HRM-Text-1B)** | sapientinc | 702 | 159,014 | 专注人力资源场景的 1B 级文本模型，垂直领域小模型实用性获社区认可。 |
-| **[JetBrains/Mellum2-12B-A2.5B-Thinking](https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking)** | JetBrains | 224 | 14,709 | JetBrains 推出的代码思考模型，显式推理链设计专为 IDE 智能体场景优化。 |
-| **[openbmb/MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B)** | openbmb | 770 | 91,235 | 面壁智能第五代端侧小钢炮，1B 参数挑战 7B 级性能，端侧部署性价比标杆。 |
-| **[nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16)** | nvidia | 117 | 9,125 | NVIDIA 自研 550B 总参/55B 激活的 MoE 巨兽，BF16 原生精度面向企业级训练与推理。 |
-| **[nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4)** | nvidia | 107 | 7,419 | 同上架构的 NVFP4 量化版本，NVIDIA 专有格式展示硬件-模型协同优化路径。 |
-
-### 🎨 多模态与生成（图像、视频、音频、文本到X）
-
-| 模型 | 作者 | 点赞 | 下载 | 一句话说明 |
-|:---|:---|---:|---:|:---|
-| **[nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)** | nvidia | 1,375 | 101,823 | NVIDIA 视觉定位新标杆，3B 参数实现开放词汇的任意目标定位，机器人与 AR 场景关键基础设施。 |
-| **[HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)** | HauhauCS | 1,450 | 2,687,304 | 社区去审查版 Qwen3.6 MoE，下载量爆炸反映对开放多模态能力的强烈需求，但伦理风险引关注。 |
-| **[stepfun-ai/Step-3.7-Flash](https://huggingface.co/stepfun-ai/Step-3.7-Flash)** | stepfun-ai | 332 | 27,948 | 阶跃星辰 3.7 代视觉语言模型，Flash 版本平衡速度与理解精度，国产多模态力量持续输出。 |
-| **[ideogram-ai/ideogram-4-fp8](https://huggingface.co/ideogram-ai/ideogram-4-fp8)** | ideogram-ai | 269 | 1,246 | Ideogram 4 代 FP8 精度版本，文本渲染与排版能力业界领先，设计工作流核心工具。 |
-| **[ideogram-ai/ideogram-4-nf4](https://huggingface.co/ideogram-ai/ideogram-4-nf4)** | ideogram-ai | 191 | 1,594 | 同上 NF4 量化版，更低显存门槛推动消费级图像生成普及。 |
-| **[PaddlePaddle/PaddleOCR-VL-1.6](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6)** | PaddlePaddle | 245 | 6,881 | 基于 ERNIE4.5 的 OCR 视觉语言模型，文档理解向通用视觉推理跃迁。 |
-| **[ByteDance/Bernini-R](https://huggingface.co/ByteDance/Bernini-R)** | ByteDance | 140 | 175 | 字节跳动图像到视频渲染模型，Apache 2.0 协议罕见开放，视频生成可控性新突破。 |
-| **[nvidia/PiD](https://huggingface.co/nvidia/PiD)** | nvidia | 310 | 901 | 图像超分辨率专用模型，扩散架构在像素级重建任务上的精致打磨。 |
-| **[meituan-longcat/LongCat-Video-Avatar-1.5](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5)** | meituan-longcat | 519 | 1,675 | 美团长猫团队的音频驱动视频数字人，ONNX 多端部署指向实时交互应用。 |
-| **[bosonai/higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)** | bosonai | 118 | 408 | Higgs 多模态系列的 TTS 分支，4B 参数追求合成自然度的边际提升。 |
-| **[MisoLabs/MisoTTS](https://huggingface.co/MisoLabs/MisoTTS)** | MisoLabs | 111 | 0 | 新兴 TTS 架构，零下载量或预示即将发布，值得提前关注。 |
-| **[SulphurAI/Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)** | SulphurAI | 1,565 | 1,691,633 | 本周最大黑马，基于 LTX-2.3 的文本到视频基础模型，169 万下载量证明开源视频生成进入可用时代。 |
-| **[nvidia/Cosmos3-Super-Text2Image](https://huggingface.co/nvidia/Cosmos3-Super-Text2Image)** | nvidia | 116 | 1,194 | Cosmos3 世界模型的文生图分支，世界模型统一架构的生成能力验证。 |
-| **[nvidia/Cosmos3-Super-Image2Video](https://huggingface.co/nvidia/Cosmos3-Super-Image2Video)** | nvidia | 106 | 1,076 | 同上架构的图生视频版本，物理一致性为视频生成新卖点。 |
-
-### 🔧 专用模型（代码、数学、医疗、嵌入）
-
-| 模型 | 作者 | 点赞 | 下载 | 一句话说明 |
-|:---|:---|---:|---:|:---|
-| **[nvidia/nemotron-3.5-asr-streaming-0.6b](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b)** | nvidia | 192 | 597 | NVIDIA Nemotron 语音系列，流式缓存感知 ASR，600M 参数瞄准边缘实时转写，下载量低或因企业内网部署。 |
-
-### 📦 微调与量化（社区微调、GGUF、AWQ）
-
-| 模型 | 作者 | 点赞 | 下载 | 一句话说明 |
-|:---|:---|---:|---:|:---|
-| **[unsloth/gemma-4-12b-it-GGUF](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF)** | unsloth | 374 | 296,410 | Unsloth 极速量化 Gemma-4，29.6 万下载验证其 GGUF 工具链的社区统治力。 |
-| **[nvidia/Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4)** | nvidia | 191 | 822,125 | NVIDIA 官方 NVFP4 量化 Qwen3.6 MoE，82 万下载显示硬件厂商深度绑定主流中文模型生态。 |
-| **[unsloth/Qwen3.6-27B-MTP-GGUF](https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF)** | unsloth | 665 | 1,092,323 | Unsloth 多 token 预测版 Qwen3.6 GGUF，109 万下载为本周量化类最高，MTP 技术加速推理获实证认可。 |
-
----
-
-## 生态信号
-
-**DeepSeek 与 Qwen 构成双引擎格局。** V4-Pro 的 556 万下载量不仅是数字，更标志开源模型首次在"可用性-性能-成本"三角中全维度逼近闭源旗舰。Qwen3.6 家族则通过 NVIDIA 官方量化、Unsloth 社区优化、HauhauCS 激进微调三线并进，显示中文模型已成为全球基础设施层。NVIDIA 本周 8 个上榜模型涵盖视觉定位、世界模型（Cosmos3）、语音、超分、巨型 MoE，其"全栈开源"策略意在锁定下一代 AI 工作流于自家硬件。值得警惕的是，SulphurAI 等匿名/小团队以量化+衍生模型获得超高下载，开源生态的"寄生创新"与原创激励的平衡正在重塑。
-
----
-
-## 值得探索
-
-| 模型 | 理由 |
-|:---|:---|
-| **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)** | 当前开源 LLM 的性能天花板，MoE 架构的推理成本优化已达生产就绪水平，建议对比测试其在长上下文与复杂推理任务上相对 GPT-5/Claude 4 的性价比边界。 |
-| **[nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)** | 3B 参数实现开放词汇定位，参数效率与任务通用性的新基准，机器人、AR、自动驾驶的视觉感知模块可直接集成验证。 |
-| **[SulphurAI/Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)** | 169 万下载量的视频生成模型，基于 LTX-2.3 的社区衍生能否在质量与可控性上超越基座？其爆发式增长暗示开源视频生成正跨越"玩具-工具"临界点。 |
-
----
-*本日报由 [agents-radar](https://github.com/duanyytop/agents-radar) 自动生成。*
+*本日报由 [agents-radar](https://github.com/Augustrains/agents-radar) 自动生成。*

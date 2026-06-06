@@ -1,101 +1,90 @@
 # AI Open Source Trends 2026-06-06
 
-> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-06 00:27 UTC
+> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-06 08:20 UTC
 
 ---
 
-# AI Open Source Trends Report — June 6, 2026
-
----
+# AI Open Source Trends Report — 2026-06-06
 
 ## 1. Today's Highlights
 
-The AI open-source landscape is experiencing explosive growth around **agent infrastructure and cost optimization**, with [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) gaining 1,845 stars in a single day and [chopratejas/headroom](https://github.com/chopratejas/headroom) surging 2,473 stars for its LLM context compression technology. A clear trend toward **"agent harness" systems** has emerged, with multiple projects competing to optimize, augment, and orchestrate Claude Code, Codex, Cursor, and other coding agents. Context memory and knowledge persistence is another hot front, exemplified by [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) and [MemPalace/mempalace](https://github.com/MemPalace/mempalace). Meanwhile, NVIDIA's [cosmos](https://github.com/NVIDIA/cosmos) continues to signal strong momentum behind **Physical AI** and world models for robotics and autonomous systems.
-
----
+Today's GitHub trending data reveals an extraordinary surge in **agent harness and memory infrastructure** projects, with four new agent-related repositories collectively gaining over 6,500 stars in a single day. The most significant signal is the emergence of **compression-first AI workflows** — `headroom` (2,473 today's stars) pioneers a new category of token optimization middleware that reduces LLM costs by up to 95% without answer degradation. NVIDIA's `cosmos` platform for Physical AI (479 today's stars) signals growing industrial convergence between world models and robotics. Additionally, the ecosystem is seeing rapid maturation of **cross-platform agent interoperability** standards, with `open-notebook` (1,152 today's stars) bringing NotebookLM-like capabilities to open source. The explosion of `ECC` (1,361 today's stars) and similar meta-frameworks suggests developers are actively seeking unified performance layers across multiple agent harnesses.
 
 ## 2. Top Projects by Category
 
-### 🔧 AI Infrastructure
-| Project | Stars | Why It Matters Today |
-|--------|-------|----------------------|
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 0 total / +2,473 today | Compresses tool outputs, logs, files, and RAG chunks by 60–95% tokens before they hit the LLM — a direct response to exploding context-window costs. |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32,673 total / +366 today | The frontend stack for agents and generative UI; creator of the AG-UI protocol, gaining traction as agents need standardized UI integration. |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 0 total / +309 today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services — a major platform expansion by GitHub. |
-| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 0 total / +479 today | Open platform of world models, datasets, and tools for Physical AI (robotics, AVs, smart infrastructure). |
-| [openai/plugins](https://github.com/openai/plugins) | 0 total / +49 today | Official OpenAI plugins repository, still relevant as plugin ecosystems evolve toward agents. |
-
 ### 🤖 AI Agents / Workflows
-| Project | Stars | Why It Matters Today |
-|--------|-------|----------------------|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183,105 total / +1,845 today | "The agent that grows with you" — massive star velocity signals strong community interest in adaptive personal agents. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208,351 total / +1,361 today | Agent harness performance optimization for Claude Code, Codex, Opencode, Cursor — a leading entry in the agent-augmentation race. |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 64,919 total | Nano Claude Code-like agent harness built from scratch — educational and practical for custom agent development. |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 45,077 total | Open-source super AI assistant and agent harness with memory, knowledge, and multi-channel support. |
-| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 43,734 total | Lightweight open-source agent for tools, chats, and workflows. |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 0 total / +731 today | Agent skill that researches topics across Reddit, X, YouTube, HN, Polymarket, and the web — reflects demand for grounded, real-time agent research. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 0 total / +148 today | Gives agents "eyes" across Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu with zero API fees — social/web intelligence for agents. |
-| [withastro/flue](https://github.com/withastro/flue) | 0 total / +126 today | Sandbox agent framework from Astro — signals framework players entering the agent space. |
 
-### 📦 AI Applications
-| Project | Stars | Why It Matters Today |
-|--------|-------|----------------------|
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 0 total / +1,152 today | Open-source NotebookLM alternative with more flexibility — capitalizes on Google's NotebookLM popularity. |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 46,931 total | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 24,633 total | AI-generated native PowerPoint presentations with audio narration — vertical AI for productivity. |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 48,897 total | AI-powered job search system built on Claude Code with 14 skill modes. |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 40,962 total | LLM-driven A/H/US stock analysis with multi-source data and decision dashboards. |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80,536 total / +747 today | Bridges images/PDFs to LLMs with 100+ language OCR — critical infrastructure for document AI applications. |
+| Project | Stars | Today's New | Description |
+|---------|-------|-------------|-------------|
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183,857 | +1,845 | Agent framework emphasizing personal growth and continuous learning through user interaction |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208,620 | +1,361 | Agent harness performance optimization system supporting Claude Code, Codex, Cursor, and more |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32,861 | +366 | Frontend stack for building agents with generative UI, supporting React and Angular |
+| [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | — | +326 | Windows companion suite for OpenClaw agent ecosystem with system tray and PowerToys integration |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | — | +309 | Official multi-platform SDK for integrating GitHub Copilot Agent into third-party apps |
+| [withastro/flue](https://github.com/withastro/flue) | — | +126 | Sandboxed agent framework for safe execution contexts |
+
+### 🔧 AI Infrastructure (Frameworks, SDKs, Inference)
+
+| Project | Stars | Today's New | Description |
+|---------|-------|-------------|-------------|
+| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | — | +479 | Open platform of world models, datasets and tools for Physical AI in robotics and autonomous vehicles |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80,676 | +747 | Lightweight OCR toolkit bridging images/PDFs with LLMs, supporting 100+ languages |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 82,042 | — | High-throughput LLM inference and serving engine |
+| [ollama/ollama](https://github.com/ollama/ollama) | 173,307 | — | Local LLM runtime supporting latest models including Kimi, GLM, DeepSeek, and Qwen |
+| [galilai-group/stable-pretraining](https://github.com/galilai-group/stable-pretraining) | 249 | — | Minimal and scalable library for pretraining foundation and world models |
+
+### 🔍 RAG / Knowledge (Vector Databases, Retrieval)
+
+| Project | Stars | Today's New | Description |
+|---------|-------|-------------|-------------|
+| [headroom](https://github.com/chopratejas/headroom) | — | +2,473 | Token compression library achieving 60-95% fewer tokens for RAG chunks, logs, and tool outputs |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 57,848 | — | Universal memory layer for AI agents with persistent context management |
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | — | +227 | Best-benchmarked open-source AI memory system with free tier |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80,676 | +747 | Document-to-structured-data pipeline for AI ingestion |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 32,640 | — | Reasoning-based RAG without vector embeddings |
+
+### 📦 AI Applications (Vertical Solutions)
+
+| Project | Stars | Today's New | Description |
+|---------|-------|-------------|-------------|
+| [open-notebook](https://github.com/lfnovo/open-notebook) | — | +1,152 | Open-source NotebookLM implementation with enhanced flexibility and features |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | — | +148 | CLI tool enabling agents to read and search social platforms (Twitter, Reddit, YouTube, GitHub, Bilibili) with zero API fees |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 83,236 | — | Multi-agent LLM framework for financial trading |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 68,665 | — | Financial data platform designed for AI agents and quantitative analysis |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | — | +320 | Swarm intelligence engine for universal prediction tasks |
 
 ### 🧠 LLMs / Training
-| Project | Stars | Why It Matters Today |
-|--------|-------|----------------------|
-| [ollama/ollama](https://github.com/ollama/ollama) | 173,281 total | Local inference for Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma — the default local LLM runtime. |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 161,331 total | The foundational model-definition framework across text, vision, audio, and multimodal. |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 82,020 total | High-throughput, memory-efficient LLM inference and serving engine. |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 51,186 total | Train a 64M-parameter LLM from scratch in 2 hours — democratizes LLM training education. |
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 96,723 total | Step-by-step PyTorch implementation of a ChatGPT-like LLM — enduring educational benchmark. |
-| [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7,061 total | Comprehensive LLM evaluation across 100+ datasets and major model families. |
 
-### 🔍 RAG / Knowledge
-| Project | Stars | Why It Matters Today |
-|--------|-------|----------------------|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 80,860 total | Persistent cross-session context capture and compression for Claude Code, Codex, Gemini, Hermes, Copilot, OpenCode — solves a core agent memory problem. |
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 0 total / +227 today | "Best-benchmarked open-source AI memory system" — free alternative to proprietary memory layers. |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 57,828 total | Universal memory layer for AI agents, now a category standard. |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 81,995 total | Leading open-source RAG engine fusing retrieval with agent capabilities. |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49,940 total | Leading document agent and OCR platform. |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 32,628 total | Vectorless, reasoning-based RAG document index — challenges conventional embedding-based retrieval. |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17,685 total | Memory platform for AI agents in 6 lines of code. |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 59,800 total | Turns code, schemas, docs, images, videos into queryable knowledge graphs for coding agents. |
-
----
+| Project | Stars | Today's New | Description |
+|---------|-------|-------------|-------------|
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 51,205 | — | Train a 64M-parameter LLM from scratch in 2 hours — democratizing model training |
+| [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7,061 | — | Comprehensive LLM evaluation platform supporting 100+ datasets and major models |
+| [RyanLiu112/Awesome-Process-Reward-Models](https://github.com/RyanLiu112/Awesome-Process-Reward-Models) | 161 | — | Curated collection of process reward model resources for alignment research |
+| [AIDASLab/Awesome-Diffusion-LLM](https://github.com/AIDASLab/Awesome-Diffusion-LLM) | 79 | — | Comprehensive survey of Large Language Diffusion Models research |
 
 ## 3. Trend Signal Analysis
 
-Today's data reveals three dominant signals. **First, agent harness optimization is becoming a standalone category.** Projects like [ECC](https://github.com/affaan-m/ECC), [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code), [CowAgent](https://github.com/zhayujie/CowAgent), and [nanobot](https://github.com/HKUDS/nanobot) are not building agents from scratch but rather augmenting, sandboxing, and orchestrating existing coding agents. This reflects a maturation: developers now assume base agents (Claude Code, Codex, Cursor) exist and are competing to make them more capable, secure, and efficient.
+**Explosive growth in agent performance infrastructure.** The most striking trend is the emergence of a new category: **agent harness meta-frameworks** that optimize performance across multiple agent platforms. `ECC` (1,361 today's stars) and `mvanhorn/last30days-skill` (731 stars) represent a shift from building agents to **optimizing agent execution** — skills, memory, security, and cross-platform compatibility are now first-class concerns. This signals market maturation as developers seek standardization across Claude Code, Codex, Cursor, Gemini CLI, and others.
 
-**Second, context cost compression is urgent and investable.** [headroom](https://github.com/chopratejas/headroom)'s 2,473-star day is the strongest signal, but it connects to broader memory projects ([claude-mem](https://github.com/thedotmack/claude-mem), [MemPalace](https://github.com/MemPalace/mempalace), [mem0](https://github.com/mem0ai/mem0), [cognee](https://github.com/topoteretes/cognee)) all attacking the same problem: LLM context is expensive, sessions forget, and agents need persistent, compressed, relevant memory.
+**Compression as a first-class AI primitive.** `headroom` (2,473 stars) is the day's breakout star, pioneering a new workflow: compress all inputs (logs, files, RAG chunks) before LLM processing. This addresses the growing cost crisis as agentic workloads scale, achieving 60-95% token reduction. The emergence of dedicated compression middleware suggests the AI stack is evolving beyond simple prompt engineering toward a more sophisticated data pipeline architecture.
 
-**Third, "agent skills" are replacing standalone apps.** [last30days-skill](https://github.com/mvanhorn/last30days-skill) and [Agent-Reach](https://github.com/Panniantong/Agent-Reach) are not products but modular capabilities agents can acquire. This mirrors the MCP (Model Context Protocol) momentum and suggests a shift from monolithic AI apps toward composable agent capabilities.
+**Physical AI enters open source.** NVIDIA's `cosmos` platform (479 stars) signals that world models and Physical AI are transitioning from research to developer tooling. Combined with the continued strength of robotics-focused repositories, this suggests 2026 is the year open-source AI begins bridging digital and physical domains.
 
-The timing aligns with recent releases: Claude Code's expansion, OpenAI's Codex agent, Gemini CLI, and GitHub's Copilot Agent SDK launch. The ecosystem is racing to build the middleware layer these agents need.
+**Zero-API-cost scraping for agents.** `Agent-Reach` (148 stars) exemplifies a new pattern: agents scraping public platforms without API fees. This is a direct response to API cost barriers and rate limits, particularly relevant for Chinese platforms like Bilibili and Xiaohongshu, reflecting the global nature of the AI agent ecosystem.
 
----
+**Memory infrastructure standardizes.** `MemPalace` (227 stars) and the broader mem0 ecosystem (57,848 total stars) point to memory as a standardized layer rather than per-agent custom solution. The benchmark-driven approach ("best-benchmarked") indicates this space is becoming competitive and quantifiable.
 
 ## 4. Community Hot Spots
 
-- **[chopratejas/headroom](https://github.com/chopratejas/headroom)** — Hottest star velocity today (+2,473). Token compression before LLM ingestion is a near-universal need for agent and RAG builders; likely to spawn integrations across the ecosystem.
+- **🗜️ Token compression pipelines**: `headroom` demonstrates explosive demand for cost reduction middleware. Developers should monitor this space as it becomes a critical part of the AI stack, potentially spawning ecosystem tools for prompt optimization and context window management.
 
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — Nous Research's adaptive personal agent is gaining exceptional traction (+1,845 today, 183K total). Worth watching as a potential open alternative to closed personal assistants.
+- **🤖 Cross-platform agent harnesses**: `ECC`, `iOfficeAI/AionUi`, and `santifer/career-ops` represent a movement to unify agent development across Claude Code, Codex, Gemini CLI, and Cursor. Community fragmentation is driving demand for abstraction layers — a sign of ecosystem maturation.
 
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The highest total star count in the dataset (208K) for agent harness optimization. Its multi-agent support (Claude Code, Codex, Opencode, Cursor, etc.) positions it as a category leader.
+- **📋 NotebookLM clones**: `open-notebook` (1,152 stars) validates strong community appetite for open-source alternatives to Google's NotebookLM. Expect rapid feature parity and differentiation in document analysis, multi-modal notebooks, and collaborative features.
 
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Cross-session persistent memory with compression is exactly what coding agents lack. Broad compatibility with major agents gives it strong adoption potential.
+- **🧠 Physical AI toolchains**: NVIDIA `cosmos` entering the open-source ecosystem lowers barriers for robotics and autonomous vehicle development. The intersection of world models with agent frameworks creates new opportunities for embodied AI research.
 
-- **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** — Physical AI and world models remain a distinct, high-investment frontier. NVIDIA's open platform approach could consolidate robotics/AV development tooling similar to how CUDA dominated compute.
-
----
+- **💰 Financial AI agents**: `TauricResearch/TradingAgents` (83,236 total), `OpenBB` (68,665), and `ZhuLinsen/daily_stock_analysis` (41,004) show sustained interest in multi-agent systems for trading and market analysis. This vertical application is one of the most commercially viable agent use cases.
 
 ---
-*This digest is auto-generated by [agents-radar](https://github.com/duanyytop/agents-radar).*
+*This digest is auto-generated by [agents-radar](https://github.com/Augustrains/agents-radar).*

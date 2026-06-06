@@ -1,112 +1,116 @@
 # ArXiv AI Research Digest 2026-06-06
 
-> Source: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-06-06 00:27 UTC
+> Source: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-06-06 08:20 UTC
 
 ---
 
-# ArXiv AI Research Digest — June 6, 2026
+Here is the structured ArXiv AI Research Digest for 2026-06-06.
 
 ---
 
-## 1. Today's Highlights
+### Today's Highlights
 
-Today's submissions reveal a strong push toward **efficient long-context inference** through sparse attention innovations, with multiple papers addressing the computational bottleneck of extended reasoning chains. **Agentic systems** continue maturing, with notable advances in memory architectures, formal theorem proving, and collaborative multi-agent frameworks. A significant theme is **test-time optimization over training-time metrics**—researchers are increasingly questioning whether validation loss correlates with deployment performance. The intersection of **causal reasoning and emergent behavior** appears across papers on regret minimization, causal discovery, and even consciousness research, suggesting growing interest in systems that reason about their own reasoning.
+Today's submissions reveal a strong push toward **efficiency and specialization** in both training and inference. Key themes include parameter-efficient continual learning via spectral decomposition (TailLoR), hypernetwork-generated adapters for evolving codebases (Code2LoRA), and cross-layer sparse attention to accelerate long-context decoding (You Only Index Once). In the reasoning and agent space, there is a notable shift toward **controlling output dynamics**—from speed-controllable robot policies (TempoVLA) to latent reasoning with normalizing flows for non-verbal computation. Several papers also signal a maturing field of **AI self-evolution**, with frameworks for automated ML algorithm discovery (MLEvolve) and blueprint-based formal theorem proving (Goedel-Architect) leading the charge.
+
+### Key Papers
+
+#### 🧠 Large Language Models
+
+1.  **TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning**
+    Link: http://arxiv.org/abs/2606.06494v1
+    Authors: Marius Dragoi, Ioana Pintilie, Alexandra Dragomir et al.
+    Contribution: Introduces a continual learning method that preserves the principal components of pre-trained weights by learning low-rank updates on fixed singular bases, mitigating catastrophic forgetting.
+
+2.  **Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution**
+    Link: http://arxiv.org/abs/2606.06492v1
+    Authors: Liliana Hotsko, Yinxi Li, Yuntian Deng et al.
+    Contribution: Proposes a hypernetwork that generates LoRA adapters on-the-fly for repository-level code understanding, avoiding costly per-repository fine-tuning and adapting to software evolution.
+
+3.  **You Only Index Once: Cross-Layer Sparse Attention with Shared Routing**
+    Link: http://arxiv.org/abs/2606.06467v1
+    Authors: Yutao Sun, Yanqi Zhang, Li Dong et al.
+    Contribution: Presents a cross-layer sparse attention mechanism where a single routing index is shared across layers, dramatically reducing long-context decoding costs without sacrificing quality.
+
+4.  **Latent Reasoning with Normalizing Flows**
+    Link: http://arxiv.org/abs/2606.06447v1
+    Authors: Guancheng Tu, Xiangjun Fu, Suhao Yu et al.
+    Contribution: Explores performing chain-of-thought reasoning in a continuous latent space using normalizing flows, bypassing the discrete, serial constraints of textual token generation.
+
+5.  **Self-Augmenting Retrieval for Diffusion Language Models**
+    Link: http://arxiv.org/abs/2606.06474v1
+    Authors: Paul Jünger, Justin Lovelace, Linxi Zhao et al.
+    Contribution: Shows that discarded tokens during discrete diffusion denoising can be repurposed as a dynamic retrieval corpus to improve subsequent generation steps, creating a self-augmenting loop.
+
+6.  **Pretraining Recurrent Networks without Recurrence**
+    Link: http://arxiv.org/abs/2606.06479v1
+    Authors: Akarsh Kumar, Phillip Isola
+    Contribution: Proposes a novel pretraining scheme for RNNs that replaces sequential BPTT with a parallelizable objective, enabling more efficient training and better long-range credit assignment.
+
+#### 🤖 Agents & Reasoning
+
+7.  **HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**
+    Link: http://arxiv.org/abs/2606.06493v1
+    Authors: Lizhi Yang, Junheng Li, Nehar Poddar et al.
+    Contribution: Distills multiple specialized control teachers into a single whole-body policy for humanoid robots, enabling them to execute high-level task commands directly without dense kinematic references.
+
+8.  **TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**
+    Link: http://arxiv.org/abs/2606.06491v1
+    Authors: Dong Jing, Jingchen Nie, Tianqi Zhang et al.
+    Contribution: Introduces a VLA model that can dynamically adjust execution speed (e.g., fast transit vs. slow contact) based on task context, overcoming the fixed-speed limitation of prior models.
+
+9.  **Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement**
+    Link: http://arxiv.org/abs/2606.06468v1
+    Authors: Jui-Hui Chung, Ziyang Cai, Zihao Li et al.
+    Contribution: An agentic framework for Lean 4 that generates and refines a dependency-graph "blueprint" of a theorem, automating the decomposition of complex proofs into manageable sub-lemmas.
+
+10. **MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**
+    Link: http://arxiv.org/abs/2606.06473v1
+    Authors: Shangheng Du, Xiangchao Yan, Jinxin Shi et al.
+    Contribution: An LLM agent framework that maintains a shared memory across independent search branches, enabling sustained, self-evolving discovery of new machine learning algorithms.
+
+#### 🔧 Methods & Frameworks
+
+11. **In-Context Multiple Instance Learning**
+    Link: http://arxiv.org/abs/2606.06458v1
+    Authors: Alexander Möllers, Marvin Sextro, Julius Hense et al.
+    Contribution: Adapts the multiple instance learning paradigm to in-context learning in LLMs, allowing models to perform bag-level classification (e.g., pathology slides) without task-specific fine-tuning.
+
+12. **PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training**
+    Link: http://arxiv.org/abs/2606.06470v1
+    Authors: Senmiao Wang, Tiantian Fang, Haoran Zhang et al.
+    Contribution: Proposes a simple, plug-in weight parameterization that reshapes the singular-value spectrum of LLM weights, stabilizing training and improving convergence.
+
+13. **Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents**
+    Link: http://arxiv.org/abs/2606.06453v1
+    Authors: Zhuoming Chen, Xinrui Zhong, Qilong Feng et al.
+    Contribution: A system-level framework for serving LLMs with programmable sparse attention patterns, significantly reducing the engineering overhead of deploying novel attention mechanisms.
+
+14. **Conformal Risk Sharing: Certified Cost Allocation with Participation Guarantees**
+    Link: http://arxiv.org/abs/2606.06391v1
+    Authors: Ieva Kazlauskaitė
+    Contribution: Applies conformal prediction to the problem of risk pooling, providing each participant with a statistically rigorous, finite-sample guarantee on their maximum financial liability.
+
+#### 📊 Applications
+
+15. **RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation**
+    Link: http://arxiv.org/abs/2606.06423v1
+    Authors: Qi Lan, Yining Tang, Yu Shen et al.
+    Contribution: A diffusion-based method for generating realistic safety-critical traffic scenarios that is orders of magnitude faster than prior work, enabling more efficient autonomous driving validation.
+
+### Research Trend Signal
+
+A clear emerging trend visible today is the **convergence of agentic and system-level thinking**. Papers like *Vortex* and *Agent Memory* explicitly characterize the system implications of modern LLM agents—treating memory management, sparse attention serving, and stateful workloads as first-class research problems rather than afterthoughts. This signals a maturation of the field: as agents move from demos to deployment, optimizing the *infrastructure* they run on is becoming as important as the models themselves. Another strong signal is the rise of **"working backward" from the final deployment metric**. *Double Preconditioning (DoPr)*, for example, optimizes for test-time rollout performance rather than validation loss, while *TailLoR* and *PC Layer* target training stability and inference quality directly. This shift from chasing benchmarks to optimizing for end-to-end behavior is a promising indicator of practical, robust AI progress.
+
+### Worth Deep Reading
+
+1.  **TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning** (http://arxiv.org/abs/2606.06494v1)
+    *Reasoning:* Addresses a fundamental tension in continual learning—how to update a model without destroying its core capabilities. The spectral approach is principled and has clear implications for lifelong model deployment.
+
+2.  **Latent Reasoning with Normalizing Flows** (http://arxiv.org/abs/2606.06447v1)
+    *Reasoning:* Challenges a core assumption of modern LLMs (that reasoning must be textual and sequential). If successful, this line of work could unlock fundamentally more efficient and parallelizable reasoning architectures.
+
+3.  **The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning** (http://arxiv.org/abs/2606.06397v1)
+    *Reasoning:* A meta-critical paper that exposes a systematic bias in graph learning evaluation. By arguing that flat leaderboards obscure geometry-dependent performance, it provides a necessary corrective for the entire field of relational learning.
 
 ---
-
-## 2. Key Papers
-
-### 🧠 Large Language Models
-
-**[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)**
-- Dragoi, Pintilie, Dragomir et al.
-- Protects spectral components during continual learning by fixing singular bases U/V and learning only low-rank updates—enabling stable knowledge accumulation without catastrophic forgetting.
-
-**[PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training](http://arxiv.org/abs/2606.06470v1)**
-- Wang, Fang, Zhang et al.
-- Introduces polynomial preconditioning layers that stabilize weight conditioning throughout training via low-degree spectral reshaping, then collapses to identity for zero inference overhead.
-
-**[You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](http://arxiv.org/abs/2606.06467v1)**
-- Sun, Zhang, Dong et al.
-- Enables efficient long-context inference by sharing sparse attention routing decisions across layers, reducing the memory-computation overhead that plagues reasoning-heavy generation.
-
-**[Self-Augmenting Retrieval for Diffusion Language Models](http://arxiv.org/abs/2606.06474v1)**
-- Jünger, Lovelace, Zhao et al.
-- Recycles discarded tokens from intermediate denoising steps as retrieval-augmented context, turning diffusion LM "failures" into useful signals for improved generation.
-
----
-
-### 🤖 Agents & Reasoning
-
-**[Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement](http://arxiv.org/abs/2606.06468v1)**
-- Chung, Cai, Li et al.
-- Structures formal proof search through auto-generated dependency graphs (blueprints) of lemmas and definitions, making theorem proving more systematic and verifiable in Lean 4.
-
-**[Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](http://arxiv.org/abs/2606.06448v1)**
-- Omri, Gan, Broveak et al.
-- First systematic characterization of agent memory access patterns across diverse frameworks, revealing critical system bottlenecks for persistent, cross-session agent state.
-
-**[RREDCoT: Segment-Level Reward Redistribution for Reasoning Models](http://arxiv.org/abs/2606.06475v1)**
-- Ielanskyi, Schweighofer, Aichberger et al.
-- Solves credit assignment in chain-of-thought RL by redistributing terminal rewards to intermediate reasoning segments, improving training signal for multi-step reasoning.
-
-**[CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents](http://arxiv.org/abs/2606.06399v1)**
-- Chen, Sun, Lu et al.
-- Applies computer-supported cooperative work principles to diagnose why multi-agent systems fail—finding coordination, not individual capability, as the critical bottleneck.
-
----
-
-### 🔧 Methods & Frameworks
-
-**[Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss](http://arxiv.org/abs/2606.06418v1)**
-- T.T. Zhang, Shah, Y. Zhang et al.
-- Directly optimizes for autoregressive rollout quality rather than single-step prediction loss, addressing a fundamental mismatch between how we train and deploy sequence models.
-
-**[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](http://arxiv.org/abs/2606.06453v1)**
-- Chen, Zhong, Feng et al.
-- Provides a programmable serving system that lowers the engineering barrier for deploying experimental sparse attention algorithms, accelerating both human and agent-driven research.
-
-**[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](http://arxiv.org/abs/2606.06473v1)**
-- Du, Yan, Shi et al.
-- Enables sustained self-improvement in ML engineering agents through cross-branch memory sharing and evolutionary search, addressing information isolation in prior AutoML systems.
-
-**[Benchmark Everything Everywhere All at Once](http://arxiv.org/abs/2606.06462v1)**
-- Xiong, Wu, Sun et al.
-- Proposes a sustainable, composable benchmark construction methodology to combat the rapid obsolescence and labor intensity of current LLM/MLLM evaluation practices.
-
----
-
-### 📊 Applications
-
-**[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](http://arxiv.org/abs/2606.06491v1)**
-- Jing, Nie, Zhang et al.
-- First VLA model with variable execution speed, enabling fast transit motions and slow precise contact phases—critical for real-world robot deployment safety and efficiency.
-
-**[A Vision-language Framework for Comparative Reasoning in Radiology](http://arxiv.org/abs/2606.06407v1)**
-- T. Zhang, Zhao, Dai et al.
-- Aligns AI with actual radiological practice by enabling comparison across prior studies and reference cases, rather than isolated image interpretation.
-
-**[RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation](http://arxiv.org/abs/2606.06423v1)**
-- Lan, Tang, Shen et al.
-- Accelerates diffusion-based scenario generation 10× while preserving physical fidelity, enabling practical autonomous vehicle safety validation at scale.
-
----
-
-## 3. Research Trend Signal
-
-A clear inflection point is emerging around **"deployment-aware optimization"**—researchers are explicitly questioning whether our training paradigms serve actual use cases. The DoPr paper's focus on test-time rollout performance over validation loss, TempoVLA's variable-speed execution, and TailLoR's preservation of spectral structure for continual deployment all reflect this shift. Simultaneously, **agent infrastructure** is receiving overdue systems attention: memory characterization, sparse attention serving, and benchmark sustainability suggest the field is maturing from proof-of-concept to production engineering. Notably, **formal methods and causal reasoning** are converging—Goedel-Architect's structured proof search and the entropic causal atlas paper both emphasize interpretable, verifiable structure over black-box performance. The consciousness paper, while speculative, signals growing willingness to engage with foundational questions as systems become more capable. Finally, **multimodal medical AI** continues advancing toward clinical realism with comparative radiology reasoning, moving beyond single-image leaderboard optimization.
-
----
-
-## 4. Worth Deep Reading
-
-**[Double Preconditioning (DoPr)](http://arxiv.org/abs/2606.06418v1)** — This paper identifies and addresses a fundamental methodological flaw: we train models on single-step losses but deploy them on autoregressive rollouts. The proposed double preconditioning approach could reshape optimization practices across language modeling, flow-based generation, and model-based RL. Its implications extend to any domain where training and inference dynamics diverge.
-
-**[Agent Memory: Characterization and System Implications](http://arxiv.org/abs/2606.06448v1)** — As agents transition from demos to persistent systems, memory architecture becomes the critical path. This paper's empirical characterization of access patterns across real frameworks provides essential grounding for systems research that has been largely ad hoc. Essential reading for anyone building production agent infrastructure.
-
-**[Goedel-Architect](http://arxiv.org/abs/2606.06468v1)** — Formal theorem proving represents a high-stakes domain where correctness matters more than performance metrics. The blueprint abstraction offers a generalizable paradigm for structured reasoning: explicit dependency graphs, intermediate verification, and iterative refinement. This approach may transfer to other complex reasoning tasks requiring guaranteed correctness.
-
----
-
----
-*This digest is auto-generated by [agents-radar](https://github.com/duanyytop/agents-radar).*
+*This digest is auto-generated by [agents-radar](https://github.com/Augustrains/agents-radar).*

@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.168 发布，Opus 4.8 模型回归引争议",
+      "OpenAI Codex 新版本泄露额度被动消耗问题",
+      "Gemini CLI 子代理逻辑错误致通用代理挂起",
+      "GitHub Copilot CLI 在 WSL2 环境出现性能回归",
+      "Qwen Code v0.17.1-nightly 修复会话 OOM 崩溃",
+      "DeepSeek TUI 进入 v0.9.0 发布冲刺验收阶段"
+    ],
+    "ai-agents": [
+      "OpenClaw 围绕 v2026.6.x 系列回归问题集中爆发",
+      "修复 CLI 配置向导中 Gateway token 明文回显",
+      "OpenAI/ChatGPT 传输层出现严重 Bug",
+      "新增 macOS 实时中继模式原型支持",
+      "深度求索缓存失效问题引发社区热议",
+      "Cron 触发器可靠性遭大量用户投诉"
+    ],
+    "ai-trending": [
+      "Agent-Reach 单日增长 683 星，赋予 AI 眼睛",
+      "last30days-skill 助 Agent 跨平台调研社交平台",
+      "vllm 持续霸榜，成 LLM 部署行业标准",
+      "Scrapegraph-ai 用 LLM 实现智能网页爬虫",
+      "firecrawl 专为 Agent 设计，获 129k 星",
+      "atomic-agents 倡导模块化 Agent 开发理念"
+    ],
+    "ai-hn": [
+      "OpenAI 推出锁定模式防御提示注入攻击",
+      "标普 500 拒绝 OpenAI 和 Anthropic 上市",
+      "Anthropic 让 Claude 化身化学研究员",
+      "Gwern 发文探讨类人神经网络弹射方法",
+      "AI 是最大骗局？HN 社区爆发激烈论战",
+      "Claude 会话与 Git 分支结合工具亮相"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 以 4681 赞登顶本周最热模型",
+      "NVIDIA LocateAnything-3B 可精准定位图像目标",
+      "Google Gemma-4-12B 全能多模态模型霸榜",
+      "LiquidAI 推 1B 活跃参数的 MoE 高效模型",
+      "阶跃星辰 Step-3.7-Flash 视觉语言模型上榜",
+      "MiniCPM5-1B 小模型受资源受限设备追捧"
+    ],
+    "ai-community": [
+      "AI 废料代码治理引发开发者热议",
+      "碳感知调度 GPU 降低训练碳足迹指南",
+      "斯坦福 51 次部署揭示人机协作悖论",
+      "Agentsync 将 AI Agent 配置纳入 Git 版本管理",
+      "Reddit 旧帖被高价买走训练 AI 引隐私担忧",
+      "人机协作效率评估务实框架获赞"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.168 shipped",
+      "MCP convergence across all major tools",
+      "Windows stability frustrates community",
+      "OpenCode adds multi-agent orchestration",
+      "Pi introduces daemon/server APIs",
+      "Cost transparency is a major gap"
+    ],
+    "ai-agents": [
+      "OpenClaw releases two beta versions",
+      "400 open PRs signal stability focus",
+      "QQBot fix prevents thinking leak",
+      "MCP tool results now handle images",
+      "301 issues updated in 24 hours",
+      "Platinum hermit bugs demand attention"
+    ],
+    "ai-trending": [
+      "Last30Days skill hits 439 daily stars",
+      "Agent-Reach offers zero-fee web access",
+      "CopilotKit crosses 33K total stars",
+      "Superpowers framework gains 700 daily stars",
+      "Career-Ops job system at 49K stars",
+      "VibeVoice marks Microsoft's voice AI push"
+    ],
+    "ai-hn": [
+      "S&P 500 rejects SpaceX and OpenAI",
+      "Meta Instagram hack abuses AI chatbot",
+      "Ask HN debates community's AI bias",
+      "OpenAI unveils Lockdown Mode",
+      "Claude fine-tuned for chemistry research",
+      "Gwern analyzes LLM catapult phenomenon"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro reaches 5.5M downloads",
+      "DeepSeek-V4-Flash hits 3.4M downloads",
+      "NVIDIA releases LocateAnything-3B",
+      "Uncensored MoE models dominate community",
+      "HRM-Text-1B gains traction for enterprise",
+      "LiquidAI's LFM2.5-8B-A1B trending"
+    ],
+    "ai-community": [
+      "AI slop causes production-breaking bugs",
+      "New aislop tool gates AI-written code",
+      "Token optimization cuts usage by 60-90%",
+      "AI worms spread between agents",
+      "LLMs transmit traits via hidden data",
+      "Agent demos vs production gap widens"
+    ]
+  }
+}

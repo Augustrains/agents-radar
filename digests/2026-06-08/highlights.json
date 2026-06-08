@@ -1,0 +1,94 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 计费 Bug 引爆社区舆论,1476条评论沸腾",
+      "OpenAI Codex 10+ PR,性能与兼容性成核心议题",
+      "OpenCode 2242号Issue要求Agent文件系统隔离",
+      "DeepSeek TUI v0.9.0预备,解决成本与性能痛点",
+      "Pi 5447号Issue聚焦终端命令权限安全限制",
+      "Qwen Code 发布nightly版本推进协议标准"
+    ],
+    "ai-agents": [
+      "292条Issue和500条PR,项目迭代进入快车道",
+      "PR #91288修复minSecurity安全等级反向逻辑错误",
+      "PR #91299为深度记忆增加DREAMS.md文件支持",
+      "PR #91235修复Codex子代理无输出回归问题",
+      "Telegram用户\"⚠️ Something went wrong\"错误已修复",
+      "Discord执行审批卡片不显示问题被解决"
+    ],
+    "ai-trending": [
+      "NousResearch/hermes-agent暴涨1112星,自适应智能体爆火",
+      "mvanhorn/last30days-skill日增1111星,Agent跨平台研究新范式",
+      "RyanCodrai/turbovec日增1554星,Rust极速向量索引",
+      "aaif-goose/goose日增322星,超越代码生成的AI平台",
+      "jackwener/OpenCLI让Agent像操作命令行一样操作网页",
+      "ggml-org/llama.cpp持续热门,本地推理首选框架"
+    ],
+    "ai-hn": [
+      "249分项目Lathe:用LLM辅助学习而非替代学习",
+      "Claude Desktop for Linux缺失引发社区集体请愿",
+      "102分论文反驳随意赋予LLM人格的拟人化误区",
+      "Nightwatch开源只读AI SRE获开发者追捧",
+      "开发者分享让Claude Code效率提升40%的实战经验",
+      "AI公司收入与成本严重倒挂引行业泡沫辩论"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro登顶,点赞4697下载超550万",
+      "NVIDIA Nemotron-3 Ultra 550B参数刷新开源规模上限",
+      "JetBrains Mellum2-12B-A2.5B-Thinking瞄准代码推理",
+      "sapientinc HRM-Text-1B证明垂直领域小模型需求",
+      "Ideaogram-4图像生成和Sulphur-2视频生成爆发",
+      "Qwen3.6系列量化微调版本社区适配热度高"
+    ],
+    "ai-community": [
+      "VP鼓吹AI自测试,第三天烧掉280万美元",
+      "1986年老程序员冷静剖析AI 8倍生产力神话",
+      "Agent安全需要'停止标志'而非仅靠指令",
+      "多Agent工作流执行安全危机架构方案出炉",
+      "LLM幻觉检测不是模型问题而是基础设施问题",
+      "FinOps视角:多数团队不知AI成本花在哪个项目"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code issue #16157 hits 1,476 comments",
+      "OpenAI Codex gets 510 👍 for Linux desktop",
+      "Gemini CLI, Qwen Code close feature gaps",
+      "Session reliability and billing top concerns",
+      "Windows/Linux users report worse experiences",
+      "ACP/MCP protocol standardization gains traction"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 PRs in 24 hours",
+      "160 PRs merged today, highest in months",
+      "Message loss bugs plague Telegram, Slack",
+      "Session-state contamination from cron triggers",
+      "High-priority security regressions fixed",
+      "Team consolidating fixes for planned release"
+    ],
+    "ai-trending": [
+      "turbovec gains 1,554 stars in one day",
+      "NousResearch/hermes-agent hits +1,112 stars",
+      "open-notebook adds 554 stars as NotebookLM alt",
+      "goose, Rust AI agent, gains 322 stars",
+      "Microsoft pg_durable hits +316 for AI workflows",
+      "llama.cpp continues steady growth at +158"
+    ],
+    "ai-hn": [
+      "462 score: Linux Claude Desktop demand erupts",
+      "Jane Street: 'I design with Claude more than Figma'",
+      "Anthropic, OpenAI operating at massive loss",
+      "Water consumption of data centers sparks outrage",
+      "AI self-testing cost $2.8M in one day",
+      "DeepSeek V4-Pro dominates with 5.5M downloads"
+    ],
+    "ai-community": [
+      "AI self-testing cost $2.8M in one day",
+      "8x productivity myth debunked by veteran",
+      "Agent safety needs hard stop signs",
+      "Audit trails aren't evidence without verification",
+      "FinOps for LLMs emerges as key topic",
+      "Satirical AI paper compares to Age of Empires"
+    ]
+  }
+}

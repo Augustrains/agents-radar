@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.169 发布，聚焦成本控制",
+      "OpenAI Codex v0.138.0 发布但模型故障引焦虑",
+      "Gemini CLI v0.47.0每晚更新，稳定性成痛点",
+      "Kimi Code CLI 项目重写，社区陷入困惑",
+      "Qwen Code 内存泄漏与 ACP 协议补全受关注",
+      "DeepSeek TUI v0.8.55 发布，性能问题突出"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.5-beta.5 发布，修复QQBot漏洞",
+      "高优先级Bug积压严重，威胁生产环境",
+      "性能优化：定时任务模型回退配置修复",
+      "MCP工具结果类型强制，增强多媒体处理",
+      "控制UI启动速度提升30倍",
+      "Diamond Lobster级别Bug仍开放，涉安全与消息丢失"
+    ],
+    "ai-trending": [
+      "turbovec 向量索引库今日暴涨1729星",
+      "last30days-skill 一夜斩获3558星，Agent技能爆火",
+      "Google 官方推出 Agent 技能集，生态获巨头背书",
+      "goose 用 Rust 编写，Agent 从代码助手进化为全能执行者",
+      "Roboflow supervision 视觉库今日新增1288星",
+      "MemPalace 为 Agent 提供持久化长期记忆"
+    ],
+    "ai-web": [
+      "Anthropic 研究：生物数据基础设施对AI主体不友好",
+      "确定性检索层可将生物任务准确率提至近100%",
+      "OpenAI 提交机密S-1文件，暗示IPO进程",
+      "OpenAI 发布'造福所有人的计划'战略宣言",
+      "Anthropic 提出Agent需'确定性工具'而非自然语言推理",
+      "两家公司从模型能力转向可靠应用生态构建"
+    ],
+    "ai-hn": [
+      "OpenAI 秘密提交S-1文件，IPO信号引社区热议",
+      "ChatGPT 大改版计划让 HN 用户惊呼'Chat 消亡'",
+      "Rayline 智能路由 Claude Code 子代理到更便宜模型",
+      "Anthropic 预告明日发布 Claude Fable 5 新模型",
+      "Apple 低调发布第三代基础模型，关注边缘AI",
+      "Meta 智能眼镜人脸识别功能因安全争议下架"
+    ],
+    "ai-arxiv": [
+      "EinSort：排序张量化，高效压缩大语言模型",
+      "PAEC 位置感知熵校准，解决推理策略崩溃",
+      "AgentTrust 为AI行为构建威胁分类信任层",
+      "结构化无知证书让模型区分'无知'与'错误'",
+      "多语言谄媚研究：安全对齐在非英语中显著退化",
+      "可逆潜在变换控制LLM行为，超越线性激活操控"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 下载量近540万，统治开源大模型",
+      "NVIDIA LocateAnything-3B 成黑马，万物定位新范式",
+      "JetBrains Mellum2-12B 专注编程推理，代码助手升级",
+      "LiquidAI LFM2.5-8B-A1B 仅激活1B参数达卓越性能",
+      "NVIDIA Nemotron-3 550B参数，刷新开源规模上限",
+      "Sulphur-2 视频生成模型增长迅猛，预示技术爆发"
+    ],
+    "ai-community": [
+      "故事：12年经验被封装成AI技能后，员工被裁",
+      "提示工程已死，系统工程是AI开发未来范式",
+      "你的AI Agent 易被反向图灵测试利用，安全敲警钟",
+      "9家无服务器GPU提供商实测对比，冷启动与定价",
+      "对抗性评估框架攻击5个LLM，全部失败",
+      "AI知识提取冲击工程师职业安全引反思"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "8 major tools evolving rapidly",
+      "Claude Code v2.1.169 released today",
+      "OpenAI Codex rust-v0.138.0 out",
+      "ACP support key differentiator",
+      "Agent cost control top community pain",
+      "TypeScript/Go/Rust rewrite trend"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 470 PRs today",
+      "Two beta releases shipped today",
+      "QQBot now strips thinking scaffolding",
+      "MCP tool results coerced for safety",
+      "Heavy backlog of 443 open issues",
+      "137 PRs merged/closed today"
+    ],
+    "ai-trending": [
+      "Agentic explosion dominates trending",
+      "mvanhorn/last30days-skill: 3,558 stars",
+      "Google/skills enters agent skill space",
+      "turbovec: 1,729 stars Rust-native vector",
+      "vllm hits 82,255 stars",
+      "ollama reaches 173,628 stars"
+    ],
+    "ai-web": [
+      "Anthropic: agent-friendly biology infra",
+      "OpenAI S-1 filing signals IPO readiness",
+      "Claude fails on legacy bio databases",
+      "Deterministic retrieval layer needed",
+      "OpenAI publishes corporate reorganization",
+      "Sharp strategic divergence between labs"
+    ],
+    "ai-hn": [
+      "OpenAI S-1 filing dominates front page",
+      "Community divided on IPO shift",
+      "Anthropic studies N-day exploit impact",
+      "Apple updates on-device foundation models",
+      "Microsoft hacked targeting Claude users",
+      "Backlash against AI slop grows"
+    ],
+    "ai-arxiv": [
+      "Focus on interpretability and safety",
+      "Sycophancy as multilingual alignment failure",
+      "Structured ignorance certificates introduced",
+      "Finite-sample certificate for selective prediction",
+      "Provably lossless data pruning framework",
+      "Threat-aware trust layer for agents"
+    ],
+    "ai-hf": [
+      "Gemma-4 family surges in trending",
+      "DeepSeek-V4-Pro top at 4,722 likes",
+      "DeepSeek-V4-Flash: 3.3M downloads",
+      "Quantization variants dominate community",
+      "New video generation model Sulphur-2-base",
+      "Enterprise TTS model bosonai/higgs-audio"
+    ],
+    "ai-community": [
+      "Laid-off engineer's AI skill crashed",
+      "Prompt engineering dead, system eng future",
+      "12 years experience packaged into AI",
+      "GPU pricing and memory vulnerabilities",
+      "Agent reliability doubts dominate",
+      "Structured output optimization trending"
+    ]
+  }
+}

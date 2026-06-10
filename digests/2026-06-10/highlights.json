@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.170 适配 Fable 5 模型，社区热议安全误报",
+      "OpenAI Codex 发布 rust-v0.139.0，仍存数据丢失长期问题",
+      "Gemini CLI 连发 v0.46.0 和 v0.47.0-preview，修复 4 个 P1 问题",
+      "Pi 发布 v0.79.1，加入多模型支持适配浪潮",
+      "Qwen Code v0.18.0-preview 发布，跟进新模型适配",
+      "DeepSeek TUI v0.8.55 发布，社区关注稳定性与上下文管理"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.5，修复 QQ 机器人消息泄露问题",
+      "MCP 工具结果格式化增强，强制转换资源类型修复异常",
+      "PR #91801 修复会话挂起恢复，释放被中止会话通道",
+      "PR #91803 为 iMessage 频道增加远程媒体暂存功能",
+      "过去 24 小时合并关闭 137 个 PR，社区产出极高",
+      "仍有大量高优先级议题等待核心团队决策或审查"
+    ],
+    "ai-trending": [
+      "mvanhorn/last30days-skill 今日爆涨 3191 star，跨平台研究技能",
+      "RyanCodrai/turbovec 获 1801 star，Rust 高性能向量索引库",
+      "santifer/career-ops 获 1110 star，Claude Code 求职自动化系统",
+      "addyosmani/agent-skills 获 443 star，生产级工程技能仓库",
+      "aaif-goose/goose 获 489 star，支持任意 LLM 的通用 Agent",
+      "Andyyyy64/whichllm 获 633 star，自动检测本地最佳模型"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude Fable 5，能力超越所有通用模型",
+      "Fable 5 引入\"安全闸门\"机制，高风险查询降级给 Opus 4.8",
+      "Mythos 5 面向网络安全防御者，通过 Project Glasswing 提供",
+      "研究博文指出数据基础设施是生物学 Agent 落地的瓶颈",
+      "确定性检索层被证明是构建可靠科研 Agent 的关键",
+      "OpenAI 官网今日无新增内容，保持沉默"
+    ],
+    "ai-hn": [
+      "Claude Fable 5 获 1799 分 1412 评论，聚焦安全与欺骗争议",
+      "系统安全卡发布获 211 分，深入分析模型风险行为",
+      "FPGA 上的 KAN 网络加速获 158 分，社区兴趣浓厚",
+      "Deno 团队推出 Claw Patrol，AI Agent 防火墙安全工具",
+      "Agent-pd 审计日志工具专门捕捉恶意 Claude 子 Agent",
+      "德国判决与美国行政令引发 AI 法律与监管热议"
+    ],
+    "ai-arxiv": [
+      "记忆增强模型会放大 LLM 谄媚行为，长期记忆存安全隐患",
+      "前沿编码 Agent 使用元编程自适应不熟悉的编程语言",
+      "Moonshine Agent 自主生成数学猜想，从解题者变发现者",
+      "单样本有毒数据即可通过 GRPO 破坏 LLM 安全护栏",
+      "Gravity-Weighted DPO 教 LLM 区分不同信任级别指令",
+      "参考音频训练意外提升对深度伪造语音的检测能力"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 断层领先，获 4740 赞与 430 万下载",
+      "NVIDIA Nemotron-3 Ultra 550B 超大 MoE 模型发布",
+      "LiquidAI LFM2.5-8B-A1B 仅激活 1B 参数兼顾效果效率",
+      "JetBrains Mellum2-12B-A2.5B 思考型 MoE 优化代码推理",
+      "Cohere 发布 North-Mini-Code-1.0 企业级代码助手",
+      "Google Gemma 4 系列多模态模型拓宽 AI 能力边界"
+    ],
+    "ai-community": [
+      "Dev.to 热议提示词不是技能，挑战行业过度神化倾向",
+      "《多 Agent 故障模式实地指南》系统梳理典型失败模式",
+      "结构化输出相比 JSON 模式可节省 30-50% Token 成本",
+      "Lobste.rs 报告开源模型 Nex-N2-Pro 达 GPT-5.5 级别",
+      "AI 代理持久化记忆架构与信任层缺失成共同关注",
+      "停止向 Agent 投喂原始数据，Dev.to 文章获 7 赞热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.170 with Fable 5",
+      "OpenAI Codex safety false positives",
+      "Gemini CLI multi-agent orchestration",
+      "Qwen Code token efficiency gains",
+      "Kimi Code CLI emerging tier",
+      "Claude Code diffusion effect pattern"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.5 stable released",
+      "452 issues, 492 PRs in 24 hours",
+      "Critical QQ Bot fix for thinking tags",
+      "Session state management regressions",
+      "Message loss across Discord, Telegram",
+      "Rapid release cycle for stability hotfixes"
+    ],
+    "ai-trending": [
+      "turbovec gains 1,801 stars today",
+      "Claude Code skill ecosystems explode",
+      "Ollama now supports Kimi-K2.6",
+      "local-first AI tooling surges",
+      "memory infrastructure maturing fast",
+      "vectorless RAG attracts community"
+    ],
+    "ai-web": [
+      "Claude Fable 5 launches as Mythos-class",
+      "Fallback safety routes to Opus 4.8",
+      "Claude Mythos 5 for elite cyberdefense",
+      "Agent-friendly bio data infrastructure",
+      "OpenAI had no new articles today",
+      "Project Glasswing tiered-access architecture"
+    ],
+    "ai-hn": [
+      "Claude Fable 5 draws 1,799 points",
+      "1,412 comments debate safety assurances",
+      "Fable 5 may undermine competitor tasks",
+      "German ruling holds Google liable",
+      "Ottawa proposes AI age restrictions",
+      "Ultrafast ML on FPGAs via KAN"
+    ],
+    "ai-arxiv": [
+      "Memory systems amplify sycophancy",
+      "One-shot GRPO breaks LLM alignment",
+      "Moonshine autonomous math research agent",
+      "Multi-token decoding with K-Forcing",
+      "Conservation laws for neural dynamics",
+      "Step-level verification for math proofs"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro tops with 4,740 likes",
+      "Gemma 4 family dominates trending",
+      "NVIDIA Nemotron 550B MoE model",
+      "JetBrains Mellum2 thinking model trending",
+      "Cohere North-Mini-Code 1.0 trending",
+      "Quantized GGUF models see massive downloads"
+    ],
+    "ai-community": [
+      "Prompt writing is not a skill",
+      "AI now a structural hiring layer",
+      "Reasoning loops are not the product",
+      "Stop feeding agents raw data",
+      "Game AI analogy for LLMs debated",
+      "Hosting costs from bot traffic rise"
+    ]
+  }
+}

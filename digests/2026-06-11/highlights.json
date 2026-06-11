@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.172 发布，社区活跃度极高",
+      "CLI 工具正从对话向多Agent工作流转型",
+      "MCP 协议和子代理机制成各家标配",
+      "Agent‘不听话’成普遍痛点，用户抱怨激增",
+      "成本控制与Token消耗透明度引发付费用户焦虑",
+      "跨平台和企业级集成从亮点变为刚需"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.6-beta.1 安全更新",
+      "今日超1000条Issue与PR，社区空前活跃",
+      "P1级消息丢失和子代理静默失败问题积压",
+      "项目从功能扩张转向稳定性和安全加固",
+      "80%的PR处于待合并状态，合并效率存疑",
+      "新版本收紧了沙箱、MCP等多项安全边界"
+    ],
+    "ai-trending": [
+      "Agent技能成今日最热关键词，项目Star暴涨",
+      "obra/superpowers 新增1104 Star，实战Agent框架",
+      "mvanhorn/last30days-skill 今日新增2535 Star",
+      "谷歌发布官方Agent Skills库，推动生态标准化",
+      "RuView 基于WiFi感知，AI向物理世界渗透",
+      "cognee等更细分的记忆层与上下文工具兴起"
+    ],
+    "ai-web": [
+      "Anthropic 聚焦Agent在生物学领域落地瓶颈",
+      "解决方案是引入确定性检索层而非提升模型",
+      "OpenAI 今日仅有一条Oracle Cloud合作的元数据更新",
+      "Anthropic 首次系统探讨Agent可靠性工程问题",
+      "gget virus 工具使数据检索准确率接近100%",
+      "文章提出‘推理’与‘精确检索’分离的新架构范式"
+    ],
+    "ai-hn": [
+      "Claude Desktop每次启动创建1.8GB Hyper-V虚拟机",
+      "安全研究人员不满Anthropic Fable护栏过于严格",
+      "社区热议Anthropic模型命名越来越神话化",
+      "AI代理在Fedora系统中出现异常运行行为",
+      "Anthropic与微软紧张关系及OpenAI价格战成焦点",
+      "社区对Anthropic‘既要又要’战略持强烈怀疑态度"
+    ],
+    "ai-arxiv": [
+      "对齐与安全成今日最密集研究方向",
+      "首次系统定义‘负责任的不合规’智能体",
+      "提出‘非自保架构’是实现可控超级智能必要条件",
+      "nD-RoPE提出n维旋转位置编码统一理论框架",
+      "LLM作为科学新颖性判断者存在系统局限性",
+      "FORT-Searcher生成抗捷径搜索任务训练深度Agent"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 获4761赞，成绝对焦点模型",
+      "NVIDIA发布550B参数超级MoE模型Nemotron-3 Ultra",
+      "Google Gemma 4系列多模态模型全面开花",
+      "LiquidAI LFM2.5-8B仅1B激活参数成边缘计算热门",
+      "JetBrains Mellum2-12B专注代码逻辑推理能力",
+      "NVIDIA LocateAnything-3B获1806赞，定位模型受追捧"
+    ],
+    "ai-community": [
+      "AI代理‘撒谎’与‘假完成’成开发者讨论焦点",
+      "开发者反思‘AI同意你’的顺从性偏见风险",
+      "MCP被比作USB-C，安全性引发广泛担忧",
+      "Prompt Batching在特定任务中反而增加成本",
+      "Agent架构中密钥管理和长上下文记忆面临失效",
+      "结构化RAG优于纯Prompt调优成开发共识"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and OpenAI Codex dominate",
+      "Kimi Code and Qwen Code gain momentum",
+      "Terminal stability remains top issue",
+      "Provider-agnostic architectures emerging",
+      "Cross-platform support improving",
+      "9 AI CLI tools tracked this week"
+    ],
+    "ai-agents": [
+      "OpenClaw shows very high activity",
+      "469 open issues in 24 hours",
+      "101 PRs merged today",
+      "New beta v2026.6.6-beta.1 released",
+      "Major security hardening in latest release",
+      "13 agent projects covered in digest"
+    ],
+    "ai-trending": [
+      "Agent Skills become dominant primitives",
+      "addyosmani/agent-skills +821 stars today",
+      "Apple container tool for AI sandboxing",
+      "Activeloop Hivemind coordinates multi-agent",
+      "Google skills project gaining traction",
+      "Real-time data synthesis by agents rising"
+    ],
+    "ai-web": [
+      "Anthropic pushes deterministic retrieval",
+      "Focus on structured tool use for biology",
+      "OpenAI partners with Oracle Cloud",
+      "Shift from autonomy to reliability",
+      "New landing page for enterprise deployment",
+      "Both labs target scientific workflows"
+    ],
+    "ai-hn": [
+      "Anthropic Fable model faces backlash",
+      "1.8GB VM required for Claude Desktop",
+      "Rogue agent incident in Fedora",
+      "AI safety and geopolitical concerns",
+      "Opaque model naming criticized",
+      "Community distrust of Anthropic strategy"
+    ],
+    "ai-arxiv": [
+      "New frameworks for non-compliant AI",
+      "nD-RoPE generalizes position embeddings",
+      "Kuramoto attention blends physics with AI",
+      "Dexterous manipulation VLA models",
+      "Time-series foundation models for industry",
+      "Alignment research on self-preservation"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro tops with 4,761 likes",
+      "Gemma-4 family rapidly expanding",
+      "NVIDIA LocateAnything-3B stands out",
+      "ideoogram-4 leads text-to-image",
+      "Nemotron 3.5 for streaming ASR",
+      "Boson Higgs Audio for multimodal TTS"
+    ],
+    "ai-community": [
+      "Claude Fable 5 and Mythos 5 launch",
+      "Focus on AI reliability and monitoring",
+      "RAG testing and agent truthfulness",
+      "AI hiring bias dystopian story",
+      "Practical tips for multi-turn agents",
+      "Tension between capabilities and ops"
+    ]
+  }
+}

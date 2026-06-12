@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "GitHub Copilot CLI 遭遇严重回归Bug，用户体验急剧下降",
+      "Claude Code 发布 v2.1.173/174，但模型误报成痛点",
+      "OpenAI Codex 发布5个Alpha版本，全面转向Rust核心",
+      "Pi 进程挂起严重，WSL2兼容性差，AI提供商扩展",
+      "DeepSeek TUI 发布 v0.8.59 路线图，重构UI",
+      "Qwen Code 发布 v0.18.0-preview.2，功能回退待修复"
+    ],
+    "ai-agents": [
+      "OpenClaw 日处理500条Issues和500条PRs，活跃度极高",
+      "95%活跃Issues仍开放，团队响应速度面临挑战",
+      "新增 toolsAllow 参数限制子代理工具使用范围",
+      "安全矩阵运行时事实审计模型提交，安全架构体系化",
+      "跨平台 Clawdbot 应用需求最热，持续近半年",
+      "Anthropic 模型桥接扩展，原生支持 Claude"
+    ],
+    "ai-trending": [
+      "addyosmani/agent-skills 单日暴涨3278 stars，最热项目",
+      "apple/container 让 Mac 原生运行 Linux AI 服务",
+      "NVIDIA 推出 SkillSpector 扫描 Agent 技能安全漏洞",
+      "vllm 以 82k stars 成 LLM 推理事实标准",
+      "ollama 173k stars，本地运行大模型首选工具",
+      "原子化 Agent 框架 atomic-agents 获5974 stars"
+    ],
+    "ai-web": [
+      "Anthropic 与 DXC 合作，将 Claude 嵌入银行航空核心系统",
+      "Anthropic 启动 Claude Corps 奖学金，投入1.5亿美元",
+      "DXC 用 Claude 编写了其平台超95%的代码",
+      "Claude 通过 DXC 严格安全合规考验",
+      "OpenAI 收购 Ona，布局垂直领域",
+      "Anthropic 双轮驱动：落地+社会责任并行"
+    ],
+    "ai-hn": [
+      "Anthropic 为 Claude Fable 隐形护栏道歉，信任危机爆发",
+      "Claude Fable 5 编程评测仅中游，远低预期",
+      "离线运行 Claude Code 方案引关注，用 Qwen3.6 替代",
+      "OpenAI 降价策略引发行业竞争格局讨论",
+      "LLM 玩万智牌成新颖推理基准测试",
+      "AI 结对编程如何保持开发者心流成热议"
+    ],
+    "ai-arxiv": [
+      "强化学习让 RAG 学会类比推理，超越语义匹配",
+      "思维链中大量步骤与最终答案无因果关系",
+      "Operad 理论提出无标签检测 LLM 推理失败新方法",
+      "LLM 与人类日常推理模式匹配机制相似",
+      "Mana 实现灵巧操作铰接工具，具身智能突破",
+      "合成数据的统计推断与可解释性成研究焦点"
+    ],
+    "ai-community": [
+      "AI Agent '安静失败' 成安全讨论焦点",
+      "女儿问'以前代码用手写吗'引发编程本质反思",
+      "5层防御机制应对 Agent 提示注入风险",
+      "RAG 系统边缘测试：空知识库与对抗输入",
+      "从1994到2025：AI 钻漏洞进化史揭示 reward hacking",
+      "LLM 基准测试陷'饱和困境'，越难越有用"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Cross-tool reliability update frenzy",
+      "Qwen Code adds durable background tasks",
+      "CodeWhale adds sub-agent permissions",
+      "Security hardening across CLI tools",
+      "Platform parity issues persist",
+      "Active community drives agent session persistence"
+    ],
+    "ai-agents": [
+      "OpenClaw hit by 500 issues in 24h",
+      "476 issues remain open in OpenClaw",
+      "388 PRs await review in OpenClaw",
+      "112 PRs merged in stabilization push",
+      "Major regression from version 2026.6.5",
+      "Maintenance cycle under heavy stress"
+    ],
+    "ai-trending": [
+      "Agent skills frameworks surge in stars",
+      "Apple's container tool sees explosive growth",
+      "NVIDIA and Addy Osmani push skills repos",
+      "Byedance deer-flow and Hermes-agent rise",
+      "Ollama hits 173K stars; adds Kimi-K2.6",
+      "Skyzh tiny-llm teaches LLM serving on Apple Silicon"
+    ],
+    "ai-web": [
+      "Anthropic launches $150M Claude Corps fellowship",
+      "Claude to integrate with DXC for enterprise",
+      "DXC deal targets banks, airlines, regulators",
+      "Anthropic shifts to societal impact strategy",
+      "OpenAI acquires Ona in M&A move",
+      "No new research or product launches today"
+    ],
+    "ai-hn": [
+      "Claude Fable invisible guardrails outrage",
+      "OpenAI considers drastic price cuts",
+      "Claude Fable 5 coding hype called overblown",
+      "Anthropic walks back controversial policy",
+      "Developers discuss air-gapped AI workflows",
+      "Brewing AI model price war tracked"
+    ],
+    "ai-arxiv": [
+      "New framework for multi-agent reward modeling",
+      "Retrieval-augmented analogy training proposed",
+      "Chain-of-thought causally probed with early-exit",
+      "Agents move toward scientific collaboration",
+      "Domain-specific models for epigenomics emerge",
+      "LLM reasoning vs pattern matching critically examined"
+    ],
+    "ai-community": [
+      "Vibe coder kid asks if humans typed code",
+      "Pre-execution gate pattern for agent safety",
+      "LLM anthropomorphism debate goes viral",
+      "HazelJS 1.0.0 AI-native framework stabilizes",
+      "Production skepticism replaces hype",
+      "Claude Fable 5 and Mythos 5 released"
+    ]
+  }
+}

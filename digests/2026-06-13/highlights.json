@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布3个小版本，聚焦代理架构与成本控制",
+      "OpenAI Codex 4个alpha版本更新，Windows稳定性成痛点",
+      "Gemini CLI 1个nightly版，Agent挂起与虚假成功问题突出",
+      "GitHub Copilot CLI 终端渲染混乱，MCP无限重启引关注",
+      "Kimi Code CLI 被曝Token用量疑云，文件读取陷死循环",
+      "OpenCode 权限系统Bug频发，会话状态同步成死亡循环"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.6发布，安全边界大幅收紧",
+      "内存泄漏与会话混乱等关键Bug仍在激烈讨论",
+      "OpenClaw社区24小时内产生500条Issue与486条PR",
+      "沙箱绑定与主机环境隔离成为安全更新重点",
+      "破坏性变更可能导致旧配置与第三方插件失效",
+      "快速点发布策略聚焦消息、平台与执行安全"
+    ],
+    "ai-trending": [
+      "agent-skills单日暴涨2656星，Agent技能包成新范式",
+      "superpowers获1275星，与agent-skills共推技能革命",
+      "医疗AI项目openmed异军突起，垂直行业落地潜力大",
+      "vllm稳坐推理引擎头牌，社区生态地位稳固",
+      "LMCache持续活跃，KV缓存优化成推理效率关键",
+      "多智能体协作工具agency-agents获1026星"
+    ],
+    "ai-web": [
+      "美国政府动用出口管制令，暂停Fable 5境外访问",
+      "与印度IT巨头TCS合作，Claude打入强监管行业",
+      "首次公众调查：48%美国人视治愈疾病为AI最大希望",
+      "Anthropic发布化学领域模型专业能力提升研究",
+      "Anthropic披露发现模型安全防护的越狱漏洞",
+      "TCS将部署Claude给5万名员工，服务56个国家"
+    ],
+    "ai-hn": [
+      "美国政府禁令让Fable 5和Mythos 5全球访问被暂停",
+      "HN社区641分讨论AI技术主权与国家安全审查",
+      "批量删除Claude聊天记录的脚本获51分关注",
+      "开发者分享Claude Code编程环境配置经验",
+      "Claude Code插件可实时显示世界杯比分",
+      "AI价格战、太空任务与安全创业公司成次要热点"
+    ],
+    "ai-arxiv": [
+      "EvoArena提出动态环境评估LLM智能体记忆演化",
+      "RAG+强化微调让模型学会类比推理提升复杂任务",
+      "Epiphenomenal CoT揭示思维链中哪些步骤真正重要",
+      "Operad理论提供无标签信号检测组合推理失败",
+      "HyperTool将工具工作流抽象为高层级操作减少步骤",
+      "Agents-K1提出科学知识编排概念超越简单摘要"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro登顶，下载量超338万",
+      "Gemma 4系列成最大模型家族，社区量化版齐飞",
+      "Nvidia LocateAnything-3B精准视觉定位引关注",
+      "Ideogram-4-fp8发布，文本到图像竞争加剧",
+      "Cohere发布小型代码模型North-Mini-Code-1.0",
+      "Nex-N2系列基于Qwen 3.5 MoE架构发布"
+    ],
+    "ai-community": [
+      "Agent安全成焦点：沙箱逃逸检测与权限控制工具发布",
+      "skillscore CLI工具可自动评分AI Agent技能文件",
+      "AWS Agent Toolkit实战指南：为何优于旧MCP",
+      "Agent记忆丢失问题获架构级解决方案",
+      "Flutter Agent技能编写标准化食谱发布",
+      "社区反思：文档没人读，连AI Agent都不读"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.175–177 ships 3 patches",
+      "Gemini CLI closes feature gaps fast",
+      "Kimi Code CLI lags with billing issues",
+      "Agent safety is top theme across tools",
+      "Cross-platform reliability remains a pain",
+      "Model routing transparency debated heavily"
+    ],
+    "ai-agents": [
+      "OpenClaw ships 2 releases today",
+      "500 issues and 486 PRs updated",
+      "P0 memory leak (#91588) remains open",
+      "Security hardening across all sandboxes",
+      "92 issues and 142 PRs closed",
+      "Rapid community and dev pace continues"
+    ],
+    "ai-trending": [
+      "addyosmani/agent-skills surfs +2,656 stars",
+      "Apple's container tool hits +3,504 stars",
+      "obra/superpowers gains +1,275 stars",
+      "Agent marketplace pattern emerging clearly",
+      "LMCache KV cache optimization heats up",
+      "Healthcare AI openmed gains +515 stars"
+    ],
+    "ai-web": [
+      "US forces Anthropic to restrict Fable 5 and Mythos 5",
+      "First-ever geo-restriction of US AI flagship models",
+      "Anthropic partners with TCS for 50,000 users",
+      "Public survey shows deep distrust of AI companies",
+      "Bipartisan demand for government AI regulation",
+      "OpenAI published no new content today"
+    ],
+    "ai-hn": [
+      "Fable 5 and Mythos 5 restrictions dominate debate",
+      "Hobbyists showcase games 'vibe coded' with Fable 5",
+      "OpenAI rumored price cuts stir discussion",
+      "AI national security startup raises massively",
+      "LLMs weaponizing known vulnerabilities faster",
+      "Ghost author personas identified in LLM outputs"
+    ],
+    "ai-arxiv": [
+      "Papers pivot to self-supervised reasoning control",
+      "Compositional reasoning via operads framework",
+      "Agent orchestration quality gains focus",
+      "Synthetic data validity risks highlighted",
+      "Web content pollution in generative recommenders",
+      "Execution-granularity mismatch addressed"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro hits 4,796 weekly likes",
+      "Gemma 4 variants dominate trending models",
+      "DiffusionGemma offers unified multimodal capability",
+      "Unsloth GGUF quantizations most downloaded",
+      "Uncensored MoE fine-tunes gaining traction",
+      "Cohere North-Mini-Code-1.0 trends for coding"
+    ],
+    "ai-community": [
+      "Agent memory and security dominate discussions",
+      "DiffusionGemma hits 1,000 tokens/sec on RTX 4090",
+      "SQLite beats full-context GPT-4 on benchmarks",
+      "Debate on AI 'human-like' behavior and pattern-matching",
+      "AWS Agent Toolkit launch sparks interest",
+      "Developers build long-running agent store architectures"
+    ]
+  }
+}

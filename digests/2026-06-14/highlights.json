@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区活跃度极高，但稳定性问题引发拷问",
+      "OpenAI Codex 每日发布 Alpha 版，迭代最激进",
+      "Gemini CLI 通过多代理编队和动态工作流弯道超车",
+      "MCP 协议集成和持久化记忆已成 AI CLI 标配",
+      "精细权限与成本控制是赢得专业开发者信任的关键",
+      "Qwen Code 和 DeepSeek TUI 社区活跃度同步高涨"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布两个 Beta 版本，专注消息渠道稳定性",
+      "新增 P0 级内存泄漏和会话状态丢失 Bug 激增",
+      "社区呼声：多 Agent 编排与跨会话记忆持久化",
+      "Telegram 频道支持富文本，改进 CLI 后端可靠性",
+      "WhatsApp 频道交付更加稳定",
+      "Slack 频道优化了消息投递和附件处理"
+    ],
+    "ai-trending": [
+      "agent-skills 新增 +1514 star，AI 编码技能生态崛起",
+      "NVIDIA SkillSpector 新增 +804 star，Agent 安全扫描工具",
+      "LMCache 通过 KV 缓存加速 LLM 推理，新增 +238",
+      "aisuite 由 Andrew Ng 推出，统一多模型调用接口",
+      "CherryHQ 集成 300+ 助手，成多模型一站式方案",
+      "Bun 用 LLM 在 9 天内将 Zig 重写成 Rust"
+    ],
+    "ai-web": [
+      "Anthropic 紧急暂停 Claude Fable 5 和 Mythos 5",
+      "模型发布仅 3 天即被叫停，安全与能力矛盾凸显",
+      "Fable 5 能力被称‘神话级’，但安全过滤器存盲区",
+      "Anthropic 用‘自限式’策略，暗示模型失控风险",
+      "OpenAI 本周无任何新内容更新，处于静默期",
+      "暂停事件引发行业对能力天花板与安全平衡反思"
+    ],
+    "ai-hn": [
+      "美国政府限制 Anthropic Fable 和 Mythos 模型访问",
+      "亚马逊 CEO 与白宫谈话触发连锁出口管制",
+      "GLM 5.2 发布，成为技术讨论的清流",
+      "Claude Fable 5 规划能力超 GPT-5.5 但执行相近",
+      "开发者赶在禁令前用 Fable 构建 80 款小游戏",
+      "AI 游戏生成能力引惊叹，Fable 成‘逝去的版本’"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 点赞 4.8k，下载量超 325 万",
+      "Google Gemma 4 系列标记为 any-to-any 多模态",
+      "NVIDIA LocateAnything 3B 实现精准图像定位",
+      "Unsloth 同步发布大模型 GGUF 量化版",
+      "Ideogram 4 FP8 量化版降低文生图部署门槛",
+      "HauhauCS 的 Qwen3.6 激进微调版引发安全讨论"
+    ],
+    "ai-community": [
+      "Claude Fable 5 发布三天被美国紧急叫停",
+      "闭源模型可被‘拉闸’，开源模型价值凸显",
+      "项目因依赖模型被下架崩溃，警示第三方风险",
+      "AI Agent 生产环境五大失败模式被曝光",
+      "Bun 用 LLM 9 天完成 Zig 到 Rust 重写引热议",
+      "MCP 服务器必须用真实模型测试才能发现逻辑问题"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads agentic quality push",
+      "Qwen Code, Gemini CLI battle for speed vs stability",
+      "MCP integration remains a shared pain point",
+      "OpenCode gains traction for local-first development",
+      "Pi focuses on architectural stability",
+      "9 major tools tracked in ecosystem analysis"
+    ],
+    "ai-agents": [
+      "OpenClaw issues 2 beta releases in one day",
+      "500 issues and 500 PRs updated in 24 hours",
+      "New betas improve Telegram, WhatsApp delivery",
+      "P0/P1 bugs persist with memory leaks and timeouts",
+      "NanoClaw, NullClaw also seeing active development",
+      "13 projects covered in ecosystem digest"
+    ],
+    "ai-trending": [
+      "Agent-skills hits +1,514 stars today",
+      "NVIDIA's SkillSpector debuts with +804 stars",
+      "LMCache gains +238 stars for LLM inference",
+      "Superpowers formalizes reusable agent skill primitives",
+      "VLLM crosses 82,000 total stars",
+      "Andrewyng/aisuite offers unified API across providers"
+    ],
+    "ai-web": [
+      "Anthropic suspends Claude Fable 5 and Mythos 5",
+      "Suspension occurred just 3 days after launch June 9",
+      "Enterprise trust shaken by abrupt model revocation",
+      "OpenAI posts zero new content today",
+      "Safety system filtered under 5% of sessions",
+      "Critical inflection point for Anthropic reliability"
+    ],
+    "ai-hn": [
+      "Fable 5 ban for foreign nationals drives debate",
+      "Amazon CEO Andy Jassy tied to White House talks",
+      "GLM 5.2 release sparks interest as alternative",
+      "Community cynical about corporate influence in ban",
+      "Hacker News calls it weaponized export control",
+      "Multi-step planning praised in Fable 5 benchmarks"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro leads with 4,813 likes",
+      "NVIDIA's LocateAnything-3B gains 1,962 likes",
+      "Gemma-4-12B-it passes 1 million downloads",
+      "MoE vision-language models surge in popularity",
+      "Ideogram 4 pushes text-to-image generation forward",
+      "ByteDance's Bernini-R advances image-to-video"
+    ],
+    "ai-community": [
+      "Fable 5 takedown called too dangerous to exist",
+      "Developers warn of fragile closed-source dependencies",
+      "Runaway API bills reported at 8.6x cost surprises",
+      "Bun rewrote from Zig to Rust in 9 days with LLM",
+      "Agent failure modes persist past staging tests",
+      "Developer lost multi-agent refactor overnight"
+    ]
+  }
+}

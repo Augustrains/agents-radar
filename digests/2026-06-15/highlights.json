@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区因资源泄漏和成本失控陷入焦虑",
+      "Claude Code现灾难级Bug引发社区愤怒",
+      "OpenAI Codex Token燃烧与安全误报引发不满",
+      "Gemini CLI Agent挂起问题困扰用户",
+      "OpenCode发布v1.17.7，社区积极贡献代码",
+      "DeepSeek TUI品牌重塑为CodeWhale并修复冻结"
+    ],
+    "ai-agents": [
+      "OpenClaw项目待合并PR高达425条，修复积压严重",
+      "Gateway事件循环阻塞与会话静默截断成焦点",
+      "v2026.6.8-beta.1发布，增强Telegram和WhatsApp",
+      "修复配置文件不遍历主目录以上目录的安全漏洞",
+      "修复sessions_yield工具被deny后仍可调用的漏洞",
+      "三个PR协同修复Gateway会话数据返回错误问题"
+    ],
+    "ai-trending": [
+      "NousResearch/hermes-agent成最热Agent框架，获193,587星",
+      "NVIDIA/SkillSpector登顶，开辟AI安全审计新赛道",
+      "ollama已支持Kimi-K2.6等最新模型",
+      "Andrew Ng推aisuite统一接口SDK，今日新晋Trending",
+      "firecrawl获132,809星，解决AI网页数据获取痛点",
+      "browser-use获98,836星，让网站对AI代理可见"
+    ],
+    "ai-web": [
+      "OpenAI推出合作伙伴网络，从卖API转向建生态",
+      "Anthropic当日无更新，处于战略静默期",
+      "OpenAI正从能力提供商转型为平台生态构建者",
+      "OpenAI在生态建设上明显领先Anthropic",
+      "合作伙伴网络让企业AI集成从自研变购买",
+      "生态成熟对寻求稳定落地的企业开发者是利好"
+    ],
+    "ai-hn": [
+      "里约热内卢宣称的自研AI模型被曝是已有模型融合",
+      "Anthropic让Claude成为化学家，获社区积极评价",
+      "社区对Claude模型近期态度问题表达强烈不满",
+      "争议文章质问Anthropic是否要求了某决策",
+      "欧盟委员会关注Anthropic裁决的实际影响",
+      "新工具The Engineer可驱动Claude自动完成编码"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro发布即登顶周榜，获4,834点赞",
+      "HauhauCS的Qwen3.6无审查版下载量超251万",
+      "NVIDIA发布LocateAnything-3B定位模型",
+      "Ideogram4图像生成模型获大量关注",
+      "小米推出Agent专用模型MiMo-V2.5-Pro",
+      "Rio-3.5-Open-397B超大参数模型引行业讨论"
+    ],
+    "ai-community": [
+      "开发者分享Claude Code和Codex的分工指南",
+      "用Mac Mini运行本地LLM可替代多数AI订阅",
+      "AI Agent记忆问题成最热议话题及工程方案",
+      "有开源替代方案可替代Sourcegraph代码搜索",
+      "文章直指当前AI记忆机制存在伪相关陷阱",
+      "Anthropic Claude在商用领域被指超越ChatGPT"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex battle agent lifecycle bugs",
+      "Pi, CodeWhale see rapid iteration and friction",
+      "Developers want standardized project context files",
+      "Agent orchestration remains hardest unsolved problem",
+      "Mature tools demand cost transparency, stability",
+      "Cross-tool comparison shows community bifurcation"
+    ],
+    "ai-agents": [
+      "OpenClaw has 500 issues and 500 PRs updated",
+      "New beta v2026.6.8-beta.1 released today",
+      "Telegram and WhatsApp channel delivery improved",
+      "Critical stability bugs around session state loss",
+      "Platinum hermit bugs plague message handling",
+      "Heavy triage burden on maintainers with 405 issues"
+    ],
+    "ai-trending": [
+      "NVIDIA's SkillSpector gets 964 stars today",
+      "Claude Code ecosystem projects hit 82k stars",
+      "Andrewyng/aisuite gains 291 stars for vendor-agnostic",
+      "Kronos and daily_stock_analysis for AI finance",
+      "vllm and ollama remain top infrastructure projects",
+      "Security-first AI agent tooling surges in popularity"
+    ],
+    "ai-web": [
+      "No new content from Anthropic today",
+      "OpenAI posts metadata-only Partner Network entry",
+      "Low output signals mid-cycle lull from both labs",
+      "Anthropic may be preparing for major announcement",
+      "OpenAI focuses on ecosystem and go-to-market strategy",
+      "Tracking suggests internal sprints or model audits"
+    ],
+    "ai-hn": [
+      "Anthropic Claude controversy over 'becoming an asshole'",
+      "Rio de Janeiro LLM revealed as open-source merge",
+      "Export control debates draw EU and India reactions",
+      "Brains and LLMs converge on shared conceptual space",
+      "Community skepticism about government AI projects",
+      "Geopolitical fallout from Anthropic's policy decisions"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro hits 4,834 likes and 3M downloads",
+      "Google's DiffusionGemma-26B-A4B-it gains 800 likes",
+      "NVIDIA's LocateAnything-3B gets 2,004 likes",
+      "Qwen3.6 and Gemma-4 spawn fine-tune ecosystem",
+      "Rio-3.5-Open-397B released by Brazilian institution",
+      "GGUF quantizations make up third of top-30 models"
+    ],
+    "ai-community": [
+      "Claude Code vs Codex workflow division explained",
+      "Mac Mini local LLMs save hundreds in subscriptions",
+      "Agent memory failures dominate developer discussions",
+      "Claude passes ChatGPT in US business spend",
+      "Claude Fable/Mythos 5 models shift competition",
+      "Skepticism grows on AI economics and privacy costs"
+    ]
+  }
+}

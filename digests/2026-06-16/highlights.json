@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.178 发布，修复虚假ENOSPC错误",
+      "OpenAI Codex rust-v0.140.0 架构重构，引入Credential Broker",
+      "GitHub Copilot CLI v1.0.63，插件Hook回归引发关注",
+      "Gemini CLI 修复SSRF漏洞，Agent稳定性提升",
+      "Pi v0.79.4 发布，核心架构重构，支持新Provider",
+      "OpenCode 内存泄漏问题成社区热点，MCP指令注入修复"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.8-beta.2 发布，增强Telegram/WhatsApp消息通道",
+      "500条Issue和500条PR，社区活跃度极高",
+      "飞书消息去重Bug修复，基于稳定重试身份键",
+      "会话历史修复错误剥离partialJson流式工件被修复",
+      "外部安装的频道插件加载失败问题已解决",
+      "长期积压的Linux/Windows桌面应用支持Issue获新互动"
+    ],
+    "ai-trending": [
+      "NVIDIA开源SkillSpector，首日暴涨1079星，检测AI Agent安全漏洞",
+      "shareAI-lab/learn-claude-code 获66.7k星，极简Agent框架",
+      "CopilotKit 35k星，面向Agent和生成式UI的前端栈",
+      "Flowise 53.6k星，可视化构建AI Agent和RAG工作流",
+      "cognee 17.8k星，为AI Agent设计开源记忆层",
+      "Picovoice/picollm 312星，设备端LLM推理引擎"
+    ],
+    "ai-web": [
+      "Anthropic发现Claude Sonnet 4.5存在与人类情绪相似的神经表征",
+      "Anthropic让Claude学会解读核磁共振谱图，化身化学家",
+      "情绪表征具有因果性，激活恐惧会让模型行为更谨慎",
+      "AI对齐研究新维度：关注模型是否感到沮丧或焦虑",
+      "Claude化学专业化研究，与顶尖化学家合作提升领域能力",
+      "OpenAI本周期内无任何公开更新，形成静默对比"
+    ],
+    "ai-hn": [
+      "Anthropic与白宫冲突：高端模型Fable和Mythos被指令下线",
+      "Anthropic高管空降华盛顿试图平息争端",
+      "Stratechery深度分析：安全定位既是护城河也是冲突根源",
+      "Anthropic推出Claude Corps计划，社区高度关注",
+      "Anthropic因高端订阅限制被起诉，引发用户信任讨论",
+      "OpenAI赢得xAI商业秘密诉讼案"
+    ],
+    "ai-arxiv": [
+      "研究揭示基础与微调LLM间存在真值头部继承关系",
+      "DYNA框架：通过时态知识图谱实现LLM高效持续学习",
+      "Vernier发现LLM因果推理中存在词汇鸿沟问题",
+      "可检索梯度方法解决持续后训练中的灾难性遗忘",
+      "LaWAM在隐空间构建世界模型，提升机器人策略效率",
+      "RoboPIN：固定式思维链解决VLM长程推理视觉偏移"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro以近5000点赞量断层登顶Hugging Face",
+      "Google diffusiongemma-26B-A4B-it 融合文本理解与图像生成",
+      "NVIDIA LocateAnything-3B 获2056赞，通用物体定位模型",
+      "Google gemma-4-12B-it 首次支持任意输入到任意输出",
+      "zai-org/SCAIL-2专注角色动画，社区关注度提前到来",
+      "bosonai/higgs-audio-v3-tts-4b 获445赞，TTS新星"
+    ],
+    "ai-community": [
+      "Fable 5下线事件：开发者复盘紧急切换到备份的断裂点",
+      "AI幻觉源于架构缺陷，而非LLM本身的错误",
+      "Gemini账单与模型名不符，3300次调用揭示巨大偏差",
+      "循环工程：代理开发未来在于设计自纠正循环逻辑",
+      "AI代理隐藏故障模式系统性梳理，引发深度学习讨论",
+      "信任是设计出来的：知识图谱对抗AI幻觉的哲学实践"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads with deep ecosystem integration",
+      "Windows/WSL compatibility remains a major pain point",
+      "Silent failures plague agent loops across tools",
+      "Community demands better observability and fail-fast semantics",
+      "9 tools covered in latest ecosystem digest",
+      "Platform-backed vs community-driven tools split market"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs in 24h",
+      "v2026.6.8-beta.2 released with Telegram improvements",
+      "Security-critical regressions and resource leaks persist",
+      "Over 450 open issues create high noise floor",
+      "Telegram now supports tables, lists and blockquotes",
+      "Major push or hotfix cycle underway"
+    ],
+    "ai-trending": [
+      "NVIDIA launches SkillSpector agent security scanner",
+      "Agent-Reach hits 2,657+ stars for free web access",
+      "Financial AI heats up with Kronos and TradingAgents",
+      "Local-first self-hosted ecosystems continue dominating",
+      "ollama updates support Kimi-K2.6 and GLM-5.1",
+      "Agent security tooling surge reflects safety concerns"
+    ],
+    "ai-web": [
+      "Anthropic reveals emotion concepts in Claude Sonnet 4.5",
+      "Claude trained as a chemist for NMR spectra",
+      "Model's emotional structure mirrors human psychology",
+      "OpenAI posts zero new content today",
+      "Findings have deep implications for AI alignment",
+      "Anthropic pushes into domain-specific scientific reasoning"
+    ],
+    "ai-hn": [
+      "Fable/Mythos shutdown dominates Hacker News",
+      "Bipartisan consensus: government intervention damaging",
+      "Anthropic sued over service limits and credit changes",
+      "Essay on biological taxonomies sparks debate",
+      "Technical look at Fable reasoning trace training",
+      "Parallels drawn to TikTok ban drama"
+    ],
+    "ai-arxiv": [
+      "Truthful heads inherited across model lineages",
+      "Knowledge Trap defends against model extraction",
+      "Genetic algorithm jailbreaks black-box LLMs",
+      "Trust and safety drive agentic system research",
+      "Diffusion model circuits mapped mechanistically",
+      "Causality-aware architectures gain traction"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro leads with 2.93M downloads",
+      "Gemma 4 family dominates trending models",
+      "Community uncensored Qwen 3.6 fine-tunes surge",
+      "Ideogram 4 signals enterprise image generation",
+      "Vision-language models now the norm",
+      "Nvidia LocateAnything-3B gains creative traction"
+    ],
+    "ai-community": [
+      "Fable 5 disappears after government order",
+      "Developers treating AI as fragile infrastructure",
+      "Satire pieces about human-powered AI appear",
+      "GraphRAG and MCP patterns combat hallucination",
+      "Post-mortem reveals painful vendor lock-in lessons",
+      "Chrome extension makes AI use more intentional"
+    ]
+  }
+}

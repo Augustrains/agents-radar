@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.179发布，修复MCP安全漏洞",
+      "OpenAI Codex架构重构，新增插件和技能系统",
+      "GitHub Copilot CLI v1.0.64-0修复子代理MCP访问",
+      "Qwen Code自动更新修复，/loop功能增强",
+      "Pi v0.79.6修复核心连接稳定性和Provider配置",
+      "OpenCode跨模型兼容性成最大痛点，社区高需求"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.8发布，提升Telegram和WhatsApp投递稳定性",
+      "77%PR待合并，维护审查成瓶颈",
+      "修复Session永久卡死在繁忙状态，无需手动重置",
+      "子代理可靠性成社区讨论焦点",
+      "数据丢失问题引发用户对生产级体验担忧",
+      "社区活跃度极高，Issues与PR均达500条"
+    ],
+    "ai-trending": [
+      "阿里zvec登顶Trending，轻量级嵌入式向量数据库",
+      "ollama本地运行大模型热度不减，生态地位稳固",
+      "vllm持续受关注，高性能LLM推理引擎标配",
+      "CopilotKit面向Agent与生成式UI，React/Angular热门",
+      "LangChain Agent工程化核心平台吸引所有开发者",
+      "tiny-llm从零构建vLLM，系统工程师学习资源"
+    ],
+    "ai-web": [
+      "Anthropic经济学研究：专家经验在AI编程中有复利效应",
+      "与TCS合作进军金融医疗等强监管行业",
+      "OpenAI部署模拟新动作，或聚焦安全可靠性",
+      "Claude Code使调试时间占比下降近半",
+      "所有职业编程成功率接近软件工程师水平",
+      "7个月内任务价值平均上涨约25%"
+    ],
+    "ai-hn": [
+      "OpenAI年亏340亿美元引行业泡沫担忧",
+      "Anthropic模型被禁引发AI治理武器化争论",
+      "DeepSeek V4 Pro以Claude 5%成本实现接近性能",
+      "GLM-5.2开源权重，智谱AI发布前沿模型",
+      "Wolfram V15内置AI助手和符号音乐功能",
+      "Memento自托管LLM搜索与知识管理邮件"
+    ],
+    "ai-arxiv": [
+      "小初始化或决定大模型训练成败，超越数据架构",
+      "动态剪枝减少RL推理模型过度思考，提升效率",
+      "推理计算量被严重低估，需标准化评估框架",
+      "SoftMoE可微分路由替代离散top-k，解决专家坍缩",
+      "PreAct让计算机使用Agent重复任务加速",
+      "统一对齐框架实现机器人操作规模化泛化"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro周点赞近5000，下载逼近300万",
+      "Qwen3.6系列多模型入榜，代码和无审查版本",
+      "nvidia LocateAnything-3B精准视觉定位模型",
+      "google DiffusionGemma多模态MoE新范式",
+      "unsloth团队持续量化热门模型，降低部署门槛",
+      "微软FastContext-1.0-4B-SFT专注超长上下文"
+    ],
+    "ai-community": [
+      "AI误判文章为低质量，内容审核可靠性受质疑",
+      "BrowserAct vs Playwright对抗AI反爬虫实战",
+      "Better Models Won't Fix AI Companions深度反思",
+      "$0 Bug致API账单激增$1800，成本陷阱警示",
+      "30天无AI编码实验：反思工具依赖度",
+      "Your AI Provider Is a单点故障风险需警惕"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.179 shipped",
+      "10 active PRs in 24 hours for Claude Code",
+      "Codex released 2 Rust alpha versions",
+      "Ecosystem converging on MCP integration",
+      "Cross-tool stability still a concern",
+      "Windows and macOS parity remains under-served"
+    ],
+    "ai-agents": [
+      "500 issues updated in 24 hours for OpenClaw",
+      "500 pull requests updated in 24 hours",
+      "Critical session state corruption bugs reported",
+      "v2026.6.8 release focuses on Telegram reliability",
+      "Massive community effort underway",
+      "Race conditions plague messaging platform users"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC hits 216K GitHub stars",
+      "NousResearch/hermes-agent reaches 195K stars",
+      "safishamsi/graphify achieves 68K stars",
+      "Alibaba's zvec debuts as trending vector DB",
+      "OpenBMB/VoxCPM launches tokenizer-free TTS",
+      "ollama supports Kimi-k2.6, GLM-5.1, DeepSeek"
+    ],
+    "ai-web": [
+      "Anthropic analyzed 400K Claude Code sessions",
+      "Claude Code equalizes task completion across roles",
+      "Domain expertise remains key productivity multiplier",
+      "Tata partners with Anthropic for 50K employees",
+      "Anthropic pushes into regulated industries",
+      "OpenAI posted a metadata-only 'Deployment Simulation'"
+    ],
+    "ai-hn": [
+      "OpenAI losses hit $34B against $13B revenue",
+      "US government 'war' on Anthropic debated",
+      "DeepSeek and Z.ai new open-weight models trending",
+      "Fable ban called politically motivated power play",
+      "OpenAI IPO viability questioned heavily",
+      "Community shocked by 8X spending spike"
+    ],
+    "ai-arxiv": [
+      "SoftMoE introduces differentiable routing for MoE",
+      "Small initialization found critical for LLM training",
+      "New method stabilizes beliefs in LLMs",
+      "Neuro-symbolic synthesis emerging in research",
+      "Robustness benchmarks for non-English logic released",
+      "Safety and grounding push dominates submissions"
+    ]
+  }
+}

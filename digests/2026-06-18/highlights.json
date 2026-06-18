@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.181 发布，社区深入分析 Bug 根因",
+      "OpenAI Codex 社区活跃，聚焦多智能体协作功能",
+      "Gemini CLI 发布 v0.48.0-preview.0，引入消息队列",
+      "GitHub Copilot CLI 服务中断引发连锁 Bug 讨论",
+      "Qwen Code v0.18.3 发布，计费与认证问题成焦点",
+      "Kimi Code CLI 处于早期需求征集阶段，动静较小"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日 1000 条 Issue/PR，社区参与度极高",
+      "MiniMax 新推理标签适配，覆盖 iMessage 等多个渠道",
+      "工具调用间文本泄露问题成最高优先级安全 Bug",
+      "核心会话 SQLite 迁移提议，旨在避免高风险大改动",
+      "Control UI 表单与原始模式切换修复 UI 渲染问题",
+      "定时任务日志记录校验不一致，已修复核心 Bug"
+    ],
+    "ai-trending": [
+      "Agent-Reach 今日新增 1161 star，赋予 Agent 互联网之眼",
+      "OpenMontage 开源首套 Agent 视频制作系统，含 500+ 技能",
+      "codebase-memory-mcp 今日 +371 star，实现代码库毫秒级查询",
+      "UI-TARS-desktop 字节开源多模态桌面 Agent，今日 +150 star",
+      "rig 用 Rust 构建模块化 LLM 框架，获 7661 star",
+      "caveman 通过 Token 压缩大幅降低 AI 使用成本"
+    ],
+    "ai-web": [
+      "Anthropic 密集发布网络安全研究，聚焦 Claude Mythos Preview",
+      "Anthropic 启动 Project Glasswing，主动防御高能力模型",
+      "在首尔设立办公室，与 NAVER、Nexon 达成深度合作",
+      "发布 Agentic Coding 经济影响研究，量化开发工作流价值",
+      "研发核安全分类器，准确率 96%，实现主动监控",
+      "OpenAI 仅透露 Life Sci Bench 标题，无详细内容可分析"
+    ],
+    "ai-hn": [
+      "OpenAI 财务文件泄露，传闻亏损 210-385 亿美元成焦点",
+      "Anthropic 因与特朗普政府冲突导致模型服务下线",
+      "YC 孵化开源 AI CAD 工具 Adam，获 158 分 82 评论",
+      "Mira 开源自托管 AI 代码审查工具登 Show HN",
+      "Ångstrom 用 Claude Code 训练模型击败 Meta 基准",
+      "社区大量讨论 Claude Fable 5 系统提示的内部配置"
+    ],
+    "ai-arxiv": [
+      "LLM 智能体通信协议技术分类，为互操作性提供路线图",
+      "多智能体 LLM 团队领导力研究，提出协调控制理论",
+      "SciRisk-Bench 首个 AI for Science 安全评估基准",
+      "ThinkDeception 用渐进式 RL 实现可解释欺骗检测",
+      "人机协同演化理论，形式化描述社会智能涌现",
+      "海量无标注数据可规模化提升自动紧急制动系统"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 以 4926 点赞绝对优势领跑社区",
+      "Qwen3.6-35B-A3B 视觉 MoE 模型下载量破 368 万",
+      "nvidia LocateAnything-3B 通用目标定位模型受热捧",
+      "MiniMax-M3 旗舰多模态 MoE 模型获 1065 点赞",
+      "Gemma 4 系列 GGUF 量化版下载量巨大，本地部署热",
+      "Rio-3.5-Open-397B 基于 Qwen 的超大参数开源模型"
+    ],
+    "ai-community": [
+      "事前验尸方法：通过预设问题提升 AI 编码可靠性",
+      "AI Agent 变笨因上下文污染，提供量化诊断方法",
+      "生产环境 AI Agent 失败模式及可靠架构模式总结",
+      "rsync 事故警示 LLM 不适合处理基础设施代码",
+      "AI API 价格频繁变动，社区创建追踪工具应对",
+      "MCP 服务器设计的三大生产环境实战原则"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.181 released",
+      "3 alpha builds of OpenAI Codex",
+      "OpenCode pushes multi-agent sessions",
+      "Claude Code Skills for custom skills",
+      "Qwen Code new arrival in CLI",
+      "Gemini CLI ties with 10 active PRs"
+    ],
+    "ai-agents": [
+      "OpenClaw has 483 open issues",
+      "Zero new OpenClaw releases",
+      "Message loss bugs top issues",
+      "Session-state integrity concerns",
+      "52 PRs merged in 24 hours",
+      "Security bugs dominate discussions"
+    ],
+    "ai-trending": [
+      "mattpocock/skills scores 1,523 stars",
+      "obra/superpowers gains 1,129 stars",
+      "Panniantong/Agent-Reach hits 1,161 stars",
+      "ollama/ollama reaches 174,410 stars",
+      "vllm-project/vllm now at 83,199 stars",
+      "Google TimesFM gets 606 stars today"
+    ],
+    "ai-web": [
+      "Project Glasswing defensive initiative",
+      "Claude Mythos Preview for zero-days",
+      "400K Claude Code sessions analyzed",
+      "Anthropic opens Seoul office",
+      "New partnerships with Naver, Nexon",
+      "OpenAI publishes Life Sci Bench page"
+    ],
+    "ai-hn": [
+      "Leaked OpenAI docs show $38.5B loss",
+      "Anthropic targeted by Trump admin",
+      "Claude vs Grok robot brain benchmark",
+      "Open-source AI CAD tool praised",
+      "Community debates AI winter",
+      "Agentic AI deployment risks discussed"
+    ],
+    "ai-arxiv": [
+      "Formal protocols for multi-agent systems",
+      "Bridging symbolic and neural methods",
+      "Long-context RL data recipe",
+      "Direct timestep embedding for time-series",
+      "Self-conditioned credit assignment",
+      "Decoupling search from generation"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro leads with 4,926 likes",
+      "DiffusionGemma-26B from Google",
+      "Qwen 3.6 MoE 35B-A3B variant",
+      "GGUF quantization ecosystem explodes",
+      "NVIDIA LocateAnything-3B released",
+      "Zyphra ZONOS2 for TTS"
+    ],
+    "ai-community": [
+      "Premortem technique with Claude",
+      "Context window degradation measured",
+      "Modular instruction architecture",
+      "MCP server reliability debated",
+      "gzip as language model discussion",
+      "Siri private inference limitations"
+    ]
+  }
+}

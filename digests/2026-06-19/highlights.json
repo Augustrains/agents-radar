@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.183 发布，社区热议数据安全",
+      "OpenAI Codex 发布 v0.141.0，升级端到端加密",
+      "OpenCode 社区热推 /goal 功能，稳定性待改善",
+      "Pi v0.79.7 发布，专注多 Agent 会话优化",
+      "Qwen Code 获大量新贡献者，聚焦 MCP 工具链",
+      "DeepSeek TUI 更名 CodeWhale，解决卡死问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日 500 条议题更新，P1 级 Bug 密集",
+      "核心修复：释放超时 Codex 通道防会话卡死",
+      "飞书 P2P 私信回复失败问题已修复",
+      "新增 Gemini 3.5 Flash 百万 token 模型支持",
+      "压缩失败从致命错误降级，提升系统鲁棒性",
+      "修复 openclaw doctor 路径断行问题"
+    ],
+    "ai-trending": [
+      "DeusData/codebase-memory-mcp 日增 2322 star",
+      "obra/superpowers 日增 1429 star，新开发哲学",
+      "阿里开源轻量级向量数据库 zvec，日增 259 star",
+      "google-research/timesfm 开源时序基础模型",
+      "NousResearch/hermes-agent 通用 Agent 框架爆火",
+      "Kilo-Org/kilocode 引领 Agentic Engineering 理念"
+    ],
+    "ai-web": [
+      "Anthropic 发布 BioMysteryBench 评估 AI 科研能力",
+      "Claude Opus 4.7 无人类干预完成任务快 20 倍",
+      "Anthropic 设立首尔办公室，布局全球生态",
+      "OpenAI 推出健康智能与支出控制企业功能",
+      "Anthropic 多篇研究聚焦 AI 自主性与安全性",
+      "两大公司战略分化：前沿探索 vs 企业精细化"
+    ],
+    "ai-hn": [
+      "GLM-5.2 开源模型评测引热议，本地部署成本高",
+      "微博 3B 模型 VibeThinker 引发基准测试争论",
+      "趣味项目 Are You in the Weights 获得 195 分",
+      "Datasette Apps 支持托管自定义 HTML 应用",
+      "mistral.rs v0.8.1 发布，支持 Agent Skills",
+      "Anthropic 政治争议成 HN 社区讨论焦点"
+    ],
+    "ai-arxiv": [
+      "DiffusionGemma 推理透明度研究引关注",
+      "StylisticBias 揭示视觉风格驱动社会偏见",
+      "LedgerAgent 提出策略合规工具调用新机制",
+      "Contagion Networks 发现多智能体偏见传播",
+      "分层恢复策略替代全局重新规划效率更高",
+      "CWE-Trace 框架挑战 LLM 漏洞检测能力"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 以近 5000 点赞登顶 Hugging Face",
+      "NVIDIA LocateAnything-3B 开辟感知定位新赛道",
+      "Qwen3.6 无审查变体下载量超 340 万",
+      "Google diffusiongemma-26B 融合扩散模型对话",
+      "Gemma-4-12B-it 社区微调活动火爆",
+      "MiniMax-M3 多模态模型获 1102 点赞"
+    ],
+    "ai-community": [
+      "Tower Before Dusk 实现人机共玩解谜游戏",
+      "AI 覆盖率 97.2% 不敌人工案例引热议",
+      "谷歌 Antigravity SDK 构建主动式 PR 审查",
+      "500 行 Node.js 桥接 IFTTT 与本地 AI",
+      "一线团队分享 AI Agent 可靠性实战反思",
+      "严格来源 RAG 系统生产化经验受关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.183 with git safety",
+      "OpenAI Codex CLI v0.141.0 released",
+      "Gemini CLI MIME-type fix in progress",
+      "53-day stale lock-fix workflow merged",
+      "Community trust issues over bills and bugs",
+      "Cross-platform parity remains a pain point"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs updated",
+      "474 issues remain open in bug-fix sprint",
+      "Message delivery failures under intense debug",
+      "59 PRs merged or closed today",
+      "Core pipeline sees state corruption fixes",
+      "Session lifecycle management under refactoring"
+    ],
+    "ai-trending": [
+      "Kilo code gains +1,345 stars today",
+      "codebase-memory-mcp explodes with +2,322 stars",
+      "obra/superpowers hits +1,429 stars",
+      "Agentic Engineering replaces Vibe Coding",
+      "GLM-5 tunes models for agentic tasks",
+      "LTX-2 advances multimodal generation"
+    ],
+    "ai-web": [
+      "Claude Opus 4.7 completes tasks 20x faster",
+      "Project Fetch Phase Two shows embodied AI leap",
+      "Anthropic opens Seoul office in South Korea",
+      "BioMysteryBench tests multi-step bio research",
+      "New partnerships across Korean AI ecosystem",
+      "Expansion signals shift to global compliance"
+    ],
+    "ai-hn": [
+      "Anthropic Mythos crisis dominates discussions",
+      "GLM-5.2: powerful but hardware-hungry open model",
+      "Are You in the Weights? quiz goes viral",
+      "Vibe coding debate on developer fulfillment",
+      "Weibo's 3B model sparks benchmark skepticism",
+      "Export controls and legal overreach trending"
+    ],
+    "ai-arxiv": [
+      "Agent safety and robustness dominate papers",
+      "DiffusionGemma analyzed for reasoning transparency",
+      "Jailbreak via mixed compliance demonstrations",
+      "CWE-Trace benchmark for Linux kernel security",
+      "KV-cache compression for context-heavy agents",
+      "Lie-algebra attention mechanisms explored"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro leads with 4,957 weekly likes",
+      "GLM-5.2 MoE model gains 1,350 likes",
+      "Gemma-4-12B coder variant gets 1,712 likes",
+      "FastContext-1.0-4B-SFT from Microsoft trending",
+      "Uncensored Qwen 3.6 fine-tunes surge",
+      "MoE architectures and quantization dominate"
+    ],
+    "ai-community": [
+      "AI covered 97.2% but spreadsheet won the RFP",
+      "Reliability problem forces rethink of AI agents",
+      "Strict-source RAG shipped in 8 weeks",
+      "Satire questions AI economics on Lobste.rs",
+      "Private inference limitations debated",
+      "AI-generated code security concerns grow"
+    ]
+  }
+}

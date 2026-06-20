@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区抱怨子代理递归与工具幻觉问题",
+      "OpenAI Codex发布4个Rust Alpha次版本",
+      "Gemini CLI面临子代理状态谎报与挂起问题",
+      "OpenCode引入MCP全标准与自主状态机",
+      "GitHub Copilot CLI发布v1.0.64-1",
+      "社区对Agent假死与成本控制诉求强烈"
+    ],
+    "ai-agents": [
+      "OpenClaw过去24小时500个Issue和PR涌入",
+      "发布v2026.6.9-beta.1，修复Telegram消息",
+      "关键Bug修复: Telegram Web回归问题已关闭",
+      "Slack会话投递失败的长久问题终于解决",
+      "修复配置中retry.jitter布尔值崩溃问题",
+      "面临大量P0/P1级内存泄漏与会话隔离Bug"
+    ],
+    "ai-trending": [
+      "headroom开源可减少60-95%的token消耗",
+      "DeepSeek-V4-Pro以4969点赞登顶Hugging Face",
+      "codebase-memory-mcp实现毫秒级代码库查询",
+      "Google开源时间序列基础模型TimesFM",
+      "GLM-5.2被指幻觉率仅为GPT-5.5的三分之一",
+      "BuilderIO推出Agent原生应用框架agent-native"
+    ],
+    "ai-web": [
+      "Anthropic研究:专家利用AI产出价值远超普通用户",
+      "报告分析40万次Claude Code会话，揭示人机协作模式",
+      "AI编码工具调试时间在7个月内减半",
+      "OpenAI当日无新增内容发布",
+      "Anthropic用数据证明AI赋能专家而非替代人类",
+      "用户正从编写代码转向设计、部署等高阶工作"
+    ],
+    "ai-hn": [
+      "亚马逊取消Sam Altman传记片后宣布与OpenAI合作",
+      "AlphaFold得主John Jumper加盟Anthropic引热议",
+      "GPT-5.5被指幻觉率是开源模型GLM-5.2的3倍",
+      "社区探讨更大的模型是否必然更好",
+      "Anthropic推出Claude Artifacts可交互输出功能",
+      "黑客利用大模型发起攻击案例引发安全讨论"
+    ],
+    "ai-arxiv": [
+      "研究揭示微调LLM在漏洞检测中只是模式匹配",
+      "混合专家模型在分布偏移下的校准问题被关注",
+      "多智能体系统中评估者偏见传播被首次建模",
+      "提出结构化状态管理确保工具调用代理遵循策略",
+      "DiffusionGemma推理透明度研究发表",
+      "研究揭示混杂有害示例会诱导安全对齐模型越狱"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro以4969点赞与300万下载登顶",
+      "NVIDIA的LocateAnything-3B领跑多模态榜单",
+      "GLM-5.2凭借MoE-DSA架构引发持续关注",
+      "MiniMax-M3多模态旗舰模型表现亮眼",
+      "微软推出FastContext专注长上下文处理速度",
+      "微博VibeThinker-3B在数学推理赛道取得突破"
+    ],
+    "ai-community": [
+      "开发者反思:AI让写代码变易但没让工程变简单",
+      "真实案例:AI修复一个Bug时静默修改了四个功能",
+      "AIClaw项目压缩长Agent对话而不丢失关键信息",
+      "LLM网关架构深度指南覆盖多模型路由与缓存",
+      "Claude Code技能实现Reddit和LinkedIn获客",
+      "社区警告:AI Agent正在擅自修改生产数据库"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Gemini CLI, OpenCode ship MCP support",
+      "Claude Code grapples with cost-escalation bugs",
+      "Windows remains most fragile platform",
+      "Plugin/MCP architectures gaining momentum",
+      "Agent hallucination erodes developer trust",
+      "Cross-platform hardening across tools"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.9-beta.1 released",
+      "500 issues, 500 PRs in 24 hours",
+      "Memory leaks and session isolation bugs",
+      "Critical stability debt plagues project",
+      "Telegram delivery gets HTML support",
+      "High throughput but fragile reliability"
+    ],
+    "ai-trending": [
+      "headroom hits +4,005 stars today",
+      "60-95% token compression before LLM",
+      "Google's TimesFM debuts for forecasting",
+      "Agent-native frameworks on the rise",
+      "vllm reaches 83,367 total stars",
+      "Codebase-memory-mcp reaches 1,058 stars"
+    ],
+    "ai-web": [
+      "Anthropic analyzes 400K Claude Code sessions",
+      "50% reduction in debugging over 7 months",
+      "Domain expertise persists as advantage",
+      "Non-engineers match devs at coding tasks",
+      "Enterprise ROI implications for AI",
+      "OpenAI published no new content today"
+    ],
+    "ai-hn": [
+      "Nobel laureate John Jumper joins Anthropic",
+      "Open model GLM-5.2 beats GPT-5.5",
+      "GLM-5.2 hallucinates 3x less",
+      "Amazon drops biopic after Altman deal",
+      "Talent war with OpenAI escalates",
+      "Militarization of AI raises concerns"
+    ],
+    "ai-arxiv": [
+      "Safety and robustness in agentic systems",
+      "Jailbreak attacks from mixed demonstrations",
+      "KV-cache compression for long contexts",
+      "DiffusionGemma interpretability probed",
+      "CWE-Trace framework for vulnerability",
+      "Probabilistic verification for AI agents"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro leads with 4,969 likes",
+      "Qwen3.6 uncensored variant drives downloads",
+      "GLM-5.2 gains traction as new family",
+      "Nvidia's LocateAnything-3B goes multimodal",
+      "Diffusiongemma 26B-A4B blends vision",
+      "Post-Qwen3.6 and Gemma 4 derivatives surge"
+    ],
+    "ai-community": [
+      "AI accelerates typing, not engineering",
+      "AI summaries need evidence-bound receipts",
+      "Building Python MCP server from scratch",
+      "Costs and pitfalls of agentic workflows",
+      "Private AI claims face skepticism",
+      "Security and caching dominate discussions"
+    ]
+  }
+}

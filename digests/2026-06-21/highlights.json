@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 多智能体协作讨论爆棚，聚焦 Agent 编排与异步事件驱动。",
+      "OpenAI Codex 遭遇 Sandbox Bug 风暴，24小时 10个 Issue 与 10个 PR。",
+      "Qwen Code 社区异常活跃，一天内涌现 50 个 Issue 与 PR。",
+      "Gemini CLI 社区强烈呼吁多 Agent 协作与跨会话通信功能。",
+      "Claude Code 发布 v2.1.185 版本，稳定性与功能迭代并行。",
+      "Pi CLI v0.79.9 发布，聚焦架构重构与新模型支持。"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.9，增强 Telegram 富文本投递功能。",
+      "子 Agent 模型路由修复成焦点，两个新 PR 同时攻坚。",
+      "任务系统跨崩溃恢复新方案提出，面向系统健壮性升级。",
+      "会话状态稳定性与消息投递可靠性成今日核心 Bug 领域。",
+      "Telegram 消息投递延迟问题修复中，减少用户等待时间。",
+      "OpenCode (Zen) 模型目录修复中，免去手动注册模型繁琐。"
+    ],
+    "ai-trending": [
+      "Headroom 成为今日爆款，将工具输出压缩 60-95% 降成本。",
+      "codebase-memory-mcp 索引代码库为知识图谱，减少 99% Token。",
+      "OpenMontage 自称首款开源自主视频制作系统，含 52 个工具。",
+      "mattpocock/skills 定义可复用 AI 工程能力包新趋势。",
+      "withastro/flue 沙盒 Agent 框架提升安全性与可控性。",
+      "Google timesfm 引领时间序列预测基础模型范式转变。"
+    ],
+    "ai-hn": [
+      "AlphaFold2 核心人物 John Jumper 从 DeepMind 跳槽至 Anthropic。",
+      "渗透测试专用模型发布，展示 AI 在网络安全积极应用。",
+      "AutoJack 漏洞揭露单页面可控制运行 AI Agent 的主机。",
+      "社区热议 Claude Code 扫描硬盘的安全隐患问题。",
+      "中美 AI 竞赛节奏引关注：中国何时达 Fable 5 级别。",
+      "开发者对 AI 编码体验反思，情绪从兴奋转向审慎审视。"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 领跑榜单，下载量近 280 万，热度最高。",
+      "NVIDIA LocateAnything-3B 视觉定位模型精准满足社区需求。",
+      "zai-org/GLM-5.2 采用 MoE-DSA 架构，中文推理表现亮眼。",
+      "GGUF 量化格式社区版下载量极高，本地部署需求强劲。",
+      "yuxinlu1 微调 Gemma 4 编码模型荣登热榜，受开发者欢迎。",
+      "WeiboAI 推出 3B 级小模型 VibeThinker，专攻数学推理。"
+    ],
+    "ai-community": [
+      "KV Cache 与 PagedAttention 技术实践成推理优化热门话题。",
+      "Goodhart 法则警示 Agent 评估指标沦为发布关卡失效。",
+      "AI Agent 构建关键在确定性基元，而非复杂提示词工程。",
+      "LLM 网关实现多模型路由降级和语义缓存架构模式。",
+      "AI 开发者需更强批判性思维和架构设计能力引发讨论。",
+      "私有 AI 与中国特色模型接入成为跨平台共同热点。"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.185 shipped",
+      "Kimi Code CLI, OpenCode, Pi added",
+      "Cross-tool convergence on MCP extensibility",
+      "Community engagement highest for Claude Code",
+      "DeepSeek TUI rapidly closing feature gaps",
+      "Pi and OpenCode share provider registries"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.9 released",
+      "500 active issues, 461 open PRs",
+      "Telegram delivery quality improved",
+      "Session-state integrity bugs remain",
+      "39 PRs merged/closed today",
+      "Subagent orchestration failures reported"
+    ],
+    "ai-trending": [
+      "headroom explodes with +3,795 stars",
+      "codebase-memory-mcp gains +1,271 stars",
+      "TimesFM from Google gets +433 stars",
+      "Agent harness tools dominate trends",
+      "vLLM reaches 83,432 stars",
+      "Rig Rust framework gains traction"
+    ],
+    "ai-hn": [
+      "DeepMind's John Jumper joins Anthropic",
+      "Debate on AI export controls rages",
+      "DIY guide for 35B model on RX 580",
+      "AutoJack shows Claude Code exploits",
+      "Open-source GLM rivals closed Opus",
+      "Anxiety over AI agent security grows"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro gets 4,985 likes",
+      "GLM-5.2 debuts with 1,692 likes",
+      "Microsoft FastContext-1.0 released",
+      "DiffusionGemma-26B converges modalities",
+      "NVIDIA's LocateAnything-3B trends",
+      "Qwen3.6 ecosystem expands rapidly"
+    ],
+    "ai-community": [
+      "Dev.to debates Goodhart's Law in agents",
+      "Memory should be product state, not trick",
+      "Private inference called a mirage",
+      "Production LLM gateways guide shared",
+      "Agent geometry done better with code",
+      "AI reshapes conference landscape"
+    ]
+  }
+}

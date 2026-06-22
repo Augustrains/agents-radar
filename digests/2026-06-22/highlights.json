@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code多账户管理成最热议题，获601个点赞",
+      "OpenAI Codex Token消耗激增10-20倍引热议",
+      "Gemini CLI聊天窗口滚动跳到顶部遭27条评论吐槽",
+      "Pi工具OpenAI Codex连接可靠性问题引发64条评论",
+      "Qwen Code发布新稳定版，社区关注IDEA插件弹窗",
+      "DeepSeek TUI“Turn stalled”冻结错误成修复焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw今日处理500条Issues和500个PRs",
+      "会话状态与可靠性修复成为项目进展核心",
+      "24个PR被合并，含Windows后台守护程序",
+      "cron命令支持更灵活的HH:MM时间格式",
+      "v2026.6.10-beta.1仍为最新稳定版本",
+      "大量待处理积压，维护者面临审阅挑战"
+    ],
+    "ai-trending": [
+      "headroom项目今日暴涨2624星，Token压缩神器",
+      "字节开源deer-flow，长程超级Agent框架",
+      "cognee让AI Agent拥有持久化跨会话记忆",
+      "微软synthetic-rag-index减少90%索引大小",
+      "headroom可减少60-95%的Token消耗",
+      "OpenMontage首个开源视频生成Agent系统"
+    ],
+    "ai-web": [
+      "Anthropic今日零更新，或为重大发布蓄力",
+      "OpenAI与三星电子合作部署ChatGPT和Codex",
+      "企业级应用落地成今日AI行业核心信号",
+      "三星将GPT模型深度嵌入内部工作流",
+      "从模型竞赛转向规模化部署与商业化",
+      "OpenAI唯一更新指向韩国科技巨头合作"
+    ],
+    "ai-hn": [
+      "Apertus开源基础模型项目发布，瞄准主权AI",
+      "Recall工具为Claude Code提供本地项目记忆",
+      "微调Qwen 3:0.6B小模型分类问题实践分享",
+      "Analyst Kit将Claude/Codex变成投资分析师",
+      "Anthropic强身份验证流程引社区争议",
+      "开源模型叙事再次点燃，社区反应不一"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro以4999点赞领跑社区",
+      "Qwen3.6-35B-A3B多模态模型下载量超500万",
+      "谷歌Gemma-4-12B-it成微调与量化热门基底",
+      "Nvidia LocateAnything-3B精确定位任何物体",
+      "Kimi-K2.7-Code专注代码截图理解新赛道",
+      "GLM-5.2采用DSA架构，中文对话表现出色"
+    ],
+    "ai-community": [
+      "Vibe coding不是阶段而是独立维度引思考",
+      "判断力成AI辅助开发时代新瓶颈",
+      "技术社区焦点从能否做到转向如何做好",
+      "AI拒绝主义在2026年成软件工程风险",
+      "Kitana项目用字典遍历替代Token预测",
+      "构建AI Agent需操作者纪律的新工程实践"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "All 9 tools hit 10 hot issues each",
+      "Claude Code struggles with API reliability",
+      "OpenAI Codex has 347 total issue comments",
+      "Qwen Code iterates aggressively on features",
+      "API instability is the top community pain",
+      "Windows support lags behind macOS/Linux"
+    ],
+    "ai-agents": [
+      "OpenClaw releases v2026.6.10-beta.1",
+      "Stability crisis with 500 open issues",
+      "Session state loss is top severity bug",
+      "High-velocity development and critical fixes",
+      "Beta targets reliable agent turns",
+      "NanoBot and Hermes Agent among 13 projects"
+    ],
+    "ai-trending": [
+      "headroom and codebase-memory-mcp gain 1K+ stars",
+      "ByteDance's deer-flow hits 72,642 stars",
+      "cognee becomes memory platform for agents",
+      "skills curated .claude directory gains 1,443 stars",
+      "System prompt extraction leaks from major labs",
+      "Multi-agent trading frameworks gain traction"
+    ],
+    "ai-web": [
+      "OpenAI publishes Samsung Electronics case study",
+      "Anthropic publishes zero new articles today",
+      "ChatGPT/Codex targets enterprise coding",
+      "Samsung deployment suggests deep partnership",
+      "OpenAI showcases supply chain optimization",
+      "Analysts should watch for Claude 5 signals"
+    ],
+    "ai-hn": [
+      "Apertus foundation model for European sovereignty",
+      "Anthropic identity verification sparks privacy debate",
+      "Chinese Mythos breach destroys AI classified systems",
+      "Fine-tuning Qwen 3:0.6B for question categorization",
+      "Community argues for switching from closed providers",
+      "Apertus cautious on compute costs and governance"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro tops with 4,999 weekly likes",
+      "Qwen3.6-35B-A3B hits 5.1M downloads",
+      "Gemma-4-12B-it unifies text, vision, audio",
+      "MoE architectures scale aggressively this week",
+      "GLM-5.2 positions as bilingual alternative",
+      "Uncensored Qwen variant demands less restriction"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.186，强化 MCP 管理。",
+      "OpenAI Codex 修复 MCP 兼容性，发布 rust-v0.142.0。",
+      "Pi 发布 v0.79.10，聚焦多智能体架构创新。",
+      "Qwen Code 发布 v0.19.0-preview.0 失败。",
+      "CodeWhale 品牌更名并发布 v0.8.64。",
+      "GitHub Copilot CLI 修复 MCP 安装与策略验证。"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.10-beta.2，支持对话快速模式。",
+      "P0/P1 级 Bug 频发，会话状态与内存泄漏风险高。",
+      "PR #95911 引入独立安全监控器，实时检测不安全操作。",
+      "社区热议“断连”和状态不一致问题。",
+      "多大型 PR 推进 MCP 作用域与文件系统安全。",
+      "今日关闭 153 个 Issue，社区互动活跃。"
+    ],
+    "ai-trending": [
+      "deer-flow 今日暴增 738 星，字节跳动开源长周期 Agent。",
+      "airllm 实现 4GB 显存运行 70B 模型，推理成本新低。",
+      "Stirling-PDF 日增 547 星，PDF 处理成 RAG 基础设施。",
+      "mattpocock/skills 日增 2051 星，Agent 工作流典范。",
+      "firecrawl 日增 615 星，Agent 联网数据管道。",
+      "OpenMontage 引领 AI 视频创作新范式。"
+    ],
+    "ai-web": [
+      "Anthropic 研究发现用户专长显著提升 AI 编码效率。",
+      "Anthropic 与盖茨基金会达成 2 亿美元战略合作。",
+      "Claude Code 用户调试时间 7 个月内减半。",
+      "研究显示所有职业用户编码成功率与工程师持平。",
+      "OpenAI 更新标题暗示安全愿景，“Daybreak”出炉。",
+      "Anthropic 量化“智能体编码”的经济回报。"
+    ],
+    "ai-hn": [
+      "Codex 日志 Bug 狂写 TB 数据，可能损毁 SSD。",
+      "GLM-5.2 在智能体评估中超越 GPT-5.5。",
+      "五眼联盟警告 AI 数月内可颠覆政府。",
+      "本地运行 GLM-5.2 教程获 179 分热议。",
+      "PMB 为 AI 编码 Agent 提供本地优先记忆。",
+      "社区对 AI 泡沫与安全风险批判声音增多。"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 登顶，获 5,012 赞和 240 万下载。",
+      "GLM-5.2 采用 MoE-DSA 架构，社区热度极高。",
+      "Gemma 4-12B-it 支持多模态，下载量近 200 万。",
+      "Cohere North-Mini-Code-1.0 编程专用 MoE 受捧。",
+      "nvidia LocateAnything-3B 成视觉定位明星。",
+      "社区量化模型 Qwen3.6 去审查版下载 410 万。"
+    ],
+    "ai-community": [
+      "“最少 AI 原则”文章获 34 赞，反思过度使用。",
+      "构建跨 46 仓库的知识图谱，提升 Agent 理解力。",
+      "Agentic RAG 引入自纠错检索，提高精准度。",
+      "提示注入漏洞案例分析，引发安全讨论。",
+      "信任是向量，代理链需类型化溯源设计。",
+      "Prime Day 提示工程案例，强调结构化与实效。"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.186 ships",
+      "OpenAI Codex cost surge 10-20×",
+      "Gemini CLI sees 50 new issues",
+      "Kimi Code & Qwen Code focus on routing",
+      "Copy/paste indentation bug (#18170)",
+      "Resource lifecycle management is key challenge"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.10-beta.2 released",
+      "Automatic fast mode for talks added",
+      "261 issues updated in 24 hours",
+      "500 PRs updated in 24 hours",
+      "P0/P1 stability bugs persist",
+      "442 open PRs signal growing backlog"
+    ],
+    "ai-trending": [
+      "OpenMontage gains +2,938 stars today",
+      "palmier-pro agent kits surge +2,463 stars",
+      "DeusData/codebase-memory-mcp +1,185 stars",
+      "ByteDance's deer-flow +738 stars",
+      "Ollama now supports Kimi-K2.6 & GLM-5.1",
+      "LLM stock analysis tool hits +1,557 stars"
+    ],
+    "ai-web": [
+      "Anthropic studies 400K Claude Code sessions",
+      "Anthropic & Gates Foundation $200M partnership",
+      "OpenAI teases 'Daybreak Securing The World'",
+      "AI coding tools boost productivity",
+      "Human expertise remains critical",
+      "Economic impact of AI coding measured"
+    ],
+    "ai-hn": [
+      "Codex logging bug threatens SSDs (468 pts)",
+      "GLM-5.2 beats GPT-5.5 on agentic tasks",
+      "Local GLM-5.2 deployment guide trending",
+      "Selector Forge extension for AI selectors",
+      "Community split on OpenAI vs local models",
+      "Skepticism toward Big AI narratives high"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4 Pro tops with 5,012 likes",
+      "GLM-5.2 MoE-DSA gains 2,038 likes",
+      "Gemma-4-12B-it crosses 1.9M downloads",
+      "NVIDIA LocateAnything-3B launches",
+      "GGUF quantization dominates 8 of top 30",
+      "Qwen3.6 derivatives proliferate rapidly"
+    ],
+    "ai-community": [
+      "Principle of Least AI gains traction",
+      "Knowledge graph across 46 repos built",
+      "Multi-agent coordination challenges discussed",
+      "Prompt injection & zero-day discovery hot",
+      "Vibe Coding Traps article sparks debate",
+      "Can gzip be a language model? explored"
+    ]
+  }
+}

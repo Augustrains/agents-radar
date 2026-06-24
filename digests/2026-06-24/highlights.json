@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.187 正式版发布，专注企业级安全",
+      "OpenAI Codex 连发7个 Rust Alpha 版本",
+      "Gemini CLI 子代理误报 GOAL success 引热议",
+      "GitHub Copilot CLI v1.0.64 版本发布",
+      "Pi 连发 v0.80.0/1/2 三个版本迭代",
+      "Qwen Code v0.19.1 及 Nightly 版本更新"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区积压466条待合并PR，活跃度极高",
+      "核心会话SQLite迁移方案 (#88838) 引35条深度讨论",
+      "iMessage响应延迟追踪 (#96148) 获17条评论",
+      "Anthropic思考块签名无效Bug (#92201) 被热议",
+      "实时语音扩展 PR #96173 提出，新增本地语音支持",
+      "Cron定时器全局状态污染 (#90991) 被修复"
+    ],
+    "ai-trending": [
+      "OpenMontage 开源首个智能体视频制作系统，获3592星",
+      "gstack 将投资人工作流固化为可复用Agent配置集",
+      "deer-flow 字节跳动开源长时程超级智能体框架",
+      "codebase-memory-mcp 毫秒级查询158种语言代码",
+      "vllm 高吞吐LLM推理引擎持续领跑，获83k星",
+      "firecrawl 面向AI代理的网站搜索API获138k星"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude Tag，@即可在Slack委托任务",
+      "Anthropic 内部65%代码由 Claude Tag 生成",
+      "Claude Tag 从响应式工具进化为主动协作者",
+      "Anthropic 构建Agent长期记忆与任务规划能力",
+      "OpenAI 今日无任何官方新内容发布",
+      "Anthropic 全力押注AI Agent产品化与实测"
+    ],
+    "ai-hn": [
+      "TikZ Editor LaTeX绘图编辑器获329分62评论",
+      "RLM本地debugger可调试AI Agent执行轨迹",
+      "AWS Lambda推出MicroVMs沙箱支持Agent代码",
+      "Anthropic更新条款要求验证年龄或引隐私争议",
+      "Claude服务大规模故障获205分252评论",
+      "Meta AI重组失败引行业对泡沫的反思"
+    ],
+    "ai-arxiv": [
+      "SAFARI框架解决长程多智能体故障归因问题",
+      "Governed Shared Memory 定义舰队记忆四种故障",
+      "ReM-MoA 用记忆机制突破MoA深度扩展瓶颈",
+      "LLM在刑事法律语境存在严重过度拒绝问题",
+      "非洲语言Token碎片化致成本和延迟显著增加",
+      "Scaling Law扩展指数偏小引发物理极限思考"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 以5030赞领跑开源LLM",
+      "Gemma-4-12B-it 采用any-to-any统一架构",
+      "GLM-5.2 智谱MoE模型获2198赞迅速崛起",
+      "NVIDIA LocateAnything-3B 精准目标定位模型",
+      "MiniMax-M3 第三代多模态模型视觉理解出色",
+      "Kimi-K2.7-Code 代码专家模型压缩高效生成"
+    ],
+    "ai-community": [
+      "AI代码80/20法则：最后20%功能占80%时间",
+      "Agent记忆中毒后重建的七条核心规则",
+      "Eval First：像TDD一样评测AI功能输出",
+      "Context Compaction 可视化Agent遗忘信息",
+      "Hetzner因AI内存需求再次大幅涨价",
+      "LLM令牌优化完整指南覆盖代码到监控"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Gemini CLI lead engagement",
+      "OpenAI Codex faces cost-regression crisis",
+      "Qwen Code hit by 20+ bugs in one day",
+      "Pi suffers triple provider regression",
+      "Kimi Code and DeepSeek TUI consolidate",
+      "Community demands better sandboxing"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 PRs in 24 hours",
+      "Low merge rate signals review bottleneck",
+      "High issue count hits 187 updated",
+      "Session state integrity is top concern",
+      "Patch release likely imminent",
+      "Windows ACPX spawn fix landed"
+    ],
+    "ai-trending": [
+      "Hermes Agent gains 936 stars today",
+      "ECC hits 220,565 total stars",
+      "Deer Flow adds 739 stars from ByteDance",
+      "OpenMontage surges +3,592 stars",
+      "Voice cloning enters agent space",
+      "Anthropic Cybersecurity Skills maps 817 skills"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude Tag",
+      "65% of product code now AI-generated",
+      "Claude operates as proactive team member",
+      "Targets Slack for enterprise workflow",
+      "Extends Claude Code into multi-user",
+      "Direct escalation in agent race"
+    ],
+    "ai-hn": [
+      "Anthropic suffers major Claude outage",
+      "New age verification terms spark debate",
+      "AI bubble anxiety hits multiple posts",
+      "Linux Foundation proposes Name Service",
+      "AWS Lambda debuts new MicroVMs",
+      "Claude Tag met with HN skepticism"
+    ],
+    "ai-arxiv": [
+      "LLM scaling faces energy bottleneck",
+      "African languages pay tokenization tax",
+      "NatureBench tests coding agents",
+      "Multi-agent systems gain new frameworks",
+      "Red-teaming agentic systems emerges",
+      "Fairness in RAG pipelines studied"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro tops 5,030 likes",
+      "GLM-5.2 surges with 2,198 likes",
+      "NVIDIA LocateAnything-3B hits 2,317",
+      "DiffusionGemma-26B-A4B-it trending",
+      "GGUF variants see massive downloads",
+      "Boogu-Image enables lightweight editing"
+    ],
+    "ai-community": [
+      "AI code hits 80/20 production wall",
+      "Agent memory suffers hallucination",
+      "Open-source LLM visibility alternative",
+      "Developers debate ecosystem maturity",
+      "Hetzner price hikes raise concerns",
+      "Local alternatives gain momentum"
+    ]
+  }
+}

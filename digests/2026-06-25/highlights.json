@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区激辩 Token 消耗与 Agent 可靠性",
+      "OpenAI Codex Token 暴涨，SSD 写入磨损引热议",
+      "Gemini CLI 高强度修复 Agent 挂起与安全漏洞",
+      "OpenCode v1.17.10 发布，增强 MCP 标准化支持",
+      "Kimi Code CLI 被指上下文压缩浪费 Token",
+      "Pi 社区关注连接卡死与并行 Agent 扩展能力"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.11-beta.1，增强通道控制",
+      "OpenClaw 提交 PR 将会话存储迁移至 SQLite",
+      "Hermes Agent 今日新增 1178 Star 增长迅猛",
+      "vllm 获 84090 Star，成 LLM 推理标准之选",
+      "Ollama 已更新支持 Kimi、GLM、DeepSeek 等模型",
+      "Cherry Studio 集智能聊天与自主 Agent 于一体"
+    ],
+    "ai-trending": [
+      "DeepSeek-V4-Pro 登顶 Hugging Face 获 5048 赞",
+      "GLM-5.2 系列 MoE 模型全面爆发，下载量惊人",
+      "NVIDIA 发布 LocateAnything-3B 视觉定位模型",
+      "MiniMax-M3 多模态大模型获 1228 赞",
+      "Gemma-4-12B 社区微调版成为二创基石",
+      "Croqtile: 为 AI 设计的下一代内核编程 DSL"
+    ],
+    "ai-web": [
+      "Anthropic 与美能源部合作开发 AI 核保障分类器",
+      "Anthropic 调查 81000 用户揭示 AI 经济 K 型分化",
+      "AI 提升高/低收入生产力，加剧中间层焦虑",
+      "OpenAI 与博通合作开发名为 Jalapeno 的推理芯片",
+      "Anthropic 将安全方法分享给前沿模型论坛",
+      "OpenAI 今日仅有元数据更新，缺乏细节"
+    ],
+    "ai-hn": [
+      "OpenAI 携手博通发布首款定制推理芯片 Jalapeno",
+      "NSA 因 Anthropic 纠纷失去 Mythos 模型访问权限",
+      "Mythos 模型曾在分类美国政府系统中发现漏洞",
+      "Lelu 开源：基于置信度门控 OpenAI Agent 行为",
+      "社区热议 AI 公司承担准国家安全职能的利弊",
+      "Reid Hoffman 尖锐批评马斯克 AI 布局引热议"
+    ],
+    "ai-arxiv": [
+      "语义一致性策略优化提升 LLM Agent 长程训练效率",
+      "OPERA 用客观困惑度对齐开放推理任务",
+      "RAS 提出基于拒绝对齐的 LLM 安全度量新方法",
+      "新基准评估工具 Agent 在不稳定环境下的性能",
+      "AI Snitches 论文探讨用户端逃逸智能体监控",
+      "MiniOpt 轻量框架解决面向优化的 LLM 训练难题"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro 登顶，获 5048 赞超 200 万下载",
+      "GLM-5.2 系列 MoE 模型全面爆发引社区热议",
+      "Gemma-4-12B 社区 GGUF 量化版下载量激增",
+      "Qwen-AgentWorld-35B-A3B 专注智能体决策",
+      "NVIDIA LocateAnything-3B 支持指代分割与检测",
+      "Kimi-K2.7-Code 适配图像与代码混合任务"
+    ],
+    "ai-community": [
+      "AI Agent 安全信任层缺失成社区最大热点",
+      "GitHub Copilot 计费变更引发 Token 成本精算",
+      "开发者探索用低成本模型替代 GPT-4o 处理特定任务",
+      "AI 编码助手被指缺乏项目级记忆能力",
+      "自动化红队测试将 AI Agent 漏洞降至零",
+      "HolmesGPT 展示 AI 驱动的 SRE 修复自动验证实践"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads community engagement",
+      "Windows stability remains weakest link",
+      "Cost spikes frustrate Claude Code users",
+      "OpenCode expands MCP features aggressively",
+      "Codex CLI focuses on enterprise sandboxing",
+      "Gemini CLI prioritizes developer velocity"
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.6.11-beta.1",
+      "67 issues closed in 24 hours",
+      "New Slack relay mode for channels",
+      "Mattermost /oc_queue support added",
+      "Automatic fast mode for conversations",
+      "500 pull requests updated today"
+    ],
+    "ai-trending": [
+      "DeepSeek-V4-Pro tops with 5K stars",
+      "AutoGPT remains a trending project",
+      "Ollama continues strong community growth",
+      "LangChain still a top AI framework",
+      "OpenHands gains developer traction",
+      "vLLM leads in inference optimization"
+    ],
+    "ai-web": [
+      "Anthropic develops nuclear safeguards with DOE",
+      "81K-user study reveals AI job displacement fears",
+      "OpenAI announces Jalapeno chip with Broadcom",
+      "Classifier detects concerning nuclear queries",
+      "Early-career workers fear AI most",
+      "Government partnership for frontier safety"
+    ],
+    "ai-hn": [
+      "OpenAI chip announcement dominates with 532 points",
+      "NSA lost access to Mythos amid dispute",
+      "Reid Hoffman critiques Musk ventures",
+      "LLMs use safety neurons for code vulnerabilities",
+      "Codex bombards SSDs with write operations",
+      "Community debates private AI power over government"
+    ],
+    "ai-arxiv": [
+      "SARA improves multilingual MoE routing",
+      "RAS offers judge-free safety metric",
+      "Encoders rival decoders as safety judges",
+      "LLM agents dominate research submissions",
+      "Safety and robustness are key themes",
+      "Medical AI applications remain fertile ground"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro tops with 5,048 likes",
+      "GLM-5.2 MoE model gains traction",
+      "Gemma-4-12B-it leads multimodal models",
+      "Quantization variants see huge downloads",
+      "Qwen releases agentic 35B MoE model",
+      "MiniMax-M3 drives vision-language trend"
+    ],
+    "ai-community": [
+      "Copilot shifts to token billing",
+      "Claude Tag lacks trust layer",
+      "MCP security holes exposed",
+      "HolmesGPT auto-verifies SRE fixes",
+      "Lobste.rs debates Prompt Injection",
+      "TIRx compiler optimizes inference stack"
+    ]
+  }
+}

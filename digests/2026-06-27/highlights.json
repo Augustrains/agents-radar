@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.195，社区讨论最为深入",
+      "OpenAI Codex Issue 爆炸，核心问题突出",
+      "Gemini CLI PR 活跃，聚焦结构性改进",
+      "Qwen Code 安全修复与功能并行，更新频繁",
+      "Pi 工具 TUI 体验与稳定性成为社区焦点",
+      "Kimi Code 社区规模小但 Bug 反馈清晰"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时更新 1000 条 Issue 与 PR",
+      "修复工具调用截断问题，防止恶意调用",
+      "新增内存搜索诊断工具，提升自查能力",
+      "PR #97141 防止会话记录每日自动丢失",
+      "待合并 PR 积压 448 个，维护压力巨大",
+      "安全性成今日焦点，聚焦数据泄漏防护"
+    ],
+    "ai-trending": [
+      "MinerU 文档转 LLM 工具单日获 960 星",
+      "ai-berkshire 将巴菲特投资法注入 Agent",
+      "gstack 让 Agent 扮演 CEO 设计者等角色",
+      "Agent-Reach 赋予 AI 阅读整个互联网的能力",
+      "AWS 推出官方 MCP Servers，拥抱 Agent 生态",
+      "zilliztech 为 Claude Code 做代码搜索 MCP"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude Tag，团队协作新工具",
+      "Claude Corps 奖学金计划投入 1.5 亿美元",
+      "Anthropic 开设首尔办公室，强化亚洲布局",
+      "Anthropic 今日发布 18 篇内容占信息主导",
+      "OpenAI 仅更新 2 篇无正文元数据页面",
+      "Anthropic 转向构建 AI 专家协作者"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol 发布，但遭政府审查引发争议",
+      "Mythos 仅限可信伙伴发布，AI 监管趋严",
+      "智能模型路由工具 Router 获 148 分热议",
+      "Mantis 自托管 LLM 网关项目获社区关注",
+      "开源与闭源模型差距成社区讨论焦点",
+      "AI 智能体工程实践问题热度持续高涨"
+    ],
+    "ai-arxiv": [
+      "RiVER 无需标准答案即能训练 LLM",
+      "多模型系统存在共同失效天花板",
+      "BINEVAL 用二元问题替代不透明打分",
+      "意图感知训练显著提升安全分类",
+      "GUI Agent 通过经验探索自主规划任务",
+      "层叠 Muon 优化算法支持大规模训练"
+    ],
+    "ai-hf": [
+      "GLM-5.2 获 2594 赞，智谱新 MoE 模型霸榜",
+      "nvidia LocateAnything-3B 下载量近 50 万",
+      "百度 Unlimited-OCR 通用识别模型下载超 13 万",
+      "Qwen AgentWorld-35B 专为工具调用设计",
+      "MiniMax-M3 多模态模型下载量超 16 万",
+      "大量 Gemma 4 和 Qwen 无审查版涌现"
+    ],
+    "ai-community": [
+      "AI 代码能运行却逻辑错误成最大风险",
+      "护栏设计防止 AI Agent 脱轨成焦点",
+      "AI 降低了生成成本但未降低判断成本",
+      "Claude Code 真实隐藏成本有多高被剖析",
+      "Vibe Coding 非软件开发引发批判讨论",
+      "运行时沙箱化成为 AI 应用新挑战"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.195 shipped",
+      "False success reports plague agents",
+      "OpenAI Codex rate-limit surge frustrates",
+      "Gemini CLI false-positive termination",
+      "Windows credential persistence issues",
+      "Sub-agent orchestration demand growing"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs today",
+      "448 open PRs bottleneck maintainers",
+      "NanoBot & Hermes Agent active",
+      "OpenCode idle timer fix merged",
+      "Windows daemon autofix pipeline added",
+      "Zero new releases published today"
+    ],
+    "ai-trending": [
+      "gstack: CEO-in-a-CLI agent harness",
+      "OpenMontage: open-source video agent",
+      "MinerU leads document-to-LLM pipeline",
+      "ollama hits 174,954 stars",
+      "vllm hits 84,471 stars",
+      "ai-berkshire: AI value investing agent"
+    ],
+    "ai-web": [
+      "Claude Tag launches on Slack",
+      "$150M Claude Corps fellowship announced",
+      "400K Claude Code sessions analyzed",
+      "DXC & TCS enterprise partnerships",
+      "Mythos Preview cybersecurity deep dive",
+      "Economic Index shows agentic coding shift"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol: 848 points, 504 comments",
+      "Government vets all GPT-5.6 users",
+      "Anthropic Mythos to trusted partners",
+      "Licensed AI trend sparks debate",
+      "Smart model router for coding IDEs",
+      "State-sanctioned distribution criticized"
+    ],
+    "ai-arxiv": [
+      "RiVER: RL training without answers",
+      "Sequence probability vs. correctness",
+      "Sparsity regularizers for sparse autoencoders",
+      "Epidemiological parameter estimation",
+      "Political network analysis advances",
+      "Hallucination detection in world models"
+    ],
+    "ai-hf": [
+      "Qwen 3.5/3.6 MoE family dominates",
+      "NVIDIA NVFP4 models hit 4.8M downloads",
+      "Google Gemma 4 fine-tuning explodes",
+      "GLM-5.2 trends with 83K downloads",
+      "Microsoft FastContext-1.0 released",
+      "Baidu Unlimited-OCR stands out"
+    ],
+    "ai-community": [
+      "Claude Code costs four-part deep dive",
+      "Functional doesn't mean correct",
+      "AI reviewer scored 23/25, missed point",
+      "Your repo is the memory",
+      "Runtime telemetry before commit telemetry",
+      "AI-powered adaptive worm warnings"
+    ]
+  }
+}

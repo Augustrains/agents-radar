@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区活跃，聚焦 Agent 可控性",
+      "OpenAI Codex 发布3个Alpha版本",
+      "Gemini CLI 活跃度极高，发布 Nightly",
+      "GitHub Copilot CLI 讨论 Token 成本",
+      "OpenCode 热议安全漏洞与窗口兼容",
+      "Qwen Code 跟进多 Agent 协作"
+    ],
+    "ai-agents": [
+      "OpenClaw 日增500 Issue 与500 PR",
+      "修复子代理死锁，释放文件锁",
+      "推进托管市场目录功能",
+      "Agent 承诺跟进后无行动引热议",
+      "会话状态一致性是核心痛点",
+      "内存泄漏问题亟待解决"
+    ],
+    "ai-trending": [
+      "gstack 今日增674星，封装YC CEO的Agent",
+      "cognee 获780星，解决Agent记忆中断",
+      "opencode 增392星，开源编程Agent",
+      "claude-howto 助开发者快速上手",
+      "vibe-trading 展示个人量化交易Agent",
+      "xbtlin 构建多智能体价值投资分析"
+    ],
+    "ai-hn": [
+      "亚洲初创推Mythos级模型对抗Anthropic",
+      "Anthropic 指控阿里用2.5万账号挖Claude",
+      "Adrafinil 让合盖Mac仅Agent工作时唤醒",
+      "KV-psi 用PSI优化LLM缓存",
+      "AI产业模式已死：观点激烈讨论",
+      "KV缓存优化与本地推理受关注"
+    ],
+    "ai-hf": [
+      "百度 Unlimited-OCR 登顶下载榜",
+      "NVIDIA LocateAnything-3B 视觉定位",
+      "DeepSeek-V4-Pro-DSpark 发布新架构",
+      "Qwen3.6-35B 社区版下载超330万",
+      "GLM-5.2 MoE架构旗舰模型",
+      "MiniMax-M3 多模态模型表现优异"
+    ],
+    "ai-community": [
+      "LLM账单从620美元飙升至2480美元",
+      "开发者自建AI API统一网关",
+      "深度拆解AI Agent五大核心组件",
+      "警告：AI应用中成功但脆弱的陷阱",
+      "双池对抗机制提升AI Code Review",
+      "Model-as-Judge不应放在热路径"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code stalled on critical Op issue",
+      "Gemini CLI invests heavily in security",
+      "DeepSeek TUI pushes plugin extensibility",
+      "Token consumption crisis across all tools",
+      "Context compaction demanded by community",
+      "Major tools pursue distinct architectural visions"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs in 24 hours",
+      "451 of 500 PRs still open—review bottleneck",
+      "No new releases today for OpenClaw",
+      "Memory leaks affect production deployments",
+      "Hosted catalog snapshots persist in state",
+      "Session state management remains unstable"
+    ],
+    "ai-trending": [
+      "Agent harness explosion led by Claude Code",
+      "NousResearch/hermes-agent hits 204k stars",
+      "topoteretes/cognee gains +780 today",
+      "94 unique AI projects identified",
+      "30 agent/workflow projects dominate",
+      "ECC at 222k stars as top agent system"
+    ],
+    "ai-hn": [
+      "Anthropic export ban sparks geopolitical debate",
+      "Alibaba allegedly used 25k accounts for Claude",
+      "Asian startups launch Mythos-like models",
+      "Farmer arrested for data center meeting overrun",
+      "Export ban accelerating foreign AI competition",
+      "Strong anti-corporate sentiment in discussions"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 and GLM-5.2 dominate top ranks",
+      "Uncensored Qwen variant hits 3.3M downloads",
+      "GGUF quantized models explode for local use",
+      "Krea-2 Turbo landmark text-to-image release",
+      "DeepSeek V4 Pro DSpark trending with arXiv",
+      "LiquidAI LFM2.5-230M proves small models viable"
+    ],
+    "ai-community": [
+      "Silent failure of AI agents explored deeply",
+      "Context rot and deterministic architectures debated",
+      "Echoes of the AI Winter sparks 33 comments",
+      "OpenAI's Jalapeño custom inference ASIC",
+      "Running modern LLMs on decade-old GTX 770",
+      "Hidden LLM costs spike from $620 to $2,480"
+    ]
+  }
+}

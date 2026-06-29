@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区热议成本失控与稳定性问题",
+      "OpenAI Codex 日志写入与CPU占用成焦点",
+      "Gemini CLI 发布 Nightly 版，子代理行为受关注",
+      "Qwen Code 发布 v0.19.3，Token消耗问题突出",
+      "Pi 社区积极适配新模型与提供商",
+      "OpenCode 社区讨论从CLI到新型模型兼容性问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.11-beta.2，支持 Slack 中继模式",
+      "SQLite 存储迁移进入冲刺阶段",
+      "新增原生 Mattermost `/oc_queue` 支持",
+      "每 DM 模型覆盖功能实现精细自动化调优",
+      "大量会话状态丢失Bug待修复",
+      "社区与开发团队互动频繁，500条Issue和PR"
+    ],
+    "ai-trending": [
+      "codebase-memory-mcp 今日新增 Stars 超2000",
+      "ai-berkshire 多Agent价值投资框架获1445星",
+      "Vibe-Trading 个人交易Agent受社区热捧",
+      "cupy GPU加速库持续稳定增长",
+      "video-use 用编码Agent进行视频编辑",
+      "strix 开源AI黑客工具自动修复安全漏洞"
+    ],
+    "ai-web": [
+      "OpenAI 与 HP Frontier 达成战略合作",
+      "Anthropic 今日无新官方内容发布",
+      "合作指向企业级AI算力与基础设施",
+      "OpenAI 加速从模型竞赛转向产业生态构建",
+      "HP Frontier 或为大规模GPU集群合作方",
+      "Anthropic 聚焦内部研发与模型安全研究"
+    ],
+    "ai-hn": [
+      "GLM 5.2 在网络安全基准测试中击败 Claude",
+      "用户用 Claude Code 分析个人MRI引争议",
+      "LLMs 是否通过镜像测试引发自我意识讨论",
+      "NanoEuler 从零实现GPT-2获社区赞赏",
+      "AgentWatch 工具防止AI Agent失控消耗预算",
+      "福特重新聘请资深工程师反映AI落地困难"
+    ],
+    "ai-hf": [
+      "GLM-5.2 旗舰MoE模型以2821赞居首",
+      "HauhauCS/Qwen3.6-35B-A3B 下载量超324万",
+      "DeepSeek-V4-Pro-DSpark 正式开源",
+      "nvidia/LocateAnything-3B 零样本定位模型",
+      "krea/Krea-2-Turbo 图像生成模型突破性更新",
+      "Qwen-AgentWorld-35B-A3B 专用Agent世界模型"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Cost governance crisis across all tools",
+      "Claude Code hit by 3 hot issues",
+      "Tools split between TUI and agent focus",
+      "Runaway billing and infinite loops reported",
+      "Gemini CLI and Kimi Code featured",
+      "OpenCode and Pi tools in ecosystem"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.11-beta.2 released",
+      "500 issues and 500 PRs in 24 hours",
+      "Session state integrity is top concern",
+      "Slack relay and Mattermost commands added",
+      "Per-DM model overrides now supported",
+      "Large backlog of complex issues persists"
+    ],
+    "ai-trending": [
+      "Codebase-memory-mcp gains 2,190 stars",
+      "AI-Berkshire launches with 1,445 stars",
+      "MCP servers emerge as key trend",
+      "Simplex-chat adds 1,180 stars today",
+      "Robbyant/lingbot-map gains 372 stars",
+      "CuPy adds 174 stars for GPU arrays"
+    ],
+    "ai-web": [
+      "Anthropic publishes zero articles today",
+      "OpenAI posts sole HP partnership article",
+      "No article text or metadata available",
+      "OpenAI content quality gap highlighted",
+      "Quiet period may signal upcoming release",
+      "HP Frontier Partnership URL revealed"
+    ],
+    "ai-hn": [
+      "GLM 5.2 beats Claude in benchmarks",
+      "456 points, 225 comments debate brewing",
+      "LLMs mirror test sparks 53 comments",
+      "US-China AI decoupling narrative dominant",
+      "Semgrep claim fuels benchmark skepticism",
+      "Ford hiring story ignites AI replacement debate"
+    ],
+    "ai-hf": [
+      "Qwen3.6-35B Uncebnsored hits 3.2M downloads",
+      "NVFP4 quantization becoming production standard",
+      "DeepSeek V4 Pro DSpark debuts",
+      "NVIDIA LocateAnything-3B goes trending",
+      "Baidu's Unlimited-OCR gains traction",
+      "Gemma 4 Fable series coding models surge"
+    ],
+    "ai-community": [
+      "Fragile AI agents in production discussed",
+      "Geopolitical AI cold war fiction goes viral",
+      "VP of Nothing story gets 36 reactions",
+      "Don't Compress Promote gets 4 reactions",
+      "Math's future in AI world questioned",
+      "Vector DB selection cost debate intense"
+    ]
+  }
+}

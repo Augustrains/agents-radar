@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.196 发布，持续修复高负载下配额消耗问题",
+      "OpenAI Codex 发布 v0.143.0 大版本，性能优化与资源管理成焦点",
+      "Gemini CLI 每日构建 v0.51.0，聚焦架构安全性修复",
+      "OpenCode 启动 V2 架构重构，MCP 集成成为核心主旋律",
+      "Pi 工具流式体验大幅优化，企业级稳定性成社区关注重点",
+      "Qwen Code v0.19.3 强化渠道集成，自动化能力获社区热捧"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区日提交 500+ PR，极速修复关键 Bug",
+      "OpenClaw 重大架构变更：会话存储将从 JSON 迁移至 SQLite",
+      "OpenClaw PR 修复代码运行时缺少权限校验的安全漏洞",
+      "社区热推 mstarzewski/agency-agents，多智能体编排概念引关注",
+      "xbtlin/ai-berkshire 让多智能体模拟巴菲特进行价值投资",
+      "browser-use/video-use 将 AI 代理从网页操控延伸至视频编辑"
+    ],
+    "ai-trending": [
+      "ollama 突破 175K Stars，本地 LLM 运行首选工具地位稳固",
+      "huggingface/transformers 稳坐 ML 瑞士军刀，模型库持续更新",
+      "browser-use 星数破 10 万，AI 代理操控浏览器成为主流",
+      "vllm 项目持续领跑高性能推理，企业级部署首选引擎",
+      "ai-berkshire 项目单日涨星 1386，AI 价值投资框架出圈",
+      "video-use 单日涨星 967，开启 AI 代理视频编辑新赛道"
+    ],
+    "ai-hn": [
+      "Micro-Agent 新范式声称可内部协作击败前沿大模型引热议",
+      "Anthropic Claude Fable 5 预计本周回归，影响竞争格局",
+      "韩国万亿级芯片与机器人投资计划登 HN 热榜首位",
+      "本地运行视觉模型项目 ScreenMind 获社区高度聚焦",
+      "远离 Claude Code 复制粘贴错误，博客引发 45 条深度讨论",
+      "AI 泡沫与效率优先讨论增多，社区对可持续性担忧加剧"
+    ],
+    "ai-hf": [
+      "智谱 GLM-5.2 MoE 模型周获近 3000 赞，登顶热门榜首",
+      "百度 Unlimited-OCR 通用模型下载量超 36 万，社区评价极高",
+      "DeepSeek V4 系列正式上线，与 Qwen 3.5 共建最强开源生态",
+      "NVIDIA LocateAnything 视觉定位模型备受关注",
+      "Krea-2-Turbo 图像生成模型发布，社区反响强烈",
+      "社区微调模型 Qwythos-9B 融合 Claude 风格，下载量惊人"
+    ],
+    "ai-community": [
+      "AI Engineer World's Fair 大会带来 Agent 构建实践分享",
+      "Lobste.rs 上'AI 寒冬'讨论热度不减，开发者质疑可持续性",
+      "挑战主流认知：模型无需记忆，情境才是关键引发热议",
+      "本地 Ollama 自动生成 Git 提交信息工作流获点赞 35 次",
+      "知识图谱破解 46 仓库 AI 上下文检索问题，深度技术文章",
+      "MCP 服务器动手实践指南，让 AI Agent 调用数据库与 API"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.196 released",
+      "CLI tools show enterprise hardening focus",
+      "MCP ecosystem fragility emerges as theme",
+      "Token/cost management anxiety rising",
+      "OpenAI Codex dominates community engagement",
+      "Demand for transparent sub-agent behavior"
+    ],
+    "ai-agents": [
+      "OpenClaw has 404 issues and 500 PRs",
+      "No new OpenClaw releases today",
+      "Maintainer bottleneck forming with 340 open issues",
+      "Fixed Slack relay SyntaxError crashes",
+      "54 PRs merged or closed today",
+      "Core team struggling with triage workload"
+    ],
+    "ai-trending": [
+      "ai-berkshire hits +1,386 stars today",
+      "agency-agents gains +1,425 stars",
+      "video-use brings AI video editing agents",
+      "Ollama now supports Kimi-K2.6 and GLM-5.1",
+      "Firecrawl at 141,546 stars for web-to-AI",
+      "vLLM leads production LLM inference"
+    ],
+    "ai-hn": [
+      "Micro-Agent beats frontier models via collaboration",
+      "South Korea invests in hardware and robotics",
+      "Debate on AI spending 'super bubble'",
+      "Claude Code paste errors spark philosophical debate",
+      "Vibe shift toward AI efficiency discussed",
+      "2013 Anthropic CEO warning on open-source AI"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE-DSA tops open-weight LLMs",
+      "Baidu Unlimited-OCR leads with 362K downloads",
+      "DeepSeek-V4-Pro-DSpark gains traction",
+      "LiquidAI LFM2.5-230M for on-device deployment",
+      "WeiboAI VibeThinker-3B specializes in math",
+      "GGUF quantization remains dominant format"
+    ],
+    "ai-community": [
+      "AI Engineer World's Fair dominates Dev.to",
+      "Lobste.rs explores AI winter warnings debate",
+      "Debate on memory vs external context for AI",
+      "LLM API call pipeline demystified",
+      "Multi-repo semantic search with knowledge graphs",
+      "Agentic worm security risks discussed"
+    ]
+  }
+}

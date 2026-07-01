@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.197，社区活跃度最高",
+      "Pi 和 Claude Code 的 Issues 和 PR 数量领跑",
+      "Qwen Code 以 17 个 PR 位列活跃度第一",
+      "Agent 成本控制和安全性成社区核心痛点",
+      "Windows 兼容性成为衡量工具成熟度标尺",
+      "Kimi Code CLI 今日活跃度最低，处维护期"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.11，修复可靠性毛刺",
+      "仍有 416 个待合并 PR 和 225 个活跃 Issue",
+      "核心修复：回复错位、消息卡死、重连稳定性",
+      "更安全的默认管理策略，收紧后台默认权限",
+      "项目健康度堪忧，P1/P0 级别 Bug 大量堆积",
+      "关键 PR 推进 Windows 后台守护进程"
+    ],
+    "ai-trending": [
+      "AutoGPT 以 185k+ 星领跑自主 Agent 赛道",
+      "Hermes Agent 获星超 206k，成今日最热项目",
+      "ollama 已支持 Kimi、GLM、DeepSeek 等新模型",
+      "vllm 以 84k+ 星成 LLM 推理引擎行业标准",
+      "Nestia 为 NestJS 打造 AI 聊天开发辅助工具",
+      "Google 新推 agents-cli，今日增长 445 星"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude Sonnet 5，最具智能体能力",
+      "Claude Science 工作台推出，切入科研垂直领域",
+      "Sonnet 5 性能接近 Opus 4.8，性价比更高",
+      "Sonnet 5 成所有计划的默认模型",
+      "OpenAI 发布 Genebench Pro，争夺基因科学基准",
+      "AI for Science 成两大巨头新战略制高点"
+    ],
+    "ai-hn": [
+      "Claude Sonnet 5 发布登顶，获 889 分热议",
+      "社区谴责 Claude Code 被指控内嵌间谍软件",
+      "愤怒情绪蔓延：突然提价 5 倍和自动删历史",
+      "Fable 5 和 Mythos 5 出口管制解除引争议",
+      "Claude Science 工作台发布，热度较低",
+      "Anthropic 信任危机与技术兴奋交织的一天"
+    ],
+    "ai-arxiv": [
+      "FARS 系统发布，端到端全自动科研规模化部署",
+      "研究揭示 LLM 公平性存在道德表演问题",
+      "优化器选择可放大或抑制模型恶意行为",
+      "LLM 概率模型可能通过测试但统计完全错误",
+      "RSI 指标让 RLVR 聚焦推理关键 Token",
+      "自主研究系统进入工程化和规模化阶段"
+    ],
+    "ai-hf": [
+      "GLM-5.2 获 3061 赞，成最火中文 MoE 模型",
+      "DeepSeek-V4-Pro-DSpark 发布，附 arXiv 论文",
+      "百度 Unlimited-OCR 下载量达 42.9 万次",
+      "NVIDIA 推 NVFP4 量化版 Qwen3.6-27B",
+      "Krea-2-Turbo 加速版满足高效率图像生成需求",
+      "fal 发布 LTX-2.3-3DREAL-LoRA 探索视频生成"
+    ],
+    "ai-community": [
+      "The Future Of AI Is Local And Open 获 39 赞",
+      "The Log Is the Agent 颠覆性提出智能体本质",
+      "You Don’t Always Need The Frontier 祛魅前沿模型",
+      "Someone Else Pays for Your AI Access 评论最高",
+      "循环工程成 AI 原生开发新范式",
+      "本地化 AI 应对成本与隐私挑战成焦点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.197 ships with Sonnet 5 default",
+      "Windows stability remains universally problematic",
+      "OpenAI Codex and Gemini CLI release multiple weekly updates",
+      "GitHub Copilot CLI shows strong cross-tool activity",
+      "Session lifecycle management emerges as key concern",
+      "Configurable permission systems demanded for production use"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.11 improves reliability polish",
+      "84 PRs merged in last 24 hours",
+      "Maintainers operating near capacity with 416 open PRs",
+      "Key fixes: misplaced replies, stuck sends, reconnects",
+      "Needs-maintainer-review labels signal backlog pressure",
+      "285 issues and 500 PRs updated actively"
+    ],
+    "ai-trending": [
+      "usestrix/strix gains 515 stars as AI pen-testing tool",
+      "agency-agents stars surge 1,791 today for multi-agent framework",
+      "google/agents-cli signals enterprise agent standardization",
+      "OmniRoute connects 231+ providers with token compression",
+      "Financial AI agents emerge as distinct vertical",
+      "RAG ecosystem matures with major milestones for ragflow"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude Sonnet 5 as agentic model",
+      "Claude Science debuts as AI workbench for researchers",
+      "Sonnet 5 aims to democratize agentic AI at lower cost",
+      "OpenAI content limited to metadata-only titles",
+      "Anthropic aggressively verticalizes product line",
+      "Sonnet 5 claims complex autonomous tasks near Opus level"
+    ],
+    "ai-hn": [
+      "Claude Sonnet 5 dominates with 889 points discussion",
+      "Export controls lifted on Fable 5 and Mythos 5 models",
+      "Claude Code accused of spyware and price hikes",
+      "Community sentiment sharply divided on Anthropic",
+      "Sonnet 5 benchmark results spark debate on hype",
+      "Claude Science workbench for scientists gains traction"
+    ],
+    "ai-arxiv": [
+      "FARS achieves fully autonomous research at scale",
+      "Moral safety overestimated in current evaluations",
+      "Evil Spectra shows misalignment sensitive to optimizer",
+      "RaBitQCache advances long-context inference",
+      "Self-improving alignment offers formal convergence guarantees",
+      "AI agents move from prototypes to rigorous safety evaluations"
+    ],
+    "ai-hf": [
+      "MoE architectures dominate with GLM-5.2 trending",
+      "NVIDIA NVFP4 quantization hits 5.4M downloads",
+      "Ornith-1.0 family emerges as new open-weight MoE",
+      "Baidu releases Unlimited-OCR with 429K downloads",
+      "Krea-2 continues leading text-to-image diffusion",
+      "Qwen3.6-35B-A3B gains traction with GGUF variants"
+    ],
+    "ai-community": [
+      "AI Engineer World's Fair dominates Dev.to coverage",
+      "Loop engineering emerges as major agent pattern",
+      "Local and open AI future argued by Paige Bailey",
+      "Security risks of subsidized AI access highlighted",
+      "The Log Is the Agent paper gains 32 reactions",
+      "Lobste.rs voices skepticism about AI winter echoes"
+    ]
+  }
+}

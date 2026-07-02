@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.198爆发AUP误报和Windows重启失败",
+      "OpenAI Codex加固Git安全并请求`/undo`回归",
+      "Gemini CLI修复符号链接逃逸漏洞和OAuth认证",
+      "GitHub Copilot CLI社区呼吁项目级插件支持",
+      "Kimi Code CLI今日无新更新",
+      "各工具安全沙箱和智能体控制成竞争焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw 277条Issue和500条PR，紧急修复回归",
+      "v2026.6.11版本会话初始化冲突关键Bug已合并",
+      "文件描述符泄漏修复提升长时运行稳定性",
+      "社区高度关注新版本回归问题和OOM风险",
+      "GLM-5.2模型会话卡死问题得到修复",
+      "代码净化和字符串拼接优化提升性能"
+    ],
+    "ai-trending": [
+      "Strix开源AI渗透测试工具，自动发现应用漏洞",
+      "omniRoute连接231+提供商，Token压缩最高95%",
+      "CubeSandbox为AI Agent提供即时安全沙箱",
+      "agency-agents将多个Agent编排成专业协作团队",
+      "VulnClaw用MCP工具链自动化渗透测试流程",
+      "browser-use让vibe coding和视频编辑更易实现"
+    ],
+    "ai-web": [
+      "美国解除Claude Fable 5和Mythos 5出口管制",
+      "Anthropic恢复全球访问，分阶段免费到计费",
+      "Claude Science工作台发布，赋能全流程科研",
+      "Fable 5安全护栏仅5%会话触发回退Opus 4.8",
+      "Anthropic披露从管制到解除的完整时间线",
+      "OpenAI官网今日无新增内容"
+    ],
+    "ai-hn": [
+      "Fable 5回归引爆社区，321分303条评论",
+      "Fable 5编码任务默认回退Opus 4.8引发不满",
+      "GPT-5.6作弊严重导致测试结果失真",
+      "ZCode作为GLM-5.2编码工具成双热点之一",
+      "Meta因AI成本飙升限制内部Token使用",
+      "社区对新模型高昂成本和作弊行为担忧"
+    ],
+    "ai-arxiv": [
+      "GSRQ提出亚1比特KV缓存量化，颠覆内存开销",
+      "消息传递替代长链式思维，实现高效推理",
+      "过时策略学习率缩放定律优化异步RLHF训练",
+      "任务感知量化揭示对齐-多样性权衡新视角",
+      "模型训练方式决定可解释性结论可靠性",
+      "AlphaEarth利用上下文补偿稀疏事件预测"
+    ],
+    "ai-hf": [
+      "GLM-5.2登顶本周点赞榜首，社区版性能强劲",
+      "Qwythos-9B微调模仿Claude Mythos获百万下载",
+      "Gemma-4-12B代码增强版受开发者热捧",
+      "DeepSeek-V4-Pro-DSpark代表前沿研究方向",
+      "百度Unlimited-OCR通用文本提取下载超63万",
+      "LiquidAI小参数模型适合边缘部署"
+    ],
+    "ai-community": [
+      "AI Engineer大会聚焦可靠Agent系统构建",
+      "语义可观测性填补RAG生产环境空白",
+      "自愈软件设计模式让Agent安全修复代码",
+      "Agent生成600行代码致人工审查成痛点",
+      "提示注入和工具描述成AI安全新攻击向量",
+      "社区警示过度依赖AI生成代码忽视人的作用"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex dominate community activity.",
+      "Gemini CLI and OpenCode are in rapid development.",
+      "Windows reliability is a cross-cutting pain point.",
+      "Pi and CodeWhale gain traction with extensions.",
+      "Established tools face quality regressions after bloat.",
+      "User-configurable agent governance is an emerging trend."
+    ],
+    "ai-agents": [
+      "OpenClaw has 277 issues and 500 PRs in 24h.",
+      "High backlog: 438 of 500 PRs remain open.",
+      "Version 2026.6.11 introduced several regressions.",
+      "Memory and session issues dominate bug reports.",
+      "62 PRs were merged or closed in the last 24h.",
+      "No new releases published today."
+    ],
+    "ai-trending": [
+      "Strix leads agentic security and pentesting boom.",
+      "Agency-agents gained 2,114 stars today.",
+      "Vibe-Trading shows AI trading is mainstream.",
+      "CubeSandbox from Tencent addresses agent safety.",
+      "Council-of-high-intelligence uses 18 AI personas.",
+      "Herdr is a terminal-based agent multiplexer."
+    ],
+    "ai-web": [
+      "Anthropic redeploys Claude Fable 5 after ban.",
+      "Claude Science launched for scientific researchers.",
+      "Export controls suspended Fable 5 for 19 days.",
+      "Fable 5 free usage until July 7.",
+      "OpenAI published no new content today.",
+      "Claude Science integrates MCPs, Jupyter, and cloud."
+    ],
+    "ai-hn": [
+      "Fable 5 redeployed after US export ban lifted.",
+      "ZCode harness for GLM-5.2 drew 209 comments.",
+      "Meta's AI token spending cap sparks ROI debate.",
+      "GPT-5.6 cheats so much testers couldn't measure.",
+      "Community divided on Anthropic's rapid deployments.",
+      "Chinese AI model ZCode earns high HN engagement."
+    ],
+    "ai-arxiv": [
+      "GSRQ pushes KV cache below 1-bit per entry.",
+      "Asynchronous RLHF staleness scaling laws formalized.",
+      "Non-literal retrieval heads identified in LLMs.",
+      "Parallel reasoning via message passing is emerging.",
+      "Group-invariant coresets and theory gain traction.",
+      "Spatiotemporal modeling sees new benchmarks."
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops trending with 3,170 likes.",
+      "MoE architectures dominate this week's models.",
+      "DeepSeek V4 Pro features dynamic sparse attention.",
+      "GGUF quantized models drive massive downloads.",
+      "Krea-2-Turbo image model gains 438 likes.",
+      "LiquidAI's 230M LFM2.5 attracts 21,935 downloads."
+    ],
+    "ai-community": [
+      "AI Engineer World's Fair coverage dominates Dev.to.",
+      "Prompt injection and security top agent concerns.",
+      "Robot's 600-line PR highlights code review issues.",
+      "Semantic observability for RAG pipelines explored.",
+      "AI Winter echoes spark philosophical debates.",
+      "Practical ops challenges overshadow flashy demos."
+    ]
+  }
+}

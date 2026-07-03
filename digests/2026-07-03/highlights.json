@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.199 发布，修复多代理协作稳定性问题",
+      "OpenAI Codex 发布 Rust Alpha 版本，性能大幅提升",
+      "Gemini CLI v0.51.0-nightly 聚焦上下文管理增强",
+      "Qwen Code v0.19.5 与 Nightly 双版本迭代加速",
+      "社区集中投诉代理行为可靠性差，用量消耗不透明",
+      "多代理协作成标配，但无限循环和状态报告错误频发"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1-beta.1 新增 GPT-5.6 支持",
+      "新增 openclaw attach 命令，支持外部工具挂载",
+      "核心基础设施大规模重构，提升系统稳定性",
+      "Telegram 渠道修复工具进度条丢失问题",
+      "Discord 消息处理器增加空值防御防崩溃",
+      "P1 级别回归和子代理交互 Bug 仍是主要挑战"
+    ],
+    "ai-trending": [
+      "usestrix/strix 日增 2137 star，AI 渗透测试工具爆火",
+      "agency-agents 日增 3032 star，一站式 Agent 团队需求旺",
+      "career-ops 星数 57,862，AI 求职代理成垂直场景标杆",
+      "video-use 将 AI 编码能力延伸至视频编辑领域",
+      "Hippocampus 模型受生物学启发解决长程记忆问题",
+      "Token 效率革命成焦点，社区寻求更经济推理方案"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude Sonnet 5，定位最具智能体性模型",
+      "Sonnet 5 性能逼近 Opus 4.8，价格更低实现能力下放",
+      "Anthropic 公开 Fable 5 安全分类器及越狱分级框架",
+      "AI 越狱严重性分级框架草案推动行业标准建立",
+      "OpenAI 今日无新增内容，战略动向不明",
+      "Anthropic 双线并行：能力提升与安全治理齐头并进"
+    ],
+    "ai-hn": [
+      "OpenAI 向美国政府出售股份成 HN 焦点，引发伦理热议",
+      "GLM-5.2 以极低成本挑战 Claude 但社区关注度低",
+      "No LLM Code in Dependencies 文章获 114 分深度讨论",
+      "MCP Cloud 亮相 YC，简化机器通信协议引质疑",
+      "claude-real-video 让任意 LLM 能观看视频获好评",
+      "社区对 AI 低质内容和邪教式宣传厌倦情绪上升"
+    ],
+    "ai-arxiv": [
+      "线性注意力模型引入海马体记忆解决早期信息遗忘",
+      "LLM 作为多语言评估器存在严重偏见，论文提供建议",
+      "贝叶斯稀疏低秩适配 DALorRA 缓解模型过度自信",
+      "前沿模型在专家级临床推理任务上仅 32% 正确率",
+      "容错科学自动化管线实现从论文到手稿全流程",
+      "自蒸馏和离线 RL 新理论推动对齐与效率进步"
+    ],
+    "ai-hf": [
+      "DeepSeek V4 Pro/Flash 发布，支持 DSpark 加速",
+      "GLM-5.2 MoE 架构获 3254 点赞，推理能力强劲",
+      "baidu/Unlimited-OCR 下载量突破 75 万成黑马",
+      "Qwen-AgentWorld 35B MoE 仅激活 3B，效率标杆",
+      "Nvidia 量化 GLM-5.2 为 NVFP4，极致压缩推理",
+      "LiquidAI 2.3 亿参数小模型性能出色，性价比高"
+    ],
+    "ai-community": [
+      "AI Engineer World's Fair 大会驱动开发社区热议",
+      "AI 生成测试代码陷阱：看起来对但验证了错误东西",
+      "Google DeepMind VP 称自己放弃编码引行业辩论",
+      "LLM 安全性指南成焦点，覆盖注入与越狱防护",
+      "本地 AI 推理因成本隐私优势正在赶超云端方案",
+      "前向部署工程师模式是否正在淘汰 DevRel 引思考"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Agentic capability expansion is accelerating.",
+      "Claude Code and Copilot CLI lead engagement.",
+      "Gemini CLI and Qwen Code push nightly releases.",
+      "Enterprise readiness becomes a core requirement.",
+      "Session lifecycle bugs plague all tools.",
+      "Sub-agent reliability remains a top pain point."
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.7.1-beta.1 with GPT-5.6.",
+      "Community closes 73 issues in 24 hours.",
+      "438 open PRs signal a growing review bottleneck.",
+      "P1 bugs spike around session state and auth.",
+      "External harness attachment added in new release.",
+      "High-activity maintenance with 500 PRs updated."
+    ],
+    "ai-trending": [
+      "Agentic Skills Explosion dominates open source.",
+      "ECC project reaches 225k+ total stars.",
+      "agency-agents gains 3,032 new stars today.",
+      "CherryHQ/cherry-studio advances agent UI tooling.",
+      "browser-use/video-use adds video editing for agents.",
+      "Strix uses LLMs for AI-native security testing."
+    ],
+    "ai-web": [
+      "Anthropic releases Claude Sonnet 5 today.",
+      "Sonnet 5 narrows gap with Opus 4.8.",
+      "Fable 5 safety classifiers detailed by Anthropic.",
+      "Jailbreak severity framework proposed with Glasswing.",
+      "OpenAI has zero new articles published.",
+      "Sonnet 5 designed for agentic tasks."
+    ],
+    "ai-hn": [
+      "OpenAI in talks for US govt 5% equity stake.",
+      "Anti-LLM sentiment rises in dependencies debate.",
+      "Claude Code 'spyware' controversy erupts.",
+      "GLM-5.2 challenges Claude at one-fifth cost.",
+      "Community pivots to regulatory and trust issues.",
+      "Manufact (YC S25) launches MCP Cloud."
+    ],
+    "ai-arxiv": [
+      "Bayesian Sparse LoRA improves uncertainty estimation.",
+      "Hippocampus module solves long-context forgetting.",
+      "Criticality-Based Guard Rail Validation proposed.",
+      "Domain-specific benchmarks target film restoration.",
+      "MoE architecture adoption surges in papers.",
+      "LP-from-text framework aids autonomous agents."
+    ],
+    "ai-hf": [
+      "nvidia/LocateAnything-3B tops with 1M downloads.",
+      "Qwen3.5 variants dominate text-generation category.",
+      "GLM-5.2 by Zhipu AI trends at 176k downloads.",
+      "DeepSeek-V4-Pro-DSpark enters frontier LLM race.",
+      "GGUF quantized models drive local deployment demand.",
+      "krea/Krea-2-Turbo matures text-to-image ecosystem."
+    ],
+    "ai-community": [
+      "AI Engineer World's Fair sparks community buzz.",
+      "Cory Doctorow interview debates labor automation.",
+      "AI-driven adaptive computer worms pose new threat.",
+      "Forward-deployed engineering lessons shared on Dev.to.",
+      "Free software parallels drawn for AI era.",
+      "Test generation AI praised for speed, criticized for lies."
+    ]
+  }
+}

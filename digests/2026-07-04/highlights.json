@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.200/201，修复子代理稳定性",
+      "OpenAI Codex 沙箱安全加固，发布 rust-v0.143.0-alpha.35",
+      "GitHub Copilot CLI 因 TUI 界面引发社区争议",
+      "DeepSeek TUI 进入 v0.8.67 RC 阶段，引入\"宪法\"安全模型",
+      "Qwen Code 发布 v0.19.6，修复 KV-cache 失效",
+      "OpenCode V2 架构重构进行中，付费服务出现异常"
+    ],
+    "ai-agents": [
+      "OpenClaw 合并 55 个 PR，445 个待合并，社区高度活跃",
+      "新增 ClawRouter 路由和配额管理功能",
+      "引入可组合终止代数与 GSAR 幻觉检测评分器",
+      "修复诊断模型调用热路径对象拷贝性能问题",
+      "实现增量会话同步，解决长期记忆同步问题",
+      "缓存网关会话与节点查询，显著降低延迟"
+    ],
+    "ai-trending": [
+      "usestrix/strix 开源 AI 渗透测试工具，今日新增 2803 星",
+      "Chrome 官方发布 MCP 服务，AI 可直接操控浏览器",
+      "obra/superpowers 定义 Agent Skills 框架，今日新增 1209 星",
+      "openai/codex-plugin-cc 实现 Claude Code 与 Codex 互调用",
+      "agentskills/agentskills 发布 Agent 技能官方规范",
+      "开发者 JuliusBrussee/caveman 用极致 token 压缩引爆社区"
+    ],
+    "ai-web": [
+      "Anthropic 披露 Fable 5 网络安全保障细节及越狱分级框架",
+      "Anthropic 重推\"Claude 扩展思考\"文章，强调可控推理",
+      "Anthropic 再推负责任的扩展政策 RSP，塑造行业安全标准",
+      "今日内容聚焦模型部署后安全透明度与治理框架",
+      "Anthropic 联合 Glasswing 提出 AI 越狱严重性分级草案",
+      "Anthropic 构建\"部署-回顾-披露\"闭环叙事强化信任"
+    ],
+    "ai-hn": [
+      "本地运行 SOTA LLM 指南获今日最高分 273，社区热捧",
+      "AMD MI355X 跑 GLM5.2 成本比 Blackwell 低 2 倍多",
+      "Mistral 发布 Leanstral 1.5，主打\"证明丰富性\"",
+      "Anthropic 安全争议与地缘限制成社区关注焦点",
+      "Meta AI 宣称新 LLM 已追上 OpenAI 旗舰模型",
+      "字节跳动发现新 Scaling Law，或改变数据枯竭困局"
+    ],
+    "ai-arxiv": [
+      "研究揭示 AI 编码智能体存在分布式延时攻击新风险",
+      "LACUNA 基准测试问世，精准评估 LLM 遗忘技术",
+      "多智能体辩论中智能体会产生公开与私下不一致的潜在目标",
+      "递归证据重放框架 ReContext 提升长上下文推理能力",
+      "研究证实推理努力比工具访问更能提高代码生成可靠性",
+      "在线安全监控算法可在部署时实时检测 LLM 不安全输出"
+    ],
+    "ai-hf": [
+      "nvidia/LocateAnything-3B 获得 110 万下载，本周现象级多模态模型",
+      "zai-org/GLM-5.2 以 3343 点赞成为 Hugging Face 最热对话模型",
+      "baidu/Unlimited-OCR 获 88 万下载，支持无限类别识别",
+      "deepseek-ai 发布 DeepSeek-V4-Pro-DSpark，生态正式迭代",
+      "empero-ai/Qwythos-9B 量化版下载量突破 136 万",
+      "deepreinforce-ai/Ornith-1.0-397B 基于 Qwen 3.5 MoE 巨型模型"
+    ],
+    "ai-community": [
+      "Dev.to 文章探讨在 Firecracker 上构建沙箱运行 AI 生成代码",
+      "编码助手被劫持成为新攻击面，开发者尚未做好准备",
+      "\"氛围编码\"基础设施不可靠，市场数据印证这一观点",
+      "构建 Agent 记忆\"信任防火墙\"，基于 Cognee 四动词实践",
+      "看似安全的工具调用背后隐藏数据泄露风险",
+      "AI 记忆系统和上下文窗口优化技术热度不减"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.200/201 patch releases",
+      "Subagent OOM (#74035) most critical issue",
+      "Gemini CLI shows high signal-to-noise ratio",
+      "Smaller tools innovate on multi-provider routing",
+      "Pi and DeepSeek TUI advance sandboxing",
+      "Tension between agent autonomy and user control"
+    ],
+    "ai-agents": [
+      "OpenClaw has 292 active issues, 500 PRs",
+      "No new releases; maintainers focus on stabilization",
+      "ClawRouter routing and quotas added via PR #99658",
+      "199 open issues, 445 open PRs in queue",
+      "Core reliability remains the bottleneck",
+      "Only 11% of PRs merged or closed today"
+    ],
+    "ai-trending": [
+      "Strix: open-source AI pen testing tool +2,803 stars",
+      "Caveman skill cuts 65% tokens with caveman language",
+      "Superpowers agency framework gains +1,209 stars",
+      "Agency-agents multi-agent orchestration +1,208 stars",
+      "CubeSandbox: Tencent's new AI sandbox",
+      "Codex plugin-cc bridges OpenAI and Anthropic"
+    ],
+    "ai-web": [
+      "Anthropic redeploys Claude Fable 5 globally",
+      "New jailbreak severity framework with Glasswing",
+      "Responsible Scaling Policy reiterated",
+      "Extended thinking article emphasizes controllability",
+      "Three new articles from Anthropic today",
+      "OpenAI had zero new content to analyze"
+    ],
+    "ai-hn": [
+      "Guide to running SOTA LLMs locally tops HN",
+      "Study claims AI saves only 3% of work hours",
+      "AMD MI355X challenges NVIDIA with 2626 tok/s",
+      "Mistral enters formal verification with Leanstral 1.5",
+      "Meta claims its LLM caught up with OpenAI",
+      "Concerns about AI investment bubble surface"
+    ],
+    "ai-arxiv": [
+      "LACUNA benchmark for LLM unlearning precision",
+      "DRIFTLENS shows memory-induced reasoning drift",
+      "Online safety monitoring for LLMs explored",
+      "Persistent-state attacks on coding agents studied",
+      "Hardware-enforced semantic coordination proposed",
+      "Neuron-level analysis for data selection emerges"
+    ],
+    "ai-hf": [
+      "Qwen3.5/3.6 ecosystem floods with fine-tunes",
+      "NVIDIA NVFP4 quantized models on GLM-5.2",
+      "Gemma 4 inspires agentic GGUF fine-tunes",
+      "DeepSeek-V4-Pro-DSpark gains traction",
+      "Baidu Unlimited-OCR sees massive adoption",
+      "Uncensored Vision MoE model hits 3M downloads"
+    ],
+    "ai-community": [
+      "CreateOS Sandbox on Firecracker for AI code",
+      "Tool catches data taint attacks on agents",
+      "Gate_taint_lint.py enforces authorization signals",
+      "Aftermath of AI Engineer World's Fair discussed",
+      "Security audit of AI agents for phantom squatting",
+      "Cory Doctorow offers philosophical counterpoint"
+    ]
+  }
+}

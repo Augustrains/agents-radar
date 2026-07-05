@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区爆发模型质量与计费争议",
+      "OpenAI Codex遭遇配额消耗与Windows稳定性问题",
+      "Gemini CLI Agent行为逻辑Bug密集修复中",
+      "GitHub Copilot CLI代理工具与会话管理问题突出",
+      "Qwen Code发布新版本，聚焦性能和CI体验",
+      "Pi社区围绕LLM工具调用兼容性展开争议性讨论"
+    ],
+    "ai-agents": [
+      "OpenClaw 500条Issue和PR齐发，社区高度活跃",
+      "大量P1/P0级Bug报告：子代理结果丢失、会话挂起",
+      "PR合并率仅30%，合并通道急需加速",
+      "ClawHub技能系统与YAML配置扩展成社区热议",
+      "Slack安全加固：不可检测提及时拒绝所有消息",
+      "实时文档与发布版本存在功能差距待修复"
+    ],
+    "ai-trending": [
+      "dotnet/skills为.NET打造AI代理技能库",
+      "agentskills发布跨平台Agent技能规范",
+      "mattpocock开源个人高效Claude技能包",
+      "alirezarezvani打包337个AI技能，覆盖8+角色",
+      "usestrix/strix开源AI渗透测试代理，自动挖漏洞",
+      "alibaba/page-agent用自然语言控制任意网页"
+    ],
+    "ai-hn": [
+      "Claude Code被曝严重会话缓存泄露漏洞",
+      "GPT-5.5 Codex推理Token聚类致性能退化",
+      "开发者用AI重写PHP引擎，17%测试通过",
+      "ScreenMind开源本地隐私优先的Recall替代",
+      "Anthropic计划用Claude进军药物研发领域",
+      "英伟达通过算力信贷成为AI热潮的银行"
+    ],
+    "ai-hf": [
+      "智谱GLM-5.2 MoE基座模型下载超20万",
+      "DeepSeek-V4-Pro-DSpark发布推理优化版",
+      "Qwen-AgentWorld专为Agent场景设计35B模型",
+      "Mistral推出119B激活仅6B的Leanstral旗舰",
+      "NVIDIA LocateAnything-3B下载近120万",
+      "百度Unlimited-OCR通用OCR模型获近百万下载"
+    ],
+    "ai-community": [
+      "AI Agent被指为权限最过载的账户",
+      "Agent通过正常工具调用泄露数据被揭露",
+      "MCP协议中存在代码审查无法发现的攻击",
+      "AGENTS.md手把手教程助力AI行为可控",
+      "MCP vs API：传统API正让AI Agent失败",
+      "确定性代理循环实验四次全失败"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and OpenAI Codex most active",
+      "Session state corruption bugs plaguing tools",
+      "Safety classifier false positives rising",
+      "Gemini CLI invests in agent reliability",
+      "OpenCode focuses on daemon architecture",
+      "Pi and DeepSeek TUI improve UX"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs in 24 hours",
+      "Critical bug fixes for silent failures",
+      "P0 fixes for bundled provider errors",
+      "ClawSweeper backlog system heavily used",
+      "No new releases recorded today",
+      "47 issues and 151 PRs merged"
+    ],
+    "ai-trending": [
+      "usestrix/strix gains +1,904 stars",
+      "JuliusBrussee/caveman gains +1,089 stars",
+      "openai/codex-plugin-cc gains +718 stars",
+      "alibaba/page-agent gains +742 stars",
+      "Agent memory and MCP protocol trending",
+      "Self-hosted AI assistants gaining steam"
+    ],
+    "ai-hn": [
+      "Claude Code session leakage vulnerability",
+      "Prompt injection concerns about Anthropic",
+      "GPT-5.5 Codex reasoning-token regression",
+      "Claude Mac app Electron architecture critique",
+      "AI used to rewrite PHP engine in Rust",
+      "Alibaba's Elements agent discovers superconductors"
+    ],
+    "ai-hf": [
+      "MoE architectures dominate trending models",
+      "Uncensored Qwen3.6 variant hits 2.9M downloads",
+      "NVIDIA pushes 4-bit FP4 quantization",
+      "GLM-5.2 leads week with 3,398 likes",
+      "DeepSeek V4 Pro DSpark released",
+      "Mistral launches Leanstral-1.5 119B"
+    ],
+    "ai-community": [
+      "AI agents are over-privileged accounts",
+      "Tool calls leak data invisibly",
+      "MCP attacks bypass code reviews",
+      "AI productivity vs human oversight debate",
+      "Hallucination chains during incidents",
+      "MCP infrastructure becomes mainstream"
+    ]
+  }
+}

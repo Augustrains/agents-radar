@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 等工具推进Agent化，但模型行为不可控成普遍痛点",
+      "OpenAI Codex 社区活跃度最高，问题与功能开发并行",
+      "Gemini CLI 发布Nightly版本，保持高频迭代",
+      "Pi 和 DeepSeek TUI 社区活跃，处于快速迭代阶段",
+      "Kimi Code CLI 社区活动陷入停滞，或聚焦内部整合",
+      "行业从'尝鲜期'进入'工程化落地期'，可靠性成关键"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.1-beta.2，支持GPT-5.6",
+      "新命令 openclaw attach 允许连接外部Harness调试",
+      "修复Anthropic OAuth回调绑定非本机地址的安全问题",
+      "批量删除会话确认框从浏览器弹窗替换为应用内模态",
+      "349个PR被合并，项目健康高速迭代",
+      "会话稳定性与安全性成社区讨论热点"
+    ],
+    "ai-trending": [
+      "OpenAI 发布 codex-plugin-cc，打破模型壁垒",
+      "claude-skills 集合300+技能，实现即插即用能力扩展",
+      "caveman 通过穴居人语言风格削减65% Token消耗",
+      "usestrix/strix 用AI自动发现并修复安全漏洞",
+      "alibaba/page-agent 开源，用自然语言控制网页",
+      "dotnet/skills 为.NET开发者提供专属AI编码技能库"
+    ],
+    "ai-hn": [
+      "Claude设计Prompt工程化控制输出风格获社区高度认可",
+      "sqlite-utils 4.0rc2 由AI编写，仅花费150美元",
+      "Handoff 工具解决Claude Code会话上下文丢失痛点",
+      "论文称美出口管制反加速中国开源AI生态发展",
+      "Fugu 多Agent编排器简化复杂任务，来自Sakana AI",
+      "微软AI产品提价和Tripadvisor事故引发商业化焦虑"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro-DSpark 开源，引入激励机制",
+      "baidu/Unlimited-OCR 下载量突破百万，实用性极强",
+      "nvidia/LocateAnything-3B 引爆视觉定位新范式",
+      "HauhauCS 的Qwen3.6去审查版下载量超300万",
+      "zai-org/GLM-5.2 智谱MoE大模型获本周最高点赞",
+      "nvidia/Qwen3.6-27B-NVFP4 实现4-bit极致量化效率"
+    ],
+    "ai-community": [
+      "构建LLM替代方案8个月200次失败，诚实记录鼓舞人心",
+      "AI去水印并非必然有损，挑战常规认知",
+      "用自动化'验证层'替代传统代码审查应对AI编码",
+      "自托管LLM默认无认证，一条配置决定谁可运行",
+      "Jetson Nano 上实测模型量化部署，社区分享经验",
+      "社区反思AI编码带来的技术债务与SSRF安全问题"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Safety classifier overreach erodes trust",
+      "Codex plugin enables interop with Claude",
+      "Qwen Code and Gemini CLI gain momentum",
+      "OpenCode leads agentic workflow innovation",
+      "Kimi Code CLI struggles with branding",
+      "Memory leaks are a universal pain point"
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.7.1-beta.2",
+      "Adds OpenAI GPT-5.6 model support",
+      "External harness attachment re-enabled",
+      "High activity: 500 issues, 500 PRs",
+      "65 issues closed, 349 PRs merged",
+      "Maintainer bandwidth remains bottlenecked"
+    ],
+    "ai-trending": [
+      "Claude Code Skills ecosystem exploding",
+      "OpenAI's Codex plugin bridge gains 1,532 stars",
+      "Herdr agent multiplexer debuts with 651 stars",
+      "Google Workspace CLI adds AI agent skills",
+      "Local-first AI tools see explosive growth",
+      "System prompt leaks become viral sub-trend"
+    ],
+    "ai-hn": [
+      "SQLite-utils 4.0 written by AI for under $150",
+      "U.S. policies may boost China's open-source AI",
+      "Claude design prompts signal behavior engineering",
+      "Palantir role in Canada's AI strategy debated",
+      "LLMs as 'alien' intelligence sparks discussion",
+      "Geopolitical tensions simmer in AI discourse"
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops board with 3,470 likes",
+      "Qwen AgentWorld 35B for agentic workflows",
+      "DeepSeek V4 Pro DSpark gains 390 likes",
+      "Nvidia's LocateAnything-3B for vision tasks",
+      "Google's tabfm model for tabular data",
+      "GGUF quantized MoE models dominate trends"
+    ],
+    "ai-community": [
+      "Agent memory crisis dominates pain points",
+      "AI speed leads to massive technical debt",
+      "Memory poisoning emerges as new security threat",
+      "Self-hosted LLMs flagged as insecure by default",
+      "Non-transformer LLM alternatives face failures",
+      "Watermark removal tool preserves image quality"
+    ]
+  }
+}

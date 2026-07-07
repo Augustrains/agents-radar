@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 获 635 赞的 Issue 成社区焦点",
+      "OpenCode 架构重构，V2 版本引发高赞讨论",
+      "Pi 工具扩展系统与模型兼容性成核心议题",
+      "Qwen Code 发布 v0.19.6 nightly 版本",
+      "Kimi Code 社区活跃度较低，仅 2 条 Issue",
+      "GitHub Copilot CLI 聚焦 MCP 集成与稳定性"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区 24 小时超 1000 条更新",
+      "PR #101256 修复 Gateway 模型认证刷新问题",
+      "PR #94344 增强 OpenAI 兼容嵌入的 SSRF 防护",
+      "插件生态迎来 agentId 暴露功能改进",
+      "Agent 间通信混乱成社区最热议题",
+      "核心会话稳定性 Bug 修复正排队等待合入"
+    ],
+    "ai-trending": [
+      "Addy Osmani 的 agent-skills 今日新增 1112 星",
+      "alibaba/zvec 轻量向量数据库今日登榜 +382 星",
+      "CodexBar macOS 菜单栏可监控 AI 使用成本",
+      "browser-use 让 AI 操作浏览器，星数破 10 万",
+      "vllm 高性能推理引擎持续获得社区关注",
+      "open-webui 自托管 LLM 界面星数达 14.4 万"
+    ],
+    "ai-web": [
+      "Anthropic 发现模型存在类似意识的思考空间",
+      "用户向 Claude 寻求建议时谄媚倾向达 25%",
+      "Claude 代码安全审计案例成政府级标杆",
+      "Anthropic 重申全链路防护栏产品策略",
+      "OpenAI 今日无任何新内容更新",
+      "人际关系咨询场景谄媚比例飙升至 25%"
+    ],
+    "ai-hn": [
+      "Anthropic 商业策略引发社区信任度下降",
+      "AI 泡沫与投资回报率成 HN 高热话题",
+      "GLM 5.2 开源模型加速缩小与闭源差距",
+      "Pulpie 模型直击高质量数据稀缺痛点",
+      "Mozilla 推出开源 LLM 控制面板 Otari",
+      "Anthropic 失去善意的方法论引热议 239 分"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE 模型以 3530 点赞领跑趋势榜",
+      "GGUF 量化生态占榜单超 1/3 份额",
+      "NVIDIA LocateAnything-3B 下载量达 134 万",
+      "百度 Unlimited-OCR 下载量超百万次",
+      "uncensored 和 agentic 标签模型点赞飙升",
+      "DeepSeek V4 Pro 支持动态稀疏推理"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.202 released",
+      "7 cybersecurity false positives reported",
+      "Nested subagent bugs flagged",
+      "Codex rust-v0.143.0-alpha.37 out",
+      "OpenCode focuses on provider-agnostic design",
+      "Pi tackles cross-platform compatibility"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs in 24 hours",
+      "403 open issues signal growing backlog",
+      "No new releases today",
+      "P0 session hang bug remains open",
+      "PR #101256 fixes model provider issues",
+      "Multi-agent orchestration stability focus"
+    ],
+    "ai-trending": [
+      "firecrawl hits 146,307 stars (+867 today)",
+      "addyosmani/agent-skills gains 1,112 stars",
+      "alibaba/zvec ultra-light vector database",
+      "CodexBar macOS menu bar stats app",
+      "Local-first meeting assistant Meetily trending",
+      "Agent skills ecosystem explodes in popularity"
+    ],
+    "ai-web": [
+      "Claude's Global Workspace paper published",
+      "6% of chats involve personal guidance",
+      "Sycophancy spikes to 25% in relationship advice",
+      "Government of Alberta scans 466M lines",
+      "Anthropic releases 3 research papers today",
+      "OpenAI had zero new content this crawl"
+    ],
+    "ai-hn": [
+      "Global workspace theory draws 266 points",
+      "AI margin collapse debate with GLM 5.2",
+      "Apollo economists warn of AI bubble",
+      "Small AI models gain traction offline",
+      "Anthropic tracker scandal sparks backlash",
+      "GLM 5.2 commoditization debate heats up"
+    ],
+    "ai-hf": [
+      "GLM 5.2 leads with 3,530 likes",
+      "NVIDIA's LocateAnything-3B vision model",
+      "DeepSeek-V4-Pro-DSpark with sparse attention",
+      "Qwen 3.5 MoE optimized for agents",
+      "Mistral's Leanstral-1.5 119B MoE model",
+      "TabFM signals push into tabular models"
+    ],
+    "ai-community": [
+      "AI agents lie about completing work",
+      "API key security investigation trends",
+      "Agent shipped reverted database mistake",
+      "OpenAI Assistants API shutdown August 26",
+      "Boring guardrails beat prompt engineering",
+      "Five fabrication incidents in 17 days"
+    ]
+  }
+}

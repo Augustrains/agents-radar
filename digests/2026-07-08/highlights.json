@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.203/204发布，聚焦成本与Bug修复",
+      "OpenAI Codex社区热议GPT-5.5模型问题",
+      "Gemini CLI推进Agent工作流与Caretaker自动化",
+      "GitHub Copilot CLI v1.0.69上线新插件系统Skills",
+      "OpenCode v1.17.15进入V2架构大版本迁移",
+      "DeepSeek TUI v0.8.67更名CodeWhale冲刺里程碑"
+    ],
+    "ai-agents": [
+      "OpenClaw社区日增500条Issue与500条PR",
+      "消息泄漏至Slack等信道引发33条热评",
+      "子Agent完成状态静默丢失成P1级Bug",
+      "安全漏洞与会话状态损坏为三大核心痛点",
+      "合并142个PR，引入自动化代码审查流水线",
+      "长期高优先级问题未解，用户稳定性受挑战"
+    ],
+    "ai-trending": [
+      "agent-skills日增1317星，定义Agent工程技能",
+      "RuView用WiFi信号实现无摄像头空间感知",
+      "system_prompts_leaks汇集各大AI模型提示词",
+      "ai-job-search登顶日榜，自动化求职全流程",
+      "CubeSandbox开源专为Agent设计的沙箱",
+      "pocket-tts让普通CPU也能流畅跑TTS"
+    ],
+    "ai-web": [
+      "Anthropic发布Claude Sonnet 5，强化Agent能力",
+      "全局工作空间研究发现模型内部意识访问机制",
+      "Sonnet 5以中等价格提供准旗舰性能",
+      "J-space或成模型安全对齐的全局控制面板",
+      "OpenAI今日无新增内容，信息发布缺席",
+      "新模型默认覆盖所有套餐，普及Agent能力"
+    ],
+    "ai-hn": [
+      "Rowboat开源本地优先替代Claude Desktop获88分",
+      "Shellular让手机运行Claude Code等编程助手",
+      "Anthropic解释Claude的隐藏推理机制J-Space",
+      "Meta发布首代媒体生成模型Muse Image/Video",
+      "WebGPU运行时可在浏览器跑1.7B参数模型",
+      "社区热议AI基础设施能源成本飙升问题"
+    ],
+    "ai-arxiv": [
+      "Pluralis v0.1揭露VLM安全评估西方默认风险",
+      "混合模式正则化抑制推理模型事实性幻觉",
+      "SpanUQ提出语义更一致的跨度级不确定性量化",
+      "Nemotron三模合一统一自回归与扩散解码",
+      "大模型不确定性估计在22种语言上差异显著",
+      "文本到SQL集成AI原生函数，迎来范式升级"
+    ],
+    "ai-hf": [
+      "GLM-5.2凭借新型DSA架构引3.5k点赞高关注",
+      "Mistral Leanstral-119B-A6B极致稀疏效率",
+      "DeepSeek V4 Pro DSpark发布专有推理框架",
+      "NVIDIA LocateAnything-3B通用零样本定位",
+      "Qwen 3.6家族超12个变体主导社区微调",
+      "百度Unlimited-OCR宣称可处理无限长文本"
+    ],
+    "ai-community": [
+      "RAG系统在处理表格数据时常见陷阱曝光",
+      "AI生成代码忽视缓存行导致性能慢5倍",
+      "AI编程工具使用习惯正成为招聘新信号",
+      "嵌入向量可被逆向还原，RAG安全盲区曝光",
+      "LLM账单存在input/output双面隐性成本",
+      "EchoLeak演示零点击从AI助手窃取数据"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.203–204 patches released",
+      "Gemini CLI and Copilot get institutional backing",
+      "Billing opacity plagues top AI CLI tools",
+      "Codex sees 12 new PRs in telemetry series",
+      "OpenCode and Pi race toward feature parity",
+      "Systemic pain points: reliability, stability"
+    ],
+    "ai-agents": [
+      "OpenClaw backlog swells to 379 open issues",
+      "500 issues and 500 PRs in 24 hours",
+      "Core reliability bugs remain critical blockers",
+      "No new releases today for OpenClaw",
+      "Review bottleneck stalling 358 open PRs",
+      "30+ new PRs filed hourly keep pressure on"
+    ],
+    "ai-trending": [
+      "ai-job-search explodes +2514 stars today",
+      "Meetily goes viral with +1777 stars",
+      "System prompt leak repos spike +1691 stars",
+      "Pocket-TTS runs efficiently on CPU-only hardware",
+      "Specialized AI coding agents gain traction",
+      "'Skills' plugins become new LLM paradigm"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 launches as most agentic yet",
+      "Performance nears Opus 4.8 at lower cost",
+      "Anthropic reveals 'Global Workspace' research",
+      "OpenAI registers zero new content today",
+      "Narrows gap between Sonnet and flagship Opus",
+      "Enterprise barrier of cost directly addressed"
+    ],
+    "ai-hn": [
+      "Claude Cowork launches on mobile and web",
+      "The making of Claude Code draws 50 points",
+      "Data shows Codex fewer bugs, Claude wider use",
+      "Open-source Rowboat rivals Claude Desktop",
+      "AI energy costs drive up US manufacturing prices",
+      "Anthropic hit by Abnormal.ai lawsuit drama"
+    ],
+    "ai-arxiv": [
+      "StateFuse introduces deterministic conflict resolution",
+      "Memory-in-the-Loop treats memory as active component",
+      "Pluralis benchmark targets multilingual scenarios",
+      "Nemotron-Labs-Diffusion: tri-mode decoding",
+      "Models with tools push computational boundaries",
+      "Finite-precision limits re-examined for agents"
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops likes with 3,591 likes",
+      "Qwen 3.6 uncensored variant hits 2.8M downloads",
+      "NVIDIA's LocateAnything-3B gets 2,657 likes",
+      "DeepSeek-V4-Pro-DSpark debuts with paper",
+      "Gemma-4-12B gets community GGUF fine-tunes",
+      "MoE quantization activity dominates this week"
+    ],
+    "ai-community": [
+      "Shift from AI capabilities to reliability",
+      "RAG systems lie about tabular data",
+      "Leaked embeddings reverse-engineered into text",
+      "Agents fail after 50 clean demos",
+      "Google criticized for AI bloat environmental cost",
+      "Token ledgers proposed for cost accounting"
+    ]
+  }
+}

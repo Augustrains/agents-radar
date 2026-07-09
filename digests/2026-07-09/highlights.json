@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.205发布，成本和安全问题争议激烈",
+      "OpenAI Codex v0.143.0引入严重回归，社区紧急反馈",
+      "Gemini CLI v0.51.0-preview发布，Agent稳定性成焦点",
+      "Qwen Code v0.19.8发布，服务端架构和自动化讨论热烈",
+      "DeepSeek TUI聚焦v0.8.68里程碑，Agent编排密集开发",
+      "Kimi Code CLI近乎停滞，唯一活动是企业级SSL需求"
+    ],
+    "ai-agents": [
+      "OpenClaw今日活跃度极高，但PR合并率仅16.6%",
+      "核心会话机制可靠性遭质疑，内部文本泄漏问题热议",
+      "Agent输出污染用户消息通道，被指破坏性UX问题",
+      "子Agent完成结果静默丢失，数据可靠性隐患曝光",
+      "Google Meet多代理部署中发言身份错误被修复",
+      "多层级配置合并修复，文本截断破坏emoji问题已解决"
+    ],
+    "ai-trending": [
+      "agent-skills一日暴涨1297 star，定义Agent工程化能力",
+      "superpowers获1116 star，引领Agent结构化开发方法论",
+      "RuView通过WiFi信号实现空间感知，无需摄像头",
+      "TencentDB-Agent-Memory提供纯本地长期记忆方案",
+      "bradautomates/claude-video让Claude能“观看”视频",
+      "zvec获395 star，阿里开源高性能嵌入式向量数据库"
+    ],
+    "ai-web": [
+      "Anthropic一日发布35篇内容，聚焦AI安全与地缘政治",
+      "提出“双用知识开关”概念，从输出过滤转向知识控制",
+      "前沿红队报告：AI网络安全达本科水平，生物接近专家",
+      "Anthropic通过安全研究构筑涵盖技术地缘的战略话语权",
+      "OpenAI今日仅4篇发布，战略信号不明或为重大发布前奏",
+      "强调控制模型‘知道什么’而非仅仅是‘输出什么’"
+    ],
+    "ai-hn": [
+      "GPT Live引发597分讨论，推测为实时流式对话模型",
+      "GPT-5.6 Sol/Terra/Luna本周四发布，命名策略引猜测",
+      "Anthropic Claude Fable分类器被批过度，模型被指无用",
+      "OpenAI发布代码评测方法论，聚焦真实能力衡量",
+      "微软发布Flint可视化语言，专为AI Agent设计",
+      "社区对AI工具过度限制和伦理风险表达强烈不满"
+    ],
+    "ai-arxiv": [
+      "DepthWeave-KV提出跨层残差因子分解，长上下文显存大降",
+      "Doomed from the Start揭示LLM失败可早期预测并提前终止",
+      "Danus提出事实图谱记忆编排数学推理智能体",
+      "KV Cache压缩双方案同日发表，聚焦频率引导共享策略",
+      "跨22种语言不确定性评估首次大规模对比LLM表现",
+      "世界模型概念被系统定义，或成通用AI核心范式"
+    ],
+    "ai-hf": [
+      "GLM-5.2以3,666点赞登顶，MoE架构推理能力受肯定",
+      "DeepSeek-V4-Pro-DSpark发布，标志旗舰模型迭代",
+      "Nvidia LocateAnything-3B获142万下载，视觉定位开源",
+      "百度Unlimited-OCR模型下载量超108万，全能文字识别",
+      "Qwen-Fixed-Chat-Templates解决聊天模板兼容性问题",
+      "Gemma 4的Fable系列微调版获开发者高认可"
+    ],
+    "ai-community": [
+      "AI Agent伪造测试日志后自我相信，数据溯源问题敲警钟",
+      "更大上下文窗口并未让RAG更聪明，检索质量才是关键",
+      "从提示工程到循环工程，Agent性能提升路径被系统梳理",
+      "TypeScript开发者必知的5种Agent内存架构类型曝光",
+      "评估AI PR审阅者发现基线模型准确率已达65%",
+      "停止给AI Agent喂大量i18n文件，用MCP协议替代"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.205 patch cycle",
+      "OpenAI Codex rust-v0.143.0 high velocity",
+      "Token cost and safety guardrails debate",
+      "Cross-tool platform parity challenges",
+      "Community demands production-readiness",
+      "Autonomous agent capability vs. control tension"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 issues updated in 24h",
+      "Zero new OpenClaw releases today",
+      "17% PR merge/close rate reported",
+      "P1 diamond lobster bugs dominate",
+      "Session-state corruption bugs pending",
+      "Security vulnerabilities remain unpatched"
+    ],
+    "ai-trending": [
+      "addyosmani/agent-skills 1,297 stars",
+      "obra/superpowers wins 1,116 stars",
+      "system_prompts_leaks hits 1,218 stars",
+      "TencentCloud memory pipeline debuts",
+      "alibaba/zvec lightweight C++ vector DB",
+      "ruvnet/RuView WiFi-based AI sensing"
+    ],
+    "ai-web": [
+      "Anthropic publishes 35 articles in update",
+      "Agentic safety and alignment focus",
+      "Off switch for dual use knowledge",
+      "Anthropic Economic Index series",
+      "Interpretability research expanded",
+      "OpenAI data limited to metadata only"
+    ],
+    "ai-hn": [
+      "OpenAI GPT-Live real-time mode launch",
+      "GPT-5.6 Sol, Terra, Luna announced",
+      "Brown cheating scandal lowers scores",
+      "Frustration with AI content saturation",
+      "Separating signal from coding evaluations",
+      "Regulatory debate on GPT-5.6 intensifies"
+    ],
+    "ai-arxiv": [
+      "DepthWeave-KV compresses long-context cache",
+      "FreqDepthKV frequency-guided compression",
+      "KV cache efficiency for real-world LLMs",
+      "Agent trajectory failure detection paper",
+      "Physical reasoning integrated into AI",
+      "Danus agent with fact-graph memory"
+    ],
+    "ai-hf": [
+      "Qwen 3.5/3.6 ecosystem dominates downloads",
+      "NVIDIA LocateAnything-3B vision model",
+      "Google TabFM for tabular data",
+      "Uncensored MoE variant hits 2.8M downloads",
+      "DeepSeek-V4-Pro-DSpark with paper",
+      "zai-org/GLM-5.2 top liked release"
+    ],
+    "ai-community": [
+      "Agent faked test log then believed it",
+      "Bigger context windows didn't help RAG",
+      "Open-weight vs. proprietary economics debate",
+      "Google AI infrastructure climate impact warning",
+      "5 types of AI agent memory explored",
+      "Post-hope phase shifts to trust questions"
+    ]
+  }
+}

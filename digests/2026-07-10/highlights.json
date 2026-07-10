@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区热议Fable 5 Bug与Opus 4.8幻觉问题",
+      "OpenAI Codex v0.144.0严重Bug致GPT-5.5性能退化",
+      "Gemini CLI聚焦Subagent状态误报与Agent挂死问题",
+      "GitHub Copilot CLI v1.0.70-0发布安全增强版本",
+      "OpenCode连发三个小版本修复Copy/Paste等关键Bug",
+      "DeepSeek TUI发布v0.8.68里程碑大版本改革架构"
+    ],
+    "ai-agents": [
+      "OpenClaw项目48小时未发布新版本，处于冲刺期",
+      "P0级Bug#43661修复会话压缩超时无限循环问题",
+      "PR#103141修复Slack mpDM机器人消息会话重复",
+      "#99912修复Agent心跳路由错误确保会话执行",
+      "210个PR被合并关闭，项目底层稳定性显著提升",
+      "多个会话状态丢失与模型静默失败问题仍悬而未决"
+    ],
+    "ai-trending": [
+      "MadsLorentzen/ai-job-search单日暴涨3716星登顶",
+      "iOfficeAI/OfficeCLI让AI Agent直接操作Office文件",
+      "Graphify将代码转化为知识图谱，提升Agent理解力",
+      "unclecode/crawl4ai今日获215星，LLM爬虫需求旺",
+      "TauricResearch/TradingAgents总星数达9.2万",
+      "轻量级pocket-tts实现CPU运行TTS引关注"
+    ],
+    "ai-web": [
+      "Anthropic与UST合作将Claude引入芯片汽车制造业",
+      "前美联储主席伯南克加入Anthropic长期利益信托",
+      "Anthropic发布邀请公众提出AI尖锐问题公告",
+      "Anthropic推出使用反思功能构建用户信任",
+      "双用知识开关研究展示安全技术新进展",
+      "Anthropic今日新增7篇内容密度异常高"
+    ],
+    "ai-hn": [
+      "GPT-5.6发布获1042分770评论成今日绝对焦点",
+      "纽约时报指控OpenAI在版权诉讼中隐瞒证据",
+      "中国GLM 5.2在增值税簿记任务接近人类水平",
+      "诺贝尔奖得主因AI研究移居中国引热议",
+      "中国政府发Claude Code后门警告引发安全争议",
+      "ARC Prize发布GPT-5.6通用智能基准测试结果"
+    ],
+    "ai-arxiv": [
+      "Max Out GRPO Signal解决困难推理梯度消失问题",
+      "Agon提出跨模型竞争强化学习范式提升推理",
+      "PALS百分位感知剪枝实现更高效LLM压缩",
+      "FourierQK用频谱预处理改进Transformer注意力",
+      "Institutional Red-Teaming探讨系统性AI安全",
+      "走向线性Transformer：分析驱动后训练线性化"
+    ],
+    "ai-hf": [
+      "腾讯发布MoE架构旗舰模型Hy3获612赞",
+      "智谱GLM-5.2登顶，下载量超36.2万次",
+      "InternScience打造Qwen3.5架构Agent专用模型",
+      "Mistral发布Leanstral-1.5仅激活6B参数",
+      "谷歌发布专为表格数据设计的tabfm模型",
+      "深度求索DeepSeek-V4-Pro-DSpark获457赞"
+    ],
+    "ai-community": [
+      "拒绝使用AI的高级开发者正在退化为初级",
+      "AI代理需要不可变事件日志而非更多工具",
+      "AI代码审查正消耗团队注意力并引发PR膨胀",
+      "确定性路由+采样替代LLM质量门控方案",
+      "元认知4象限框架被视为AI个性化未来方向",
+      "Grok 4.5的6美元输出价格才是真正故事"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex battle reliability",
+      "Kimi Code supports CLAUDE.md loading",
+      "Qwen Code focuses on agent loop stability",
+      "FLOP/s metric questioned for reasoning",
+      "MCP server streaming in development",
+      "Cross-tool compatibility is a key priority"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and PRs",
+      "Silent message loss is a critical bug",
+      "Codex OAuth path has regressions",
+      "Session state corruption plagues agents",
+      "No new releases from OpenClaw today",
+      "210 PRs merged or closed in 24h"
+    ],
+    "ai-trending": [
+      "AI job search tools explode in popularity",
+      "OfficeCLI built for AI agents",
+      "system_prompts_leaks crosses 55K stars",
+      "crawl4ai gains 215 stars today",
+      "pocket-tts enables on-device speech",
+      "pentagi brings AI to cybersecurity"
+    ],
+    "ai-web": [
+      "Bernanke joins Anthropic's LTBT",
+      "Claude partners with UST for Physical AI",
+      "Anthropic trains 20,000 engineers",
+      "Claude introduces Reflect feature",
+      "OpenAI hints at GPT-5.6 pages",
+      "Anthropic focuses on governance"
+    ],
+    "ai-hn": [
+      "GPT-5.6 sparks 770 comments",
+      "NYT accuses OpenAI of hiding evidence",
+      "GLM 5.2 matches human bookkeepers",
+      "Claude Code ecosystem under scrutiny",
+      "China issues security alert on Claude",
+      "Fable July 12 disclaimer disappears"
+    ],
+    "ai-arxiv": [
+      "Linear attention reduces quadratic complexity",
+      "Self-improvement loop formalized",
+      "RL signals address dead-end models",
+      "RoPE frequency usage linked to data",
+      "Role-based architectures for agents",
+      "Recursive research automation progresses"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 uncensored model trends",
+      "Gemma-4-12B excels at coding",
+      "GGUF quantizations dominate models",
+      "NVIDIA pushes NVFP4 optimizations",
+      "GLM-5.2 gets 3,728 likes",
+      "DeepSeek-V4 fine-tunes gain traction"
+    ],
+    "ai-community": [
+      "AI carbon footprint sparks backlash",
+      "Developers debate anti-AI purism",
+      "Reverting AI code deepens learning",
+      "LLM quality gates face critique",
+      "Deterministic routing proposed",
+      "Hands-on agent debugging guides emerge"
+    ]
+  }
+}

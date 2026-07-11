@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区热议子代理失控与Token消耗危机",
+      "OpenAI Codex 推出Alpha版本适配GPT-5.6 Sol",
+      "Qwen Code发布v0.19.9，支持多工作区协同",
+      "Pi工具全链路适配GPT-5.6，思考等级扩展",
+      "DeepSeek TUI冲刺v0.8.68，架构重构进行中",
+      "GitHub Copilot CLI v1.0.71-0修复TUI冻结"
+    ],
+    "ai-agents": [
+      "OpenClaw项目24小时产生429条Issue和500个PR",
+      "PR #104030 修复Twitch消息中Unicode表情分割Bug",
+      "PR #103714 修复关闭标签页误杀无关页面严重Bug",
+      "飞书URL下划线截断问题在PR #103300中修复",
+      "Google Veo视频生成模型ID前缀问题已解决",
+      "大量P0/P1问题待决策，项目健康度中等偏上"
+    ],
+    "ai-trending": [
+      "agent-skills日增1116星，定义Agent技能新标准",
+      "mattpocock/skills日增1712星，工程师实战技能库",
+      "OfficeCLI成首个AI Agent专用Office命令行工具",
+      "DesktopCommanderMCP让Claude操控终端和文件",
+      "vllm项目星数达85,931，推理引擎事实标准",
+      "腾讯云推本地化Agent记忆方案，无外部依赖"
+    ],
+    "ai-hn": [
+      "苹果诉OpenAI窃取商业机密引爆HN热榜",
+      "GPT-5.6 Sol Ultra首次证明悬而未决数学猜想",
+      "12大模型横向评测：编码能力差距微乎其微",
+      "GPT-5.6误删Mac全部文件引发安全警告",
+      "开发者用Fable和AI创建仅5MB的海盗MMO",
+      "GPT-5.6数学证明被比作AlphaFold级突破"
+    ],
+    "ai-arxiv": [
+      "UniClawBench发布首个实体操作通用智能体基准",
+      "WebSwarm提出递归多智能体深度搜索架构",
+      "研究揭示LLM量化评估存在\"等价性幻觉\"",
+      "Latent Memory Palace探索连续控制新推理范式",
+      "BiSCo-LLM提出全新模型压缩技术",
+      "Rubric LLMs基准测试深度研究引用验证能力"
+    ],
+    "ai-hf": [
+      "智谱GLM-5.2 MoE模型获3785点赞成焦点",
+      "英伟达LocateAnything-3B下载量达145万",
+      "百度Unlimited-OCR全场景识别下载超131万",
+      "Mistral推119B参数MoE模型仅6B活跃参数",
+      "社区Qwen3.6无审查版下载量达266万",
+      "LTX-Best-Face-ID引领身份保持文生视频趋势"
+    ],
+    "ai-community": [
+      "开发者构建统一错误处理模型应对各AI提供商",
+      "自定义linter自动检测AI助手中的安全漏洞",
+      "AI缓存代理可节省70%推理成本引热议",
+      "技术博客正从人类阅读转向AI可检索基础设施",
+      "一文批判编码Agent如同老虎机的赌博心态",
+      "多Agent原型从AI Studio导出极限测试"
+    ]
+  },
+  "en": {}
+}

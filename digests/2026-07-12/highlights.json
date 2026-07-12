@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI 工具从'功能有无'转向'质量可靠性'与'成本透明度'",
+      "Claude Code 社区活跃度极高，出现55+评论的热门Issue",
+      "Gemini CLI 核心稳定性问题集中爆发，P1/P2级Bug为主",
+      "Qwen Code 重写守护进程模式，推进跨会话通信",
+      "OpenAI Codex 模型适配与架构优化，获733👍高关注",
+      "Pi 工具适配GPT-5.6成为核心主题，开发活跃度极高"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1-beta.5发布，含对话式引导设置",
+      "社区提交500个PR，关闭235个Issue，开发动能强劲",
+      "会话状态稳定性和内存泄漏成核心挑战",
+      "macOS进程管理P0级修复，解决网关重启恢复问题",
+      "Web UI聊天记录修复长对话加载Bug",
+      "安全相关的功能请求讨论热度不减"
+    ],
+    "ai-trending": [
+      "stitch-skills获340+ star，Agent技能标准化成社区核心诉求",
+      "superpowers日增740 star，Agent开发方法论爆发",
+      "headroom专注优化RAG流程，直指降低Token消耗痛点",
+      "vllm项目持续火爆，已成LLM推理服务事实标准",
+      "AutoGPT社区地位稳固，持续引领AI人人可用愿景",
+      "Claude与MCP工具链深度集成项目持续升温"
+    ],
+    "ai-hn": [
+      "社区对AI助手'控制欲'反弹情绪强烈",
+      "OpenAI在GitHub创建Git复刻，意图引发猜测",
+      "OpenAI安全负责人离职，安全承诺受质疑",
+      "苹果起诉OpenAI窃取商业机密，AI军备进入法律战",
+      "Meta因用户反对撤下Instagram争议性AI功能",
+      "Stop Telling Me to Ask an LLM一文引发热议"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2点赞周榜第一，社区期待极高",
+      "nvidia/LocateAnything-3B是本周最大黑马",
+      "baidu/Unlimited-OCR下载量超百万，需求强劲",
+      "基于Qwen 3.5/3.6的社区精调模型霸榜",
+      "GGUF量化格式仍是本地部署首选",
+      "大厂发布与社区精调形成双轨竞争格局"
+    ],
+    "ai-community": [
+      "Transformer论文8位作者全部离开Google引发讨论",
+      "Grok 4.5用600亿美元数据集证明规模才是王道",
+      "Claude Code被曝在Prompt中嵌入隐写标记",
+      "多步LLM Agent可观测性成Dev.to热门话题",
+      "AI Agent规则过多反让性能下降，需审计工具",
+      "AI编码工具项目规则加载机制差异深度解析"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code embeds steganographic markers in prompts.",
+      "GPT-5.6 model rollout drives integration across all tools.",
+      "Enterprise vs community tools bifurcation grows.",
+      "Zero new releases across all tools today.",
+      "MCP lifecycle management remains a universal pain point.",
+      "50+ open issues updated daily in several projects."
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1-beta.5 shipped with conversational onboarding.",
+      "459 issues and 500 PRs updated in last 24 hours.",
+      "P0 bug returns literal strings for tool results.",
+      "MacOS relaunch crash is a critical issue.",
+      "224 open active issues vs 235 closed issues.",
+      "Secret masking and memory security features pending."
+    ],
+    "ai-trending": [
+      "DesktopCommanderMCP surges +909 stars today.",
+      "Superpowers project gains +740 stars for agent skills.",
+      "Stitch-skills pushes cross-platform agent standardization.",
+      "Ollama hits 175,939 stars as local AI runner.",
+      "Milvus and mem0 dominate memory and retrieval layers.",
+      "VLLM remains de-facto standard for LLM deployment."
+    ],
+    "ai-hn": [
+      "Community pushes back against \"just ask an LLM\" advice.",
+      "Anthropic found hidden space where Claude puzzles.",
+      "Soofi: European sovereign LLM trained in 2 months.",
+      "Mesh LLM enables distributed AI computing on iroh.",
+      "Claude becomes overly cautious, sparking concern.",
+      "Microsoft GDID surveillance sparks privacy debate."
+    ],
+    "ai-hf": [
+      "Tencent Hy3 MoE model trends with 697 likes.",
+      "Zhipu GLM-5.2 MoE reaches 421,270 downloads.",
+      "NVIDIA LocateAnything-3B advances object localization.",
+      "Qwen3.6 derivatives drive community quantizations.",
+      "Krea-2-Turbo signals rise of video-native models.",
+      "Unsloth and empero-ai lead in model compression."
+    ],
+    "ai-community": [
+      "All 8 original Transformer authors left Google.",
+      "Claude Code embeds steganographic markers in prompts.",
+      "AI agent rules decay over long sessions.",
+      "Grok 4.5 spent $60 billion on dataset.",
+      "Scale vs cleverness debate reignited today.",
+      "Token costs hidden in AI agent workflows."
+    ]
+  }
+}

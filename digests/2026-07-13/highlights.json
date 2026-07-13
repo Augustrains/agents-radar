@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 和 OpenAI Codex 社区问题密集引爆稳定性争议",
+      "Qwen Code 社区活跃度极高，成当日最热门项目之一",
+      "模型强制覆盖用户配置引发开发者集体抵制",
+      "DeepSeek TUI 社区活跃度低，仅3个热点Issue",
+      "OpenCode 发布2个构建产物，版本迭代加速",
+      "平台兼容性差，Windows平台成为开发者普遍痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区24小时内产生1000条 Issue 与 PR",
+      "P0/P1 高优先级Bug聚焦会话状态与内存泄漏",
+      "网关插件系统修复跨插件数据篡改安全漏洞",
+      "Discord渠道消息因并发冲突被静默丢弃问题修复",
+      "Windows平台修复 Claude ACP 适配器调用失败Bug",
+      "社区热点聚焦模型 I/O 与 Agent 感知能力"
+    ],
+    "ai-trending": [
+      "AI Agent 安全与自主能力成今日核心矛盾",
+      "RAG与知识图谱工具涌现，解决长上下文问题",
+      "AI 对冲基金项目 virattt/ai-hedge-fund 获115星",
+      "vllm 以86,079星稳居大模型推理事实标准",
+      "Headroom 工具可减少60-95% LLM上下文Token",
+      "背景Agent系统代表AI从响应向持续任务进化"
+    ],
+    "ai-hn": [
+      "Claude Code 发送33k Token vs OpenCode 7k 引热议",
+      "George Hotz 发帖爱LLM恨炒作获315分共鸣",
+      "溯源工具Confessor可回放Claude Code隐私访问",
+      "Grok 4.5 和 GPT5.6 在安全审查中击败Anthropic",
+      "苹果与OpenAI法律纠纷成今日产业焦点",
+      "可解释性研究引发社区对LLM推理本质讨论"
+    ],
+    "ai-hf": [
+      "Qwen系列衍生模型占据榜单半壁江山影响力巨大",
+      "百度 Unlimited-OCR 下载量超143万实用价值高",
+      "腾讯发布Hy3模型，代表混元系列最新进展",
+      "GLM-5.2采用MoE架构以3,857点赞证明顶流地位",
+      "无审查版Qwen3.6社区版下载量达259万",
+      "Supra-Router-51M轻量级模型探索任务分发"
+    ],
+    "ai-community": [
+      "7条实战经验防止LLM API账单无声爆炸",
+      "H100 vs H200 vs B200 GPU选型指南发布",
+      "神经生物学角度剖析AI引发开发者倦怠循环",
+      "npm预安装钩子静默植入恶意软件安全事件",
+      "GPT-5.6 vs Claude Fable 5 成本速度全面对比",
+      "多智能体系统成本与可靠性优化实战总结"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "7 major open-source projects tracked",
+      "Claude Code hits highest community engagement",
+      "Provider lock-in vs agnostic tools debate",
+      "False-positive safety classifiers disrupt workflows",
+      "Shift toward persistent daemon architectures",
+      "Cross-session agent memory gains traction"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs updated in 24h",
+      "Two P0 regressions opened (#104721, #101290)",
+      "Memory leaks and SQLite corruption reported",
+      "Linux/Windows desktop enhancement request at 110 comments",
+      "No new releases; last is 2026.6.x series",
+      "clawsweeper bot flags review bottlenecks"
+    ],
+    "ai-trending": [
+      "destructive_command_guard surges in agent safety",
+      "awesome-llm-apps hits 118,567 stars (+408)",
+      "AI Hedge Fund framework gains 115 stars",
+      "Vibe-Trading explodes with +768 stars today",
+      "Prefect sees 66 new stars as agent glue",
+      "Anti-AI-slop movement grows with hallmark"
+    ],
+    "ai-hn": [
+      "Claude Code 33k token vs OpenCode 7k debated",
+      "George Hotz leads anti-hype backlash",
+      "Anthropic discovers hidden Claude reasoning space",
+      "Mechanistic interpretability with causality theory",
+      "Apple vs OpenAI legal war brewing",
+      "LLM operational efficiency dominates discussions"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 family dominates with millions of downloads",
+      "NVIDIA releases 3 new models: spatial, language, audio",
+      "tencent/Hy3 gets 721 likes, 8.7k downloads",
+      "GLM-5.2 at 3,857 likes, 441k downloads",
+      "Agents-A1 optimized for agentic workflows",
+      "LongCat-2.0 focuses on long-context Chinese dialogue"
+    ],
+    "ai-community": [
+      "LLM API bill explosion prevention tips shared",
+      "Checkpoint-skip gate found in multi-agent pipelines",
+      "Memory gate produces plausible fabricated citations",
+      "Google's AI energy bloat criticized on Lobste.rs",
+      "Bruce Schneier piece on AI surveillance discussed",
+      "Deterministic behavior enforcement in non-deterministic systems"
+    ]
+  }
+}

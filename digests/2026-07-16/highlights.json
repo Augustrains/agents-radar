@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.211发布，但社区因成本危机情绪警惕",
+      "OpenAI Codex连续Alpha更新，Windows性能Bug集中爆发",
+      "Gemini CLI Agent稳定性与安全成核心改进方向",
+      "OpenCode v1.18.2引发UI重大回归，社区强烈不满",
+      "GitHub Copilot CLI MCP认证与连接是最大痛点",
+      "Qwen Code Nightly推进多工作空间与MCP生态"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.7.2-beta.1，支持远程编码会话",
+      "v2026.7.1升级引发网关启动崩溃与状态迁移问题",
+      "修复Codex使用限制错误导致模型fallback不工作",
+      "Zalo频道修复令牌比较安全性漏洞，使用时序安全函数",
+      "173个PR合并关闭，核心稳定性修复推进",
+      "P0级别Bug报告激增，维护团队积极应对"
+    ],
+    "ai-trending": [
+      "Hermes Agent斩获215K星，AI Agent标志性项目",
+      "Vibe-Trading今日新增+915星，个人交易代理热门",
+      "awesome-llm-apps新增+1,236星，100+Agent代码库",
+      "DeepTutor今日+172星，终身个性化辅导AI助手",
+      "OpenCLI将任意网站转化为CLI工具，获26K星",
+      "browser-use获104K星，AI代理操作浏览器自动化"
+    ],
+    "ai-web": [
+      "Anthropic推出Claude Tag，Slack中@AI协作者",
+      "Claude Tag内部65%产品代码由其生成",
+      "Anthropic发布10个金融行业Agent模板",
+      "Claude for Teachers面向K-12教师免费开放",
+      "Anthropic千万美元投资加拿大AI研究",
+      "OpenAI今日增量微弱，与Anthropic多点出击对比鲜明"
+    ],
+    "ai-hn": [
+      "OpenAI Codex Micro硬件发布获262分，224条评论",
+      "Inkling发布975B参数开源权重模型，获120分",
+      "OpenAI欧洲商标案败诉引发社区广泛讨论",
+      "Anthropic即将IPO消息与AI泡沫讨论并存",
+      "LLM Networking with MikroTik获42分，工程实践",
+      "Fuse开源MCP/CLI工具加速Claude Code处理C#"
+    ],
+    "ai-arxiv": [
+      "AI智能体缺乏任务复杂度感知，全上下文策略效率低",
+      "LLM在无关上下文中预测逻辑频繁翻转",
+      "44个模型无偏好时41%选择'serendipity'，揭示偏差",
+      "PalmClaw发布原生手机端Agent框架",
+      "LLM作为评估者无标准答案时过于慷慨不可靠",
+      "视频扩散模型在长程因果链上表现受限"
+    ],
+    "ai-hf": [
+      "GLM-5.2获本周最高点赞3,998，智谱MoE大模型",
+      "Qwythos-9B下载量破200万，小模型+强数据代表",
+      "HauhauCS Qwen3.6-35B MoE无审查版下载超244万",
+      "Ornith-1.0-35B-GGUF下载153万，黄金尺寸需求大",
+      "ternary-Bonsai-27B引领极致量化浪潮",
+      "tencent Hy3视频生成模型获高关注"
+    ],
+    "ai-community": [
+      "构建知道何时'认输'的AI Agent可靠性设计模式",
+      "从Demo到生产：银行AI聊天机器人工程化鸿沟",
+      "使用Zod对LLM输出类型校验，提升应用稳定性",
+      "构建本地RAG系统的详细事后分析报告",
+      "预算断路器模式：成本超限自动降级到本地模型",
+      "AI数据中心财富集中与隐私监控引深层讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and OpenAI Codex dominate conversation",
+      "Gemini CLI and OpenCode show strong maintenance",
+      "Qwen Code emerges as most architecturally ambitious",
+      "Kimi Code CLI shows minimal community activity",
+      "Agent autonomy vs cost safety is dominant theme",
+      "Unbounded agent costs cause reliability crises"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.1 ships today",
+      "Remote coding sessions now supported on cloud workers",
+      "P0 crash-loop bugs plague v2026.7.1 release",
+      "471 issues, 500 PRs updated in 24 hours",
+      "State migration and gateway failures reported",
+      "Community excited by features but frustrated by regressions"
+    ],
+    "ai-trending": [
+      "mattpocock/skills gains +2,130 stars today",
+      "HKUDS/Vibe-Trading gains +915 stars today",
+      "OpenInterpreter rewrites in Rust for low cost",
+      "Vibe coding skill economy maturing fast",
+      "ollama hits 176,203 stars today",
+      "Three skill-sharing repos rank as top gainers"
+    ],
+    "ai-web": [
+      "Claude Tag becomes persistent Slack team member",
+      "Financial services agent template suite released",
+      "Claude for Teachers grants free premium access",
+      "Anthropic commits $10M to Canadian AI research",
+      "Canada leads per-capita Claude adoption",
+      "OpenAI only provides metadata-only entries"
+    ],
+    "ai-hn": [
+      "Codex Micro hardware excites HN community",
+      "OpenAI loses EU trademark dispute",
+      "975B parameter Inkling model dropped open-weight",
+      "Speculative Growth paper raises bubble anxiety",
+      "MIT paper questions AI investment sustainability",
+      "Brainless shadcn components mimic Claude Code"
+    ],
+    "ai-arxiv": [
+      "Self-evolving agents research is surging",
+      "LLMs flip predictions under irrelevant context",
+      "Non-autoregressive generation methods gain traction",
+      "Incentive-compatible LLMs prevent misreporting",
+      "LLM judges are too generous without answers",
+      "Complexity-aware reasoning moves beyond benchmarks"
+    ],
+    "ai-hf": [
+      "Tencent Hy3 and GLM-5.2 dominate trending models",
+      "Mixture-of-Experts architectures surge in popularity",
+      "Unlimited-OCR and OvisOCR2 lead vision-language",
+      "Bonsai models pioneer 1-bit quantization experiments",
+      "Ornith-1.0-35B-GGUF hits 1.5M downloads",
+      "Binary quantization community interest is strong"
+    ],
+    "ai-community": [
+      "AI agent that knows when not to guess built",
+      "LangSmith vs Traccia compares observability approaches",
+      "Prompt lock tool version-locks prompts like packages",
+      "LLM circuit breaker fails over to local model",
+      "Production AI engineering realities dominate talks",
+      "Tension between AI hype and practical work"
+    ]
+  }
+}

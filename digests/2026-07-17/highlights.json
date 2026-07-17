@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.212 发布，安全与成本争议成焦点",
+      "OpenAI Codex 平台化扩展，Windows 性能瓶颈待解",
+      "GitHub Copilot CLI 支持 BYOK/MCP 生态扩展",
+      "Qwen Code v0.19.11 修复流式渲染问题",
+      "DeepSeek TUI 更名为 CodeWhale，引入多Agent编排",
+      "Pi v0.80.10 极致扩展性，但安全隐患受关注"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.7.1 版本引入回归性Bug和启动故障",
+      "多槽位记忆角色架构重构，长期记忆管理迈出重要一步",
+      "运行时日志迁移至SQLite，提升稳定性和查询效率",
+      "500条Issue和500条PR更新，开发团队快速响应",
+      "工作区安全预览组件新增，支持检查开发服务器",
+      "CI输出编码修复，提升多字节UTF-8字符兼容性"
+    ],
+    "ai-trending": [
+      "GitHub Copilot SDK 发布，编程助手走向平台化",
+      "openinterpreter 用 Rust 重写，专为 Kimi K3 优化",
+      "Apache OSSIE 启动，瞄准AI与BI数据互通",
+      "PageIndex 提出无向量化RAG，挑战传统搜索范式",
+      "browser-use 让Agent自主操作浏览器，重塑屏幕自动化",
+      "awesome-llm-apps 今日新增923星，集合100+AI应用"
+    ],
+    "ai-web": [
+      "OpenAI 发表新文《Why Teens Deserve Access Safe Ai》",
+      "Anthropic 今日无更新，可能处于重大发布前静默期",
+      "OpenAI 试图主动塑造青少年AI安全的公共讨论",
+      "Anthropic 零增量暗示深度研发或合规静默",
+      "AI安全议题焦点转向青少年使用与监管",
+      "两大厂商发布节奏分化，战略优先级不同"
+    ],
+    "ai-hn": [
+      "LM Studio Bionic 发布，本地开源模型也能跑Agent",
+      "1Password for Claude 解决Agent访问密码的安全痛点",
+      "超100位YC前创始人曾在OpenAI和Anthropic工作引热议",
+      "古典机器学习检测LLM文本，比AI检测器更可靠",
+      "100美元AI音乐视频大战：Claude Fable 5 vs GPT-5.6",
+      "Traceforce (YC S26) 推出AI应用安全监控工具"
+    ],
+    "ai-arxiv": [
+      "Mask-Aware Policy Gradients 提升扩散语言模型推理能力",
+      "LongStraw 实现200万token长上下文强化学习",
+      "BadWAM 揭示世界-动作模型的关键失败模式",
+      "AlphaWiSE 解决多模态模型持续学习中的灾难性遗忘",
+      "Subjective Risk Decomposition 为不确定性量化提供新视角",
+      "Optimal Self-Distillation 理论分析整流流模型"
+    ],
+    "ai-hf": [
+      "GLM-5.2 获4029赞，智谱AI新一代MoE模型登场",
+      "Hy3 腾讯混元最新版本，大型基础模型引广泛关注",
+      "Qwythos-9B 量化版下载超200万，本地多模态能力受捧",
+      "Agents-A1 专为智能体任务优化的MoE模型",
+      "Unlimited-OCR 百度发布，下载量近190万",
+      "gemma-4-12B Agent微调版下载超50万，生态活力足"
+    ],
+    "ai-community": [
+      "AI生成代码是技术债：每行代码都是要还的小贷",
+      "Token Drift 解释Agent为何越来越慢越贵",
+      "LLM评估指南：如何量化AI代码补全功能质量",
+      "自建小工具解决AI Agent黑盒问题",
+      "Anthropic 传闻筹备9650亿美元IPO",
+      "Agent可观测性成为社区新热点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Session persistence and provider flexibility aligned",
+      "Multi-agent orchestration across all tools",
+      "AST-aware tooling gains traction",
+      "Windows stability remains weak cross-platform",
+      "Challengers vs. established players diverging",
+      "Cost transparency and guardrails unified push"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs today",
+      "174 closed issues, 201 merged PRs",
+      "326 open issues, 299 open PRs",
+      "Wear OS platform expansion added",
+      "High-velocity bug-fix and feature cycle",
+      "Maintain team stretched thin"
+    ],
+    "ai-trending": [
+      "hallmark: +3,372 stars today",
+      "skills: +2,060 stars today",
+      "Graphify: +1,107 stars today",
+      "GitHub Copilot SDK official release",
+      "DeepTutor: +656 stars today",
+      "Agent skill infrastructure exploding"
+    ],
+    "ai-web": [
+      "OpenAI on teen AI access",
+      "Anthropic: zero new articles today",
+      "Strategic youth engagement push",
+      "Safety advocacy for younger users",
+      "Stark contrast between labs",
+      "Labs focus: internal vs outreach"
+    ],
+    "ai-hn": [
+      "105 YC founders now at OpenAI/Anthropic",
+      "Detecting LLM text with classical ML",
+      "Anthropic junior staffer EU testimony",
+      "Lobbying strategy leak sparks skepticism",
+      "LM Studio agentic capability buzz",
+      "Global AI competition intensifies"
+    ],
+    "ai-arxiv": [
+      "LongStraw: RL beyond 2M tokens",
+      "CPO replaces entropy bonus in RLVR",
+      "Mechanistic interpretability meets control",
+      "BadWAM, DriftWorld target world models",
+      "LongStraw and ChronoQG new benchmarks",
+      "Contrastive policy optimization emerging"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 uncensored: 2.3M downloads",
+      "GLM-5.2: 4,029 likes from Zhipu",
+      "Bonsai series extreme ternary quantization",
+      "Tencent Hy3 base model new entrant",
+      "Wan-AI video generation trending",
+      "Multimodal shift dominating models"
+    ],
+    "ai-community": [
+      "Operational debt of AI tooling",
+      "Token management and evaluation hygiene",
+      "Hidden costs of agentic workflows",
+      "Macro data center wealth concentration",
+      "Social implications of AI surveillance",
+      "Post-hype pragmatic phase"
+    ]
+  }
+}

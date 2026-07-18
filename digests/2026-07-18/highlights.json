@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区活跃度最高，10个新Issue",
+      "OpenAI Codex 发布3个Alpha版本",
+      "Gemini CLI Agent 出现无限循环Bug",
+      "Copilot CLI 发布新版本",
+      "Agent 不遵循指令行为引发社区担忧",
+      "Windows 和 ARM64 支持成普遍痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.2-beta.2 版本",
+      "新版本引入远程编码会话功能",
+      "SQLite 迁移脚本Bug导致Gateway启动失败",
+      "社区活跃度极高，403条Issues 500条PRs",
+      "会话存储预算从2GiB大幅提升",
+      "稳定性问题成焦点，高优回归性Bug修复中"
+    ],
+    "ai-trending": [
+      "OpenInterpreter 用Rust重写，性能飞跃",
+      "Nutlope/hallmark 今日新增1485 Stars",
+      "GitHub 发布 Copilot Agent 多平台SDK",
+      "NousResearch/hermes-agent 社区热度极高",
+      "CherryHQ/cherry-studio 集成300+AI助手",
+      "vllm 仍是部署LLM应用的基石项目"
+    ],
+    "ai-web": [
+      "OpenAI 发布'A Scorecard For The AI Age'博文",
+      "Anthropic 官网连续多日无新增内容",
+      "OpenAI 试图成为AI时代的'标准制定者'",
+      "Anthropic 静默或为重大发布蓄力",
+      "OpenAI 从技术公司转向标准制定者角色",
+      "两阵营在战略沟通上路径明显分化"
+    ],
+    "ai-hn": [
+      "Apple 向数十名OpenAI员工发律师函",
+      "Claude Code 设计缺陷遭深度剖析文章",
+      "用户集体抱怨Fable模型突然转收费",
+      "Kimi K3 被疑蒸馏未发布的Anthropic模型",
+      "纽约时报：中国AI突破威胁美国领先地位",
+      "护士控诉AI监控引发权力责任热议"
+    ],
+    "ai-arxiv": [
+      "提出新统计框架解决LLM一致性问题",
+      "词汇表扩展方法无需重新训练",
+      "时间中层循环Transformer改善长序列推理",
+      "IRT用于AI评测可能产生误导性结论",
+      "Test-Time Training扩展机器人策略至8000帧",
+      "搜索多智能体协作框架提升鲁棒性"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 超4000点赞领跑本周",
+      "prism-ml 将27B模型压缩至1-bit爆火",
+      "腾讯发布Hunyuan第三代模型Hy3",
+      "Wan-Dancer-14B 专注舞蹈动作生成",
+      "OvisOCR2 高精度OCR模型受关注",
+      "无模型权重仓库因修复模板获934赞"
+    ],
+    "ai-community": [
+      "AI代码审计工具漏洞成Dev.to热点",
+      "Gemini Nano端侧AI开发第一手经验",
+      "Codex误删文件事故引发安全警示",
+      "Kimi K3 2.8万亿参数模型引热议",
+      "Lobste.rs关注AI导致财富集中问题",
+      "测试框架本身可能是最大Bug来源"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code struggles with macOS kernel leak",
+      "OpenAI Codex sees 3 Rust releases in 24h",
+      "Windows parity is top cross-cutting pain point",
+      "Community demands telemetry opt-outs",
+      "Agentic reliability issues plague all tools",
+      "Platform stabilization phase with fewer features"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.2 ships today",
+      "Remote coding sessions now on cloud workers",
+      "403 issues and 500 PRs in 24 hours",
+      "P0/P1 regressions from previous release",
+      "Maintainer bandwidth stretched with 250 open issues",
+      "Session resume across Pi and Claude catalogs"
+    ],
+    "ai-trending": [
+      "claude-mem hits 87.6K stars today",
+      "headroom surges to 59.7K stars",
+      "hallmark gains 1,485 stars as anti-slop tool",
+      "GitHub Copilot SDK becomes embeddable AI service",
+      "Graphify turns codebases into knowledge graphs",
+      "DeepTutor and nanobot gain traction"
+    ],
+    "ai-web": [
+      "OpenAI publishes 'A Scorecard For The AI Age'",
+      "Anthropic posts zero new articles today",
+      "Both companies shift to strategic positioning",
+      "Minimal signal environment observed",
+      "Crawler misses full text of OpenAI piece",
+      "Inter-sprint period suspected at Anthropic"
+    ],
+    "ai-hn": [
+      "China's Kimi K3 threatens US AI lead",
+      "Kimi K3 may have distilled Anthropic model",
+      "Community reacts against Anthropic's Fable",
+      "OpenAI employees fund PAC against bosses",
+      "Legal intimidation and broken trust discussed",
+      "Skepticism over leadership hypocrisy grows"
+    ],
+    "ai-arxiv": [
+      "RoboTTT pushes robot memory to 8K timesteps",
+      "BadWAM shows world-action models dream wrong",
+      "MedFailBench builds clinician-grounded safety",
+      "Beyond the Leaderboard rethinks VQA evaluation",
+      "AutoSynthesis advances multi-agent research",
+      "Partition Prompt Aggregate tests LLM consistency"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model tops likes at 4,071",
+      "Bonsai-27B 1-bit GGUF most downloaded",
+      "Ternary-Bonsai-27B enables extreme compression",
+      "Qwen3.5/3.6 backbone for top multimodal models",
+      "Inkling and OvisOCR2 boost specialized OCR",
+      "Ultra-efficient LLMs prioritize on-device deployment"
+    ],
+    "ai-community": [
+      "Devs wrestle with AI tooling trust gap",
+      "Kimi K3's $15 output hides verbosity trap",
+      "Bruce Schneier on wealth concentration",
+      "Local-first tracing gains traction",
+      "Race conditions in AI spend caps discussed",
+      "Deploying models to AWS Inferentia2 painful"
+    ]
+  }
+}

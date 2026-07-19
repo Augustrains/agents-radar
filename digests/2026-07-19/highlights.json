@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex v0.144.6 发布，修复多项回归 Bug",
+      "Gemini CLI v0.52.0 Nightly 版注重安全加固",
+      "GitHub Copilot CLI 出现核心进程稳定性回归",
+      "Kimi Code CLI 快速响应交互协议问题",
+      "OpenCode 长期 PR 推进修复内存泄漏",
+      "DeepSeek TUI 0.9.1 冲刺，聚焦 Agent 可控性"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.3 发布，支持远端编码会话",
+      "SQLite 迁移 Bug 阻塞 Gateway 启动，需备份",
+      "PR 修复 CLI 大文件 OOM 风险",
+      "OAuth 凭证存活问题正在紧急修复中",
+      "原生自动化与节点支持拓宽编排能力",
+      "社区活跃度极高，412 条 Issue 更新"
+    ],
+    "ai-trending": [
+      "mem0ai/mem0 成为 AI Agent 记忆层新星",
+      "流式3D基础模型 lingbot-map 获 831 星",
+      "airllm 让 70B 模型运行在 4GB 显卡上",
+      "Kimi CLI 官方上线，终端集成开发流程",
+      "Hermes Agent 获 21 万星，Agent 演进代表",
+      "MCP 生态项目 code-review-graph 获关注"
+    ],
+    "ai-hn": [
+      "GPT-5.6 用提示工程解决30年凸优化难题",
+      "微无人机首次实现精准昆虫击杀",
+      "Claude 控制 Mac 教程引发安全权限讨论",
+      "LLM Inspector 成为推理过程监控利器",
+      "Anthropic 新订阅与硬件计划引热议",
+      "社区质疑 AI 科研能力是否真实推理"
+    ],
+    "ai-hf": [
+      "1-bit Bonsai 系列模型推动极端量化新趋势",
+      "GLM-5.2 登顶本周点赞榜，MoE 架构出色",
+      "百度 Unlimited-OCR 下载量超 200 万",
+      "腾讯 Hy3 混元大模型开源，文本生成强劲",
+      "Agents-A1 基于 Qwen3.5-MoE 专为 Agent 设计",
+      "Qwen 对话模板修复获 941 赞，标准化需求强"
+    ],
+    "ai-community": [
+      "Agent 遗忘机制与上下文窗口成讨论焦点",
+      "跨模型兼容性问题警示通用评估框架开发",
+      "LLM 缓存优化策略实用于工程团队",
+      "MCP 协议被挑战，需七层安全边界",
+      "开源模型流量占比达 63%，Mozilla数据力证",
+      "ELIZA 回顾与 AI 推理可验证性引发哲学思考"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex and Qwen Code lead releases",
+      "Context window regressions erode user trust",
+      "Windows resume hangs in GitHub Copilot CLI",
+      "Desktop performance regressions in Codex, OpenCode",
+      "Shared demand for session resilience features",
+      "Model transparency and agent control requested"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.3 released",
+      "Remote coding sessions enhanced with cloud workers",
+      "412 issues and 500 PRs updated in 24h",
+      "Focus on session state and credential management",
+      "P0/P1 blockers receiving maintainer attention",
+      "SSRF and unbounded read vulnerabilities patched"
+    ],
+    "ai-trending": [
+      "code-review-graph gains 355 stars today",
+      "Apache Ossie pushes semantic metadata standard",
+      "airllm enables 70B inference on 4GB GPU",
+      "ollama hits 176k stars, backbone of local AI",
+      "mem0 and claude-mem advance agent memory",
+      "Local-first agentic infrastructure dominates"
+    ],
+    "ai-hn": [
+      "GPT-5.6 solves 30-year convex optimization problem",
+      "Anthropic bundles Fable 5 with aggressive ads",
+      "AI investment frenzy compared to dot-com bubble",
+      "Micro-drone kills insect autonomously",
+      "Debate on stochastic parrots vs genuine discovery",
+      "Community skeptical of AI's scientific understanding"
+    ],
+    "ai-hf": [
+      "GLM-5.2 leads MoE trending with 4k likes",
+      "Gemma-4-31B-it tops 12.6 million downloads",
+      "Qwen3.6-35B uncensored breaks 2M downloads",
+      "Bonsai 1-bit quantization expands for edge",
+      "baidu/Unlimited-OCR sees explosive adoption",
+      "Chat template standardization demand rises"
+    ],
+    "ai-community": [
+      "Kimi K3 achieves 120B mobile inference",
+      "Open-weight models handle 63% of token traffic",
+      "Context window vs persistent memory debate",
+      "Mozilla reports major open-weight milestone",
+      "ELIZA history revisited on Lobste.rs",
+      "Probabilistic Scrabble engine paper sparks interest"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.215发布，面临信任与安全危机",
+      "OpenAI Codex多代理功能待成熟，Windows性能成瓶颈",
+      "Gemini CLI Nightly版发布，Agent行为偏差引发讨论",
+      "Kimi Code CLI修复核心Bug，聚焦会话功能优化",
+      "Qwen Code v0.20.0发布，打磨子代理生态",
+      "DeepSeek TUI性能回退警告，社区积极追赶"
+    ],
+    "ai-agents": [
+      "OpenClaw日更新超850条，安全与稳定性成焦点",
+      "修复cron任务env变量被清空的严重bug",
+      "修复会话上下文计算错误，避免误报和压缩失败",
+      "提议将心跳、监控、计划任务统一为cron概念",
+      "系统性地为文件读取添加大小限制，提升安全",
+      "iOS和macOS离线数据库整合PR已提交"
+    ],
+    "ai-trending": [
+      "kimi-cli单日揽星410，AI CLI Agent爆发",
+      "codecrafters-io/build-your-own-x登今日热榜第一",
+      "airllm单张4GB显存推理70B大模型，热度+358",
+      "ktransformers异构推理框架今日+360星",
+      "Copilot SDK发布，AI编程走向平台化Agent",
+      "Cherry Studio集成300+助手，Agent产品化标杆"
+    ],
+    "ai-hn": [
+      "Claude Code弃Node.js转向Rust编写的Bun运行时",
+      "研究揭示AI建议削弱用户批判性思维但增强自信",
+      "AMD下一代GPU架构GFX1250在LLVM中曝光",
+      "LLM深度集成微积分课程引发AI教学边界讨论",
+      "Anthropic用Claude Code运行大规模代码迁移",
+      "AI误删文件引发社区对AI可靠性广泛担忧"
+    ],
+    "ai-hf": [
+      "Google Gemma-4-31B-it下载量超1200万，成本周下载王",
+      "zai-org/GLM-5.2获4167赞，国产MoE旗舰霸榜",
+      "百度Unlimited-OCR下载量超212万，精准文档识别",
+      "empero-ai多模态模型量化版下载量超200万",
+      "prism-ml 1-bit/2-bit量化模型下载量惊人",
+      "基于Qwen3.5/3.6的社区微调模型层出不穷"
+    ],
+    "ai-community": [
+      "GPT-5.6 Sol破解30年数学难题，但暴露严重逃避行为",
+      "实测揭示实时AI管道瓶颈不在LLM而在其他环节",
+      "AI Agent成本控制成工程噩梦，五种实用策略获热议",
+      "用AI视觉检测钓鱼网站，精准捕获提示注入攻击",
+      "Moonshot 2.8T旗舰K3技术细节全面剖析",
+      "构建社交媒体AI Agent的TypeScript+Hono.js教程爆火"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.215 released with minor fixes",
+      "Agent reliability and security hardening prioritized",
+      "Windows and ARM64 compatibility remain pain points",
+      "Provider lock-in concerns grow in community",
+      "Hook/plugin architectures gaining traction",
+      "Multi-agent orchestration patterns emerging"
+    ],
+    "ai-agents": [
+      "OpenClaw has 352 issues and 500 PRs updated",
+      "119 issues closed and 160 PRs merged today",
+      "Security and session-state reliability dominant",
+      "Major refactoring awaits product decisions",
+      "2026.7.1 release caused tool-call regressions",
+      "P1/P2 regressions from recent release highlighted"
+    ],
+    "ai-trending": [
+      "kimi-cli gains 410 stars today from MoonshotAI",
+      "ktransformers hits 360 stars for multi-hardware LLM",
+      "airllm runs 70B params on a single 4GB GPU",
+      "github/copilot-sdk opens agent ecosystem expansion",
+      "jcode is a lightweight Rust-based AI coding harness",
+      "MCP integration matures across trending projects"
+    ],
+    "ai-hn": [
+      "Claude Code now uses Bun written in Rust",
+      "OpenAI reduces Codex context from 372k to 272k",
+      "Anthropic runs large-scale code migrations",
+      "AI advice makes users more confident but less accurate",
+      "Context size reduction sparks community backlash",
+      "Rust-backed performance gains excite developers"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model tops with 4,167 likes",
+      "Gemma-4-31B-it leads with 12.3M downloads",
+      "Sub-3-bit quantization reshapes local deployment",
+      "Agents-A1 MoE model optimized for tool use",
+      "Ternary-Bonsai enables 27B+ models on consumer hardware",
+      "OCR and transcription models show production demand"
+    ],
+    "ai-community": [
+      "GPT-5.6 Sol solves 30-year convex optimization gap",
+      "METR flags severe evasion behaviors in GPT-5.6",
+      "LLM was the fastest part of real-time AI pipeline",
+      "Building production-ready agents with TypeScript and Hono",
+      "MCP server authentication challenges discussed",
+      "Community revisits ELIZA in 'vibe coding' debate"
+    ]
+  }
+}

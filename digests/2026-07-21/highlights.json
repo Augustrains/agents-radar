@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.216 发布，社区陷入信任与计费危机",
+      "OpenAI Codex 大批量后端架构PR，Windows用户强烈不满",
+      "Gemini CLI 强化Autofix自动化与Agent安全修复",
+      "Kimi Code 面临平台断裂与上下文混乱问题",
+      "Qwen Code v0.20.0-nightly 发布，大量Autofix改进",
+      "GitHub Copilot CLI 回归问题泛滥，版本v1.0.73发布"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时超850条更新，新Issue达224条",
+      "维护者审查带宽告急，待合并PR达388条",
+      "MCP服务器disabled标志被修复，browser工具代理问题解决",
+      "工具输出变成不可读图片，影响Agent自主决策",
+      "卡死会话恢复机制优化，避免误终止已运行任务",
+      "Nostr信道误报中继错误，Zalo信道追踪信息清理"
+    ],
+    "ai-trending": [
+      "code-review-graph 今日新增1833 star，本地代码智能GRPC",
+      "kimi-cli 今日新增410 star，下一代终端AI Agent",
+      "cognee 开源AI记忆平台，解决Agent金鱼脑问题",
+      "ktransformers 异构LLM推理框架今日新增458 star",
+      "handy-computer/transcribe.cpp 本地语音识别今日新增395 star",
+      "Hermes Agent 获217,807星，强调可扩展性与自主学习"
+    ],
+    "ai-web": [
+      "Anthropic启动罕见遗传病AI科研专项资助，最高5万美元",
+      "Anthropic双轨制资助，覆盖科研到早期生物技术公司",
+      "OpenAI发布长周期模型安全对齐研究文章",
+      "Anthropic转向主题式资助模式，构建研究者社区",
+      "OpenAI聚焦前沿AI安全，确保长任务模型可控性",
+      "Anthropic强调社区共建，解决科学信息孤岛问题"
+    ],
+    "ai-hn": [
+      "Kimi K3与Qwen 3.8冲击Anthropic商业模式引热议，得分282",
+      "OpenAI安全对齐博客探讨长周期模型新挑战",
+      "美国政客因支持AI丢掉职位，社会焦虑转为政治力量",
+      "Flathub封禁低质量AI生成内容获社区支持",
+      "Show HN: 用Claude Code和Seedance自动化制作10分钟AI电影",
+      "开源社区对AI生成未验证内容持保守谨慎态度"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it 今日下载近1200万，成为本周现象级模型",
+      "Qwen3.6-35B-A3B去审查模型下载超200万",
+      "百度Unlimited-OCR通用模型下载超212万",
+      "GLM-5.2智谱AI下一代MoE模型获4226点赞",
+      "Kimi-K2.7-Code代码模型下载超71万",
+      "Wan-Dancer-14B专注舞蹈视频生成，AIGC垂直突破"
+    ],
+    "ai-community": [
+      "AI生成代码所有权与责任归属引热议，38点赞",
+      "本地Agent并非绝对安全，Prompt注入风险仍存",
+      "开发者构建不信任AI输出的安全开发工具链",
+      "AI让初级开发者更快，但能否让他们更优秀引思考",
+      "阿里发布2.4T模型，OpenAI削减Codex上下文节约算力",
+      "GPT-5.6解决30年数学难题，却无人察觉"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.216 released",
+      "OpenAI Codex released new version today",
+      "Gemini CLI focuses on agent reliability",
+      "Kimi Code and Qwen Code growing",
+      "PI and OpenCode each have 10 PRs today",
+      "GitHub Copilot CLI faces Windows regressions"
+    ],
+    "ai-agents": [
+      "OpenClaw has 353 issues, 500 PRs",
+      "112 pull requests merged or closed",
+      "Gateway start failure timeout fixed",
+      "No new releases published today",
+      "High PR volume suggests review bottleneck",
+      "Community engagement remains very high"
+    ],
+    "ai-trending": [
+      "Code-review-graph gains +1,833 stars",
+      "OmniRoute hits +1,107 stars for AI gateways",
+      "Moonshine emerges as low-latency STT",
+      "FastMCP builds MCP infrastructure",
+      "Ktransformers gains +458 stars today",
+      "Voicebox offers open-source voice studio"
+    ],
+    "ai-web": [
+      "Anthropic launches rare disease grants",
+      "OpenAI signals safety for long-horizon models",
+      "Anthropic deepens scientific ecosystem",
+      "OpenAI metadata-only safety post",
+      "Both labs diverge in strategic focus",
+      "Only two new articles across both labs"
+    ],
+    "ai-hn": [
+      "Kimi K3 and Qwen 3.8 spark economics debate",
+      "OpenAI misses sales goals, per discussion",
+      "Claude Code generates 10-minute AI movies",
+      "Safety framework for long-horizon models",
+      "Community skeptical of Big AI sustainability",
+      "Politicians lose seats over AI backlash"
+    ],
+    "ai-hf": [
+      "GLM-5.2 leads with 4,226 likes",
+      "Gemma-4-31B-it tops 11.9M downloads",
+      "Bonsai series explores 1-bit quantization",
+      "MiniCPM-RobotManip expands robotics",
+      "Qwen 3.6 fine-tunes dominate trending",
+      "MOSS-VL-Realtime targets real-time video"
+    ],
+    "ai-community": [
+      "Who owns AI-generated code debated",
+      "Local agents don't fix prompt injection",
+      "Smolagents bug causes valid code retries",
+      "AI agents make junior devs faster",
+      "ELIZA retrospective resonates on Lobsters",
+      "Triton for Alibaba SAIL discussed"
+    ]
+  }
+}

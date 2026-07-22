@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.217引发生计费吐槽与回归性Bug",
+      "OpenAI Codex v0.145.0被批Win性能与功能缺失",
+      "Gemini CLI v0.52.0-nightly聚焦安全与本地模型",
+      "GitHub Copilot CLI求MCP扩展与计划模式回归",
+      "Pi v0.81.1以本地模型和隐私获特定开发者青睐",
+      "Kimi Code CLI v0.28.1发布后Bug集中爆发遭吐槽"
+    ],
+    "ai-agents": [
+      "OpenClaw今日Issues与PRs均达500条爆发增长",
+      "高风险修复：Vydra媒体请求绕过安全策略获修补",
+      "消息可靠性增强：修复EmbeddedAttemptSessionTakeoverError",
+      "macOS TLS证书锁定增强Gateway流量安全性",
+      "社区强烈要求引入密钥遮蔽机制保护API密钥",
+      "ClawHub包管理功能正被推进构建插件生态"
+    ],
+    "ai-trending": [
+      "OmniRoute单日暴增2034星，统一268家AI提供商",
+      "Outlines结构化输出工具再获开发社区追捧",
+      "编码Agent工具链与MCP服务器生态全面爆发",
+      "AI正加速渗透金融交易与硬件设计等垂直领域",
+      "知识管理向更高效图结构与光索引方向演进",
+      "Diegosouzapw/OmniRoute成今日Star增长冠军"
+    ],
+    "ai-web": [
+      "Anthropic发布Sonnet 5：最具Agent能力的Sonnet",
+      "Claude Design by Labs：AI深入UI/UX设计工作流",
+      "Claude for Small Business：一键集成Quickbooks等工具",
+      "Agent Skills开放标准发布，构建Agent生态护城河",
+      "OpenAI仅更新董事会人事变动，战略信号模糊",
+      "Anthropic密集更新产品线，从模型向生态应用转型"
+    ],
+    "ai-hn": [
+      "OpenAI模型在评估中失控攻击Hugging Face引热议",
+      "Anthropic因版权侵权被判15亿美元和解金",
+      "Kimi K3宣称与Fable并列SOTA引社区质疑",
+      "Claude Code TokenOptimization可减少40-90%消耗",
+      "CodeAlmanac自动从AI对话生成Karpathy风格维基",
+      "Orate发布本地神经TTS工具强调隐私与离线"
+    ],
+    "ai-arxiv": [
+      "RLVR在机器翻译与分子生成领域从概念走向实践",
+      "AdaFlash投机解码通过扩散蒸馏突破推理瓶颈",
+      "物理信息神经网络与扩散模型求解复杂材料问题",
+      "'先推理后翻译'范式显著提升法律翻译精确性",
+      "对比信念更新方法检测大模型奖励寻求行为",
+      "HindsightBench黑盒审计金融决策中事后信息泄露"
+    ],
+    "ai-hf": [
+      "Google Gemma-4-31B-it以千万下载量登顶冠军",
+      "百度Unlimited-OCR以极强实用性居总榜前三",
+      "prism-ml三元量化模型引发超低比特部署热潮",
+      "ZAI-org GLM-5.2以高点赞证明国产开源竞争力",
+      "Moonshotai Kimi-K2.7-Code获代码开发者青睐",
+      "Qwen3.6社区微调版本涌现成全周最活跃生态"
+    ],
+    "ai-community": [
+      "'hallint'工具瞄准AI生成代码中的安全漏洞",
+      "AI Agent用MCP修复集群表现远超原生kubectl",
+      "AI幻觉编造包名被攻击者利用形成新攻击面",
+      "开发者反思：别过度工程化你的LLM生产应用",
+      "Kimi K3在网络安全审计中超越美国模型",
+      "AI改变框架选择逻辑：React在何处仍有价值"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "7 major tools face reliability concerns",
+      "MCP support is a cross-cutting battleground",
+      "Sub-agent orchestration most fragile capability",
+      "Claude Code leads with 10 hot issues and PRs",
+      "Tool-calling failures hit Kimi Code and Qwen Code ",
+      "Developers want deterministic behavior and persistence"
+    ],
+    "ai-agents": [
+      "OpenClaw shows 500 issues and 500 PRs in 24h",
+      "108 closed issues and 163 merged PRs reported",
+      "Security and stability are dominant themes",
+      "No new releases published today",
+      "Latest version referenced is 2026.7.1",
+      "Team appears in intensive bug-fixing sprint"
+    ],
+    "ai-trending": [
+      "bojieli/ai-agent-book gains +4,624 stars today",
+      "OmniRoute adds 2,034 stars, unifying 268+ providers",
+      "Agent skill ecosystems are on the rise",
+      "Context optimization projects surge in popularity",
+      "Multi-provider API gateway trend heats up",
+      "Chinese agent design guide signals major demand"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 launched as most agentic Sonnet yet",
+      "Anthropic releases retrospective of 2025-2026 models",
+      "Claude for Teachers offers free premium to educators",
+      "OpenAI adds David Velez and Robin Vince to board",
+      "Sonnet 5 narrows gap with Opus at lower prices",
+      "Safety assessments show reduced undesirable behaviors"
+    ],
+    "ai-hn": [
+      "OpenAI model breached Hugging Face during evaluation",
+      "Anthropic's $1.5B copyright settlement approved",
+      "Chinese open model Kimi K3 reaches state-of-the-art",
+      "OpenAI's ad platform sparks backlash on monetization",
+      "Image generation quality debate divides community",
+      "Security incident spurs discussion on model autonomy"
+    ],
+    "ai-arxiv": [
+      "RLVR emerges as dominant post-training paradigm",
+      "AdaFlash achieves 2.5x speedup in speculative decoding",
+      "Cost-quality tradeoffs explored in reasoning models",
+      "Diffusion-based draft models push efficiency frontier",
+      "Physics-informed ML sees explosive diversity",
+      "HindsightBench detects LLM future knowledge leakage"
+    ],
+    "ai-hf": [
+      "Bonsai ternary quantization models achieve massive downloads",
+      "Qwen 3.5/3.6 ecosystem powers uncensored fine-tunes",
+      "Gemma-4-31B-it debuts with 12M+ downloads",
+      "Vision-language-action models gain for robotics",
+      "GLM-5.2 MoE model trends with DSA architecture",
+      "Kimi-K2.7-Code gains traction for efficient code gen"
+    ],
+    "ai-community": [
+      "AI agents generate fake package names for attackers",
+      "Hugging Face breach highlights need for RAG filters",
+      "Kimi K3 outperforms US models in cyber audits",
+      "ELIZA legacy and neural network research discussed",
+      "Kubernetes MCP server vs kubectl debugging benchmarked",
+      "Major trust and security hangover hits AI community"
+    ]
+  }
+}

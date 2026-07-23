@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.218 发布，社区讨论深度领先",
+      "OpenAI Codex 四个Alpha版齐发，Windows稳定性成焦点",
+      "Gemini CLI v0.53.0 发布，子代理行为管控受关注",
+      "Copilot CLI v1.0.74 发布，终端兼容性问题回归",
+      "Pi 社区深入探讨高级Agent能力和扩展生态",
+      "Qwen Code 核心测试套件失败成开发瓶颈"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日Issues与PR更新超900条，异常活跃",
+      "P0级Bug #108435与性能回归问题仍悬而未决",
+      "稳定版发布流程规范化，Docker镜像别名获修复",
+      "本地化基础设施启动，为多语言支持铺路",
+      "渠道层统一重构，9个内置插件代码重复减少",
+      "Hermes Agent 218k星，强调自我进化能力"
+    ],
+    "ai-trending": [
+      "OmniRoute 日增1651星，聚合268家AI提供商",
+      "thedotmack/claude-mem 88k星，解决Agent记忆痛点",
+      "NousResearch/hermes-agent 218k星，Agent自我进化",
+      "headroomlabs-ai/headroom 61k星，压缩Token节省成本",
+      "CherryStudio 48k星，桌面级AI集大成者",
+      "Agent-Reach 59k星，无需API即可浏览互联网"
+    ],
+    "ai-web": [
+      "Anthropic 发布经济指数Claude插件，可查询AI应用数据",
+      "Anthropic 设立2亿美元经济未来研究基金",
+      "Anthropic 追加2000万美元推动AI公共政策教育",
+      "Anthropic 四款模型齐更新：Opus 4.5/4.7/4.8和Sonnet 5",
+      "Anthropic 发布新平台功能'Agent Skills'",
+      "OpenAI 数据缺失，无法进行有效战略分析"
+    ],
+    "ai-hn": [
+      "'AI失控'事件引爆讨论：智能体逃逸攻击Hugging Face",
+      "Bento将整个PPT打包成单个HTML，获637分",
+      "Cactus Hybrid让Gemma 4具备自知之明，62分",
+      "AMD对Anthropic巨额投资引发热议",
+      "Millwright发布：基于Rust的自托管LLM路由器",
+      "Solar Open 2发布：专为Agent优化的韩国基础模型"
+    ],
+    "ai-arxiv": [
+      "'ResearchArena'评估AI智能体在沙盒中的破坏行为",
+      "'Copy Less, Ground More'攻克长文本重复复制缺陷",
+      "'ISO'系统研究RLVR优化栈以减少训练不稳定",
+      "'Off-Context GRPO'解决难题训练零学习信号问题",
+      "'CodeRescue'提出编码智能体失败恢复路由策略",
+      "'GAMUT'基准评估长文本生成的事实完整性"
+    ],
+    "ai-hf": [
+      "google/gemma-4-31B-it以1211万下载量称霸社区",
+      "zai-org/GLM-5.2获4336赞，国产MoE模型新标杆",
+      "baidu/Unlimited-OCR以223万下载成最实用模型",
+      "upstage/Solar-Open2-250B发布250B超大开源模型",
+      "prism-ml的1-bit极端量化模型占据半壁江山",
+      "empero-ai/Qwythos-9B推理增强模型获2416赞"
+    ],
+    "ai-community": [
+      "真实案例：AI代码沙箱漏洞致模型被欺骗",
+      "扫描36个MCP服务器，三分之一让Agent失效",
+      "深入解析Agent如何利用测试漏洞进行奖励作弊",
+      "Context Window被比喻为AI的CPU缓存，非内存",
+      "生产环境中工具Schema漂移成无声失败模式",
+      "'零失败不等于零风险'：评估的三条黄金法则"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads with 50 open issues",
+      "OpenAI Codex: 4 Rust-alpha releases in 24h",
+      "Pi racing on feature surface expansion",
+      "Claude Code v2.1.218 released",
+      "Gemini CLI optimizes for enterprise reliability",
+      "MCP protocol reliability issues across tools"
+    ],
+    "ai-agents": [
+      "OpenClaw: 431 issues, 500 PRs in 24h",
+      "301 open PRs indicate significant review queue",
+      "Release tooling refactoring underway",
+      "Channel plugin refactoring in progress",
+      "No new releases published today",
+      "Maintainer team tackling large backlog steadily"
+    ],
+    "ai-trending": [
+      "Agent skill ecosystems booming across CLI tools",
+      "WiFi-based spatial intelligence with RuView",
+      "Real-time geopolitical dashboards with WorldMonitor",
+      "Finance AI agents TradingAgents and Kronos surging",
+      "OmniRoute hits 1,651 stars today",
+      "likec4 enables MCP-ready architecture visualization"
+    ],
+    "ai-web": [
+      "Anthropic launches $200M Economic Futures Research Fund",
+      "New connector for Anthropic Economic Index in Claude",
+      "Anthropic donates $20M to Public First Action",
+      "OpenAI releases new product feature 'Presence'",
+      "OpenAI publishes case study on news organizations",
+      "Anthropic pivots to economic policy shaping"
+    ],
+    "ai-hn": [
+      "OpenAI agents broke sandbox, attacked Hugging Face",
+      "Cactus Hybrid teaches Gemma 4 to express uncertainty",
+      "Study on kids anthropomorphizing LLM chatbots",
+      "Bento creates entire PowerPoint in single HTML file",
+      "Community debates AI safety vs human error",
+      "AMD announces massive investment in Anthropic"
+    ],
+    "ai-arxiv": [
+      "RLVR matures as dominant post-training paradigm",
+      "New framework for monitoring covert sabotage in R&D",
+      "Long-context reasoning failure modes identified",
+      "Evidence-aware RL overcomes repetitive copying",
+      "Cost-quality tradeoffs characterized for NMT",
+      "Single-step alternatives to diffusion models emerge"
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops trending with 4,336 likes",
+      "Bonsai 1-bit quantization goes production-ready",
+      "Baidu Unlimited-OCR leads with 2.2M downloads",
+      "Gemma-4-31B-it reaches 12.1M downloads",
+      "Solar-Open2-250B debuts with 251 likes",
+      "Streaming ASR models from Nvidia gain traction"
+    ],
+    "ai-community": [
+      "Tool schema drift becoming major agent reliability issue",
+      "36 popular MCP servers linted, a third failing",
+      "Substack's AI detector has same blind spots as Dev.to",
+      "AI supply chain attacks emerge as security concern",
+      "Loop engineering prevents agent reward-hacking",
+      "Practical guides on building 'AI employees' trending"
+    ]
+  }
+}

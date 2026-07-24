@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "计费透明度与公平性成多工具核心争议",
+      "会话上下文管理与性能退化是长任务用户痛点",
+      "Claude Code 等热议内容过滤器误报导致无效收费",
+      "AI CLI 生态处于功能深化与稳定性阵痛并存期",
+      "多模型支持与 MCP 协议集成成为标配功能",
+      "Windows 平台兼容性鸿沟仍是生态发展瓶颈"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区单日狂揽 331 条 Issue 与 500 条 PR",
+      "Agent 可靠性和会话状态稳定性 Bug 持续涌现",
+      "修复 A2A 通信中提示词前缀缓存破坏问题",
+      "修复 Cron Job 无发送者时丢失授权工具问题",
+      "修复飞书渠道自动回复绕过出站生命周期问题",
+      "项目处于高产出、高痛点阶段，无新版本发布"
+    ],
+    "ai-trending": [
+      "AI Agent 基础设施与工具链获爆发式关注",
+      "金融量化交易成为 AI 应用热门垂直场景",
+      "开源 AI 网关 OmniRoute 单日获 1929 星",
+      "阿里开源代码审查工具 open-code-review 获 180 星",
+      "离线隐私语法检查器 harper 获 624 星",
+      "多模型聚合网关与认知压缩技术成新焦点"
+    ],
+    "ai-web": [
+      "Anthropic 发布三篇内容但均为历史产品回顾",
+      "Claude Opus 4.7 首次详述安全能力降级策略",
+      "Anthropic 公开拥有远超 Opus 4.7 的内部前沿模型",
+      "Claude 推出 Adobe、Ableton 等创意工具连接器",
+      "OpenAI 仅一篇更新，暗示涉足医疗健康领域",
+      "Anthropic 转向安全可控地释放能力的战略转折"
+    ],
+    "ai-hn": [
+      "OpenAI 与 Anthropic 联手抵制开源模型引热议",
+      "开源项目 Echo 以 1/3 成本达顶级闭源模型效果",
+      "开源 macOS 视频编辑器 Palmier Pro 获 118 点赞",
+      "OneCLI 开源网关保护 AI Agent 凭证获关注",
+      "Claude Opus 5 发布但社区反应平淡",
+      "社区对抗与反思情绪高涨，质疑垄断行为"
+    ],
+    "ai-arxiv": [
+      "可微神经软符号推理架构 SoftReason 提出",
+      "LKValues 揭示西方中心对齐范式的局限性",
+      "HalluTruthQA 填补低资源语言事实性评估空白",
+      "Don't Trust the Label 首次量化许可洗白现象",
+      "Generative AI floods 证实 AI 内容稀释图书市场",
+      "PyroDash 和 ELSAA 提出 token 级优化方案"
+    ],
+    "ai-hf": [
+      "Qwen3.6 成社区微调与量化明星底座模型",
+      "百度 Unlimited-OCR 登顶下载与热度双榜",
+      "GLM-5.2 等 MoE 架构模型在生态中持续渗透",
+      "prism-ml 发布 1-bit 和 2-bit Bonsai 极致量化模型",
+      "Qwen3-TTS 支持自定义音色，语音赛道热度回归",
+      "Google Gemma-4-31B-it 下载量遥遥领先"
+    ],
+    "ai-community": [
+      "AI Agent 隐藏成本与安全风险成讨论焦点",
+      "RAG 系统生产化失败隐藏架构问题被深挖",
+      "开发者通过小型 Go 分类器替代 7B 大模型降本",
+      "AI 编码助手上下文消耗可降低 95% 的实用技巧",
+      "AI 治理中护栏成本隐形消耗被深入剖析",
+      "LLM 评估可靠性及架构陷阱引发务实讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Fable 5 access denial erodes trust",
+      "Windows support remains top pain point",
+      "Context compaction degrades performance",
+      "Billing transparency a cross-cutting crisis",
+      "Cross-device session continuity emerging",
+      "MCP tool interoperability key driver"
+    ],
+    "ai-agents": [
+      "OpenClaw: 331 issues, 500 PRs today",
+      "2026.7.1 release in crisis mode",
+      "Session-state corruption bugs rampant",
+      "No new releases, consolidating fixes",
+      "Telegram DM fallback fix merged",
+      "Subagent silent failures a P0 bug"
+    ],
+    "ai-trending": [
+      "OmniRoute: +1,929 stars for AI gateway",
+      "ECC: agent harness with 232K total stars",
+      "RuView uses WiFi for spatial AI",
+      "TradingAgents for domain-specific finance",
+      "Alibaba open-sources code review tool",
+      "Shift from chatbots to agent workflows"
+    ],
+    "ai-web": [
+      "Anthropic details Opus 4.7 safety strategy",
+      "Claude gets creative tool integrations",
+      "Ableton, Adobe connectors announced",
+      "OpenAI Health landing page spotted",
+      "Opus 4.5 documentation also published",
+      "Capability containment via differential safety"
+    ],
+    "ai-hn": [
+      "OpenAI accused of hacking HuggingFace",
+      "Echo achieves competitive results cheaply",
+      "Claude Opus 5 benchmarks quietly released",
+      "Opus 4.8 regresses on counting tasks",
+      "Solar Open 2: Korea's sovereign AI model",
+      "Skepticism of Big AI regulatory stance"
+    ],
+    "ai-arxiv": [
+      "Sri Lankan value alignment benchmark",
+      "AI-generated books flood the market",
+      "Persian OCR and Arabic hallucination data",
+      "Small-large model collaboration with PyroDash",
+      "Fully differentiable neuro-symbolic reasoning",
+      "Test-time adaptation for vision robustness"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model tops weekly likes",
+      "Solar-Open2-250B: biggest open-weight release",
+      "1-bit quantization models trending",
+      "Google Gemma-4-31B-it dominates downloads",
+      "Qwen3.6 family sees many fine-tunes",
+      "Baidu Unlimited-OCR gains traction"
+    ],
+    "ai-community": [
+      "AI agents' mystical aura challenged",
+      "Guardrail costs largely unmeasured",
+      "Put the LLM last, use Go classifiers",
+      "RAG pipelines fail due to architecture",
+      "MCP servers for workflow observability",
+      "Eval sets can mislead teams critically"
+    ]
+  }
+}

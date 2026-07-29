@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 会话丢失成企业级痛点",
+      "OpenAI Codex 跨平台兼容性成核心矛盾",
+      "GitHub Copilot CLI 版本回归 Bug 引争议",
+      "Pi 长上下文场景下压缩问题突出",
+      "Qwen Code CI 稳定性与 Win 兼容性是重点",
+      "DeepSeek TUI 跨平台兼容性成新关注点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.2-beta.5，增强状态安全",
+      "社区热点：#75 长期悬而未决的功能请求",
+      "核心重构：代码模式拆分与工具逻辑统一",
+      "修复 Ollama 模型首次安装后能力丢失问题",
+      "隔离存储机制引入，保护数据库损坏时数据",
+      "500 条 Issue 和 500 条 PR 创单日记录"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC 涨 636 星，关注 Agent 性能优化",
+      "moeru-ai/airi 涨 797 星，打造虚拟生命伴侣",
+      "微软推出 agent-governance-toolkit 治理工具",
+      "huggingface/speech-to-speech 降低语音 Agent 门槛",
+      "AutoGPT 持续引领自主 Agent 概念热潮",
+      "andrewyng/aisuite 统一多供应商接口"
+    ],
+    "ai-web": [
+      "Claude Mythos 发现加密算法数学缺陷",
+      "Anthropic CEO 就开源模型发表政策声明",
+      "Anthropic 发布 HAWK 签名方案密钥恢复攻击",
+      "OpenAI 推出多篇企业商业化指南",
+      "OpenAI 加速 GPT-5 产品化落地",
+      "Anthropic 展示 AI 从代码攻击到数学攻击跃迁"
+    ],
+    "ai-hn": [
+      "Codex Security 开源，获最高分 331",
+      "Claude 聊天记录泄露丑闻引信任危机",
+      "OpenAI 与 JFrog 合作修复零日漏洞",
+      "Bun 默认创建 Claude.md 文件引讨论",
+      "Anthropic 付费服务宕机一周无响应",
+      "无审查模型被曝比基础模型更乐观"
+    ],
+    "ai-arxiv": [
+      "Kimi K3 发布 2.8T 参数 MoE，支持百万上下文",
+      "ClinFusion 提出以视觉为中心的医疗多模态系统",
+      "DataOrchestra 为每个样本定制最佳处理策略",
+      "D-Score 从内部激活检测幻觉无需外部知识",
+      "Eviction as Estimation 重新思考 LLM 记忆管理",
+      "SAE 特征几何分析推动可解释性研究"
+    ],
+    "ai-hf": [
+      "Kimi-K3 以 7900 点赞登顶本周之星",
+      "百度 Unlimited-OCR 下载量达 270 万",
+      "Qwen3.6 和 GLM-5.2 系列衍生模型爆发",
+      "Laguna-S-2.1 专注代码生成垂直领域",
+      "Nanbeige4.2-3B 小模型获高度认可",
+      "Mage-Flow 微软探索图像生成与编辑"
+    ],
+    "ai-community": [
+      "Slopsquatting 利用 AI 幻觉发起供应链攻击",
+      "AI Agent 写公共仓库权限成安全焦点",
+      "Cursor 结合 BrowserAct 解决动态页面操作",
+      "AgentForger 漏洞展示 AI agent 成钓鱼目标",
+      "MCP 服务最佳实践与安全设计讨论成熟",
+      "K8s Dashboard 是否会被 AI Agent 取代引热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code reports 50+ issues, 470 👍 on session limits",
+      "Copilot CLI, Claude Code focus on governance",
+      "Pi, DeepSeek TUI push TUI UX boundaries",
+      "Agentic safety concerns: agents fabricating input",
+      "Cross-tool race for multi-agent orchestration",
+      "Platform regressions, especially Windows, frustrate users"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.5: quarantine store released",
+      "500 issues and 500 PRs updated in 24 hours",
+      "Crash-recoverable SQLite snapshots added",
+      "State safety and data recovery is the focus",
+      "234 open PRs against 266 merged/closed",
+      "P0/P1 bugs indicate significant reliability work"
+    ],
+    "ai-trending": [
+      "ECC project gains +636 stars today",
+      "bradautomates/claude-video surges +988 stars",
+      "Agent governance toolkit from Microsoft trending",
+      "moeru-ai/airi gains +797 for gaming agents",
+      "Ollama now supports Kimi-K2.6 and GLM-5.2",
+      "Cherry Studio hits 49K stars as AI studio"
+    ],
+    "ai-web": [
+      "Claude Mythos cracks cryptographic math weaknesses",
+      "Anthropic CEO denies support for open-weights ban",
+      "Novel attack on post-quantum HAWK-256 found",
+      "OpenAI publishes 7 business-oriented guides",
+      "AI-assisted cryptanalysis called a major advance",
+      "Dario Amodei distinguishes safe vs. risky models"
+    ],
+    "ai-hn": [
+      "Claude chats leaked in search engine results",
+      "OpenAI open-sources Codex Security framework",
+      "Anthropic paid outage lasts over a week no support",
+      "Claude finds HAWK-256 vulnerability, sparks debate",
+      "Community skeptical of safety research vs. product",
+      "Uncensored open LLMs measured more dangerous"
+    ],
+    "ai-arxiv": [
+      "Kimi K3: 2.8T params, 104B activated, open-weight",
+      "ELMOD: 2.7B German LLM trains on 55K H100 hours",
+      "Papers tackle agentic reliability with formal algebras",
+      "LOCKS and PIVOT address long-context inference",
+      "Delta Attention and Attention Residuals introduced",
+      "Distribution drift in temporal graph generation exposed"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates with nearly 8,000 likes",
+      "Baidu Unlimited-OCR breaks 2.6M downloads",
+      "Qwen 3.6 35B-A3B MoE tops 6M downloads",
+      "Microsoft enters multimodal with Mage-Flow",
+      "Ternary Bonsai 27B pushes sub-2-bit compression",
+      "Poolside Laguna-S-2.1 gains 801 likes, 67K downloads"
+    ],
+    "ai-community": [
+      "Slopsquatting weaponizes AI hallucinations for supply chain attacks",
+      "AgentForger exploits ChatGPT Workspace Agents zero-click",
+      "Single trigger phrase breached a private repo this month",
+      "Developers debate MCP server security best practices",
+      "Microsoft makes open weights policy play on Lobste.rs",
+      "Essay: AI may change software distribution itself"
+    ]
+  }
+}

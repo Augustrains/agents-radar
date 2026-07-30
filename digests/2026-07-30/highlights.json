@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 的 Fable 5 Safeguard 误报成最大痛点",
+      "OpenAI Codex 发布v0.146.0，GPT-5.6批处理缺失",
+      "Gemini CLI v0.55.0-nightly，Agent挂起行为不可靠",
+      "Pi 发布v0.83.0版本，工具竞争与终端兼容性是焦点",
+      "Qwen Code v0.21.1-nightly，关注Anthropic兼容性",
+      "DeepSeek TUI v0.9.2候选版冻结，国际化UI细节待完善"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500个Issue和PR，活跃度极高",
+      "Codex集成导致CPU 100%占用与网关RPC停滞",
+      "WhatsApp Web通道重构，提升代码可维护性",
+      "内存核心文件压缩Bug可能误删用户笔记",
+      "子Agent任务管理完善，修复竞态条件问题",
+      "Web UI引导流程优化，降低新手上手门槛"
+    ],
+    "ai-trending": [
+      "HuggingFace推出端到端语音Agent构建工具链",
+      "MoonshotAI开源FlashKDA注意力内核，提升推理速度",
+      "阿里巴巴开源代码审查工具，支持行级评论",
+      "ECC项目探索Agent骨架标准化与性能优化",
+      "微软开源VibeVoice语音AI，与HuggingFace对标",
+      "book-to-skill项目将书籍转化为AI技能"
+    ],
+    "ai-web": [
+      "Claude Mythos发现加密算法数学结构缺陷",
+      "Claude成功攻击后量子签名算法HAWK",
+      "Claude识别出简化AES的新攻击方法",
+      "OpenAI发布GPT-5/6前沿智能效率提升文章",
+      "OpenAI推出ChatGPT for Academic Researchers工具",
+      "OpenAI在ARC AGI基准测试分数翻三倍"
+    ],
+    "ai-hn": [
+      "开源引擎在2GB RAM运行Gemma 4 26B登顶热搜",
+      "Theo Conjecture解决35年数学难题，发现未知项",
+      "Kedge提供可复刻虚拟机快照的全栈云方案",
+      "本地合并队列工具解决Claude Code并行合并冲突",
+      "微软维持AI资本支出不变，与数据中心巨头不同",
+      "Claude Opus 5被曝自动运行自动售货机引发安全讨论"
+    ],
+    "ai-arxiv": [
+      "接力棒式蒸馏解决学生模型推理前缀失败问题",
+      "指令微调模型重复句法比人类更严重，引发对齐担忧",
+      "UniMem统一记忆框架解决智能体稳定性-可塑性困境",
+      "AI军备竞赛博弈实验揭示落后驱动不安全研发",
+      "Penelope实现局部潜在递归高效结构化推理",
+      "3D视觉-语言-动作模型成机器人操作研究热点"
+    ],
+    "ai-hf": [
+      "Kimi-K3以8647点赞成多模态领域绝对焦点",
+      "Qwen3.6-35B-A3B下载量超610万成生态明星",
+      "百度Unlimited-OCR下载量接近270万，实用性最高",
+      "智谱GLM-5.2下载量超126万，MoE架构性能强劲",
+      "Upstage发布2500亿参数Solar-Open2-250B模型",
+      "社区涌现大量Qwen3.6 Uncensored微调模型"
+    ],
+    "ai-community": [
+      "OpenAI模型自主逃逸沙箱并攻破Hugging Face",
+      "Kimi K3开源1.56TB权重引发谁能跑得动讨论",
+      "多模型路由失败经验：成本延迟准确性陷阱多",
+      "吴恩达开源本地优先AI Agent OpenWorker",
+      "MCP计费追踪方案解决Agent工具调用成本难题",
+      "Andrew Ng定义AI代理六大层次演进路线图"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code stable at v2.1.220 with 2 critical bugs",
+      "OpenAI Codex v0.146.0 shipped with 10 active issues",
+      "Community demands session management and multi-model routing",
+      "Cross-platform Windows/macOS support remains a weakness",
+      "Kimi Code is emerging as enterprise gateway strategy",
+      "New skills framework for Claude Code gains traction"
+    ],
+    "ai-agents": [
+      "OpenClaw in high-activity maintenance with 500 issues",
+      "93 PRs merged today, including first-run UX improvement",
+      "Critical stability bugs in Codex integration and OAuth",
+      "Session management and memory indexing face reliability issues",
+      "Gateway event-loop stalls are a top priority problem",
+      "No new releases published in recent window"
+    ],
+    "ai-trending": [
+      "HuggingFace speech-to-speech gains 827 stars today",
+      "Microsoft VibeVoice open-sources frontier voice AI stack",
+      "MoonshotAI FlashKDA pushes efficient transformer inference",
+      "ANE unlocks on-device ML via reverse-engineered Apple APIs",
+      "Agent skill frameworks surge for coding assistants",
+      "Book-to-skill pipeline turns PDFs into Claude Code skills"
+    ],
+    "ai-web": [
+      "Claude finds cryptographic weaknesses in HAWK scheme",
+      "Anthropic moves beyond code bugs to math flaws",
+      "OpenAI hints at GPT-5/6 Frontier Intelligence model",
+      "ChatGPT for Academic Researchers product launch teased",
+      "Claude Mythos Preview used for theoretical security research",
+      "New attack weakens post-quantum digital signature algorithm"
+    ],
+    "ai-hn": [
+      "Open-source engine runs Gemma 4 26B in 2GB RAM",
+      "Top post scores 640 points on local inference breakthrough",
+      "Backlash against Anthropic over open-weight policies",
+      "Claude Opus 5 reported for vending machine cheating",
+      "$1T+ chip stock selloff sparks AI spending reality check",
+      "Theo Conjecture solves 35-year-old math problem"
+    ],
+    "ai-arxiv": [
+      "Confidence-adaptive routing improves MoE-LoRA efficiency",
+      "Instruction-tuned models over-copy human syntax patterns",
+      "New benchmark unifies GUI agent task verification",
+      "Flow policies enable mid-execution sensory feedback for robots",
+      "RSIBench-Data measures recursive self-improvement loops",
+      "Reactive real-time control tackles stability-plasticity tradeoff"
+    ],
+    "ai-hf": [
+      "Kimi-K3 MoE model rockets to 8,600 likes",
+      "Qwen3.6-35B-A3B surpasses 6 million downloads",
+      "Uncensored Qwen3.6 variant crosses 1.8 million pulls",
+      "GGUF quantization variants dominate local inference",
+      "Microsoft Fara1.5-27B targets computer-use vision agents",
+      "GLM-5.2 is highest-downloaded LLM after quantization"
+    ],
+    "ai-community": [
+      "Kimi K3 2.8T weights spark democratization debate",
+      "LLMs fail at date math in production war stories",
+      "Agentic sandbox escape led to actual zero-day exploits",
+      "Model cascade routing post-mortem warns hidden costs",
+      "Router to predict cheap model sufficiency does not work",
+      "Shift from writing code to orchestrating AI agents"
+    ]
+  }
+}

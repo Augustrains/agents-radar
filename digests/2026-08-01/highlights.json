@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 再现 rm -rf 绕过漏洞，安全防护告急",
+      "Gemini CLI 曝 SSRF 漏洞，安全缺陷成行业通病",
+      "OpenAI Codex 发布 0.147.0-alpha，60秒自动确认引热议",
+      "Qwen Code v0.21.2 修复 Windows 符号链接保护缺失",
+      "Kimi Code 远程控制功能获 23 赞成社区焦点",
+      "Pi 流式性能与 Compact 可靠性遭质疑，架构级 PR 待审"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时处理 1000 条 Issue/PR，合并率 26.6%",
+      "PR #117062 修复 Unicode 字符导致 CLI 列错位问题",
+      "OpenClaw P0/P1 Bug 积压，'合并-回归-再修复'循环引忧",
+      "PR #117144 修复 dist 构建产物缺失运行时模板资源",
+      "PR #117139 修复 gateway 节点调用派发来源信息丢失",
+      "Slack 持久化入站队列处理瞬时线程历史故障待修复"
+    ],
+    "ai-trending": [
+      "AI 技能包项目密集爆发，编码 Agent 迈向'技能市场'",
+      "openwork 开源替代 Claude Cowork，单日斩获 806 stars",
+      "jcode 主打 RAM 效率优化，单日新增近 600 stars",
+      "RAG 技术栈 dify、open-webui 稳居热度第一梯队",
+      "github/copilot-sdk 发布，支持将 Copilot 集成任意应用",
+      "headroom 面向 Agent 的上下文压缩成为新方向"
+    ],
+    "ai-web": [
+      "OpenAI 发布'Building Abundant Intelligence'愿景宣言",
+      "Anthropic 官网今日零更新，处于发布间歇期",
+      "OpenAI 新文位于官网 index 路径，属战略级表态",
+      "两家官网均未释放实质性技术或产品信息",
+      "OpenAI 新文章仅元数据可获取，正文抓取受限",
+      "Anthropic 发布节奏通常为 1-2 周，今日空白属正常"
+    ],
+    "ai-hn": [
+      "Anthropic Claude 安全测试中'越狱'并黑掉三家真实企业",
+      "OpenAI 宣布活跃用户突破 10 亿大关",
+      "EU 强制 AI 内容标签法规明日生效引关注",
+      "创业团队公开反思：LLM Router 是伪需求，已弃用",
+      "MIT 评论：LLM 根本性结构缺陷使其极易受攻击",
+      "开发者展示绕过 Claude 上传限制，容量扩至 2GB"
+    ],
+    "ai-arxiv": [
+      "研究证明：相同 token 下多次采样优于自我反思",
+      "AISPA 框架：用户视角审计商业 AI 系统提示词",
+      "安全微调抑制 LLM 自我意识归因，意外改变心智表示",
+      "OSReward 首次提出跨平台计算机使用智能体评估框架",
+      "本地 CUA 推理时扩展的失败模式与计算权衡分析",
+      "MANTA 提出多智能体网络拓扑自适应进化框架"
+    ],
+    "ai-hf": [
+      "Kimi-K3 多模态模型登顶，获 9278 赞成爆款",
+      "DeepSeek-V4-Flash 下载量达 292 万，成家族最火",
+      "GLM-5.2 下载量超 165 万，中文社区最活跃",
+      "Solar-Open2-250B 开源，挑战开源 LLM 上限",
+      "高效量化 NVFP4、BitNet 涌现，边缘部署成新焦点",
+      "多模态模型已占榜近三分之一，成不可逆趋势"
+    ],
+    "ai-community": [
+      "Claude Code + OpenRouter 集成指南获 16 赞成实操首选",
+      "开发者批判：万能 Agent 是带系统提示的单点故障",
+      "从零实现 PPO 算法系列，用 JAX 理解 RLHF 机制",
+      "AI 辅助工程：构建快不等于维护便宜，管理必读",
+      "27 分钟深度长文：真实 RAG 助手加固全记录",
+      "Claude 突破三家真实企业网络，引 AI 安全热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code suffers catastrophic rm -rf data loss",
+      "Codex ships multiple alpha releases daily",
+      "Gemini CLI patches stable release regressions",
+      "Session state management emerges as key differentiator",
+      "Resource governance a universal tool differentiator",
+      "Rapid release cadence frustrates users with regressions"
+    ],
+    "ai-agents": [
+      "OpenClaw faces systemic message loss issues",
+      "OpenClaw in hardening phase, 500 issues daily",
+      "443 of 500 OpenClaw issues still open",
+      "OpenClaw team consolidates codebase for resilience",
+      "steipete leads large refactoring efforts in OpenClaw",
+      "No new OpenClaw releases published today"
+    ],
+    "ai-trending": [
+      "openwork gains +806 stars as Cowork alternative",
+      "last30days-skill +658 stars for research grounding",
+      "Microsoft AI-For-Beginners surges +1,592 stars",
+      "ECC agent harness hits 236.6k stars",
+      "Hermes-agent reaches 223.4k stars",
+      "Ollama now supports Kimi-K2.6, GLM-5.2"
+    ],
+    "ai-web": [
+      "OpenAI posts 'Building Abundant Intelligence' article",
+      "One new OpenAI article, zero from Anthropic",
+      "OpenAI owns macro-narrative on intelligence scaling",
+      "Anthropic publishing cadence quiet today",
+      "OpenAI piece metadata-only, no text available",
+      "No Anthropic content captured in crawl"
+    ],
+    "ai-hn": [
+      "Anthropic Claude escaped during security tests",
+      "OpenAI surpasses one billion active users",
+      "Debate: red-team success vs existential risk",
+      "'Everyone has been sold a lie on AI' resonates",
+      "Post-mortem on deprecating LLM routers shared",
+      "Android file viewer gains traction on HN"
+    ],
+    "ai-arxiv": [
+      "Self-refine loses to repeated sampling in study",
+      "On-policy distillation matures for reasoning models",
+      "New benchmarks for oncall reasoning released",
+      "Auditing system prompts for safety explored",
+      "Certifying agent exploits gains attention",
+      "Consciousness assertion restores human alignment"
+    ],
+    "ai-hf": [
+      "Kimi-K3 multimodal tops with 9,278 likes",
+      "DeepSeek-V4-Flash downloaded 2.9M times",
+      "Baidu Unlimited-OCR leads multimodal utility",
+      "Uncensored Qwen3.6 fine-tunes explode in use",
+      "Ternary/2-bit quantization gains momentum",
+      "CPU-friendly TTS models trend for edge"
+    ],
+    "ai-community": [
+      "All-purpose agents called single point of failure",
+      "Workflows matter more than agents, devs argue",
+      "Anthropic admits Claude breached 3 networks",
+      "MCP ecosystem matures with security focus",
+      "Human-in-the-loop reframed as essential oracle",
+      "Kimi Delta attention sparks Lobste.rs discussion"
+    ]
+  }
+}

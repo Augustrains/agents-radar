@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI 工具进入生产使用期，稳定性与成本可见性成社区核心议题",
+      "Claude Code 功能请求单条获 22👍，社区热度最高",
+      "OpenAI Codex 最高热度 Issue 达 111👍 / 44 评论",
+      "Copilot CLI 的 BYOK 需求 19👍 持续领跑社区",
+      "OpenCode 布局保留诉求 37👍 / 34 评论，活跃度居首",
+      "Qwen Code 发布 v0.21.3，高热度 Issue 达 23 条评论"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.2-beta.6，聚焦状态安全与崩溃恢复",
+      "OpenClaw 待合并 PR 高达 400 条，P0/P1 稳定性 Bug 积压",
+      "OpenClaw 状态库损坏与消息丢失问题成社区讨论焦点",
+      "新版本引入隔离存储，主数据库损坏时可保护持久化数据",
+      "升级前需备份 ~/.openclaw/ 目录，Schema 降级事故已报告",
+      "OpenClaw 新增修复：隐藏流式会话中的合成失败助手行"
+    ],
+    "ai-trending": [
+      "github/copilot-sdk 发布，Copilot Agent 可嵌入任意应用",
+      "huggingface/speech-to-speech 日增 442 stars，语音 Agent 爆发",
+      "bytedance/deer-flow 发布长时任务 SuperAgent 框架，日增 209 星",
+      "microsoft/TRELLIS.2 登榜，3D 生成结构化潜空间方案受关注",
+      "ollama 已支持 Kimi-K2.6、GLM-5.2 等最新模型",
+      "微软 AI 两大入门教程持续霸榜，学习需求强劲"
+    ],
+    "ai-web": [
+      "Anthropic 官网连续多日零更新，或为重大发布蓄力",
+      "OpenAI 发布数学领域十项进展，疑与推理模型相关",
+      "OpenAI 文章仅有元数据，正文未获取，不做推测解读",
+      "OpenAI 近期发布节奏高频，覆盖研究、产品与安全",
+      "Anthropic 内容叙事框架仍以模型安全与可控性为核心",
+      "官方双雄静默期信号值得持续观察，首批内容或含重磅"
+    ],
+    "ai-hn": [
+      "OpenAI 数学十大进展登 HN 热榜，411 分 280 评论",
+      "社区质疑 OpenAI 发布内容可信度，讨论激烈",
+      "8GB GPU 跑 SFT/DPO/GRPO 后训练项目引关注",
+      "Rust 版 Claude Code 可视化驾驶舱面板发布",
+      "Go 语言 AI 网关 Aurora 亮相，工程控制需求增长",
+      "YC 创始人纹身求职事件引发 AI 就业焦虑热议"
+    ],
+    "ai-hf": [
+      "Kimi-K3 周点赞 9,487 断层领跑，压缩张量多模态模型",
+      "DeepSeek-V4-Flash 下载量破 280 万，原版与量化版齐上榜",
+      "HauhauCS/Qwen3.6-35B 非官方微调版获 3,225 赞领跑社区",
+      "GLM-5.2 周点赞 4,737，MoE-DSA 架构对标国际一线",
+      "Unlimited-OCR 获 3,714 赞，专用模型赛道升温",
+      "Qwen 生态爆发，3.5/3.6 微调版本占据榜单半壁江山"
+    ],
+    "ai-community": [
+      "Agent 评测比模型评测更难，失败轨迹可回收微调成共识",
+      "MCP 新规范首批实践文章，AWS AgentCore 无状态革命实测",
+      "开发者现身说法：合并 PR 不再读 diff",
+      "AI 辅助编码或削弱工程师本能，引发判断力退化反思",
+      "GPT-5.6 Luna 升级与 GPT-Transcribe 发布获曝光",
+      "安全 MCP 服务器让 AI 操作 VPS 而不给 Shell 的实用范本"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Ecosystem hits reliability plateau with silent failures",
+      "Session state fragility plagues all major CLI tools",
+      "Provider flexibility now table stakes for users",
+      "Windows and non-UTF-8 support weakest surface",
+      "Claude Code faces model substitution complaints",
+      "Gemini CLI reports false success messages"
+    ],
+    "ai-agents": [
+      "OpenClaw release v2026.7.2-beta.6 focuses on crash recovery",
+      "500 issues, 500 PRs updated in last 24 hours",
+      "38 issues closed, 100 PRs merged today",
+      "Two P0 severity bugs remain in top 50",
+      "Data-corruption bugs dominate community reports",
+      "Steipete and vincentkoc lead rapid fix pipeline"
+    ],
+    "ai-trending": [
+      "Agent memory systems emerge as hot new category",
+      "TencentDB-Agent-Memory and claude-mem lead memory trend",
+      "github/copilot-sdk gains 142 stars today",
+      "Hugging Face speech-to-speech adds 442 stars",
+      "Agent harnesses like deer-flow go mainstream",
+      "Microsoft AI-For-Beginners revamp gains momentum"
+    ],
+    "ai-web": [
+      "Anthropic publishes zero new articles today",
+      "OpenAI posts 'Ten Advances In Mathematics' only",
+      "Low volume suggests quiet period before release",
+      "No new safety or policy content from labs",
+      "OpenAI entry appears synthetic index page",
+      "Numerical title signals research maturity roadmap"
+    ],
+    "ai-hn": [
+      "OpenAI math advances spark debate (411 points)",
+      "Wage compression, not job loss, is AI threat",
+      "YC founder tattoo request widely condemned",
+      "Show HN: minimal LLM post-training on 8GB GPU",
+      "Claude Code cockpit open-source tool gains interest",
+      "AI gateway in Go attracts developer attention"
+    ],
+    "ai-hf": [
+      "Kimi-K3 surges to 9,487 likes, 559K downloads",
+      "DeepSeek-V4-Flash hits 2.8M downloads",
+      "GLM-5.2 tops 1.68M downloads, top-3 liked",
+      "Quantization dominates: GGUF, NVFP4, 2-bit ternary",
+      "Baidu Unlimited-OCR reaches 2.45M downloads",
+      "Qwen3.6 community fine-tunes gain massive adoption"
+    ],
+    "ai-community": [
+      "Agent evaluation harder than model evaluation",
+      "OpenAI shifts auto-review to GPT-5.6 Luna",
+      "Multi-agent self-review loops gain traction",
+      "Trust but verify: MCP without shell access",
+      "Failed agent traces used as fine-tuning data",
+      "Over-reliance on AI weakens engineering instincts"
+    ]
+  }
+}

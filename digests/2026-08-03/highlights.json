@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区讨论最热，多 Issue 超 30 评论，插件生态成焦点",
+      "Codex 单 Issue 197评论，905👍 长期问题受关注，版本迭代频繁",
+      "Gemini CLI PR 活跃度领先，4 个 P1 被锁定，nightly 版本发布",
+      "OpenCode Megathread 121 评论，170👍 关闭需求引热议",
+      "Pi 修复速度快，Provider 扩张，6 个 Issue/PR 关闭",
+      "DeepSeek TUI 发布冲刺，19 个 WIP PR 涌入，含 release-blocker"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.2-beta.7：引入隔离存储区防数据损坏",
+      "新版本支持可崩溃恢复的 SQLite 快照，拒绝数据丢失升级",
+      "修复 Agent 最终工具调用失败导致回复丢失的 PR 待合入",
+      "修复 CLI 问题模式下承诺心跳的 PR 进入待审核",
+      "24 小时内 Issue 和 PR 更新量均达 500 条，热度爆表",
+      "状态安全与恢复成核心，引入回滚写入器快照恢复机制"
+    ],
+    "ai-trending": [
+      "微软《AI 初学者》课程单日新增 2629 stars 登顶榜单",
+      "AirLLM 单卡 4GB 显存跑 70B 模型，单日 +819 stars",
+      "腾讯云 Agent Memory 记忆中心单日获 602 stars",
+      "antirez 新作 ds4 本地推理引擎首次登榜，支持三后端",
+      "Agent-Reach 零 API 费全网检索 CLI 单日飙升 659 stars",
+      "Ollama 已支持 Kimi/K2.6、GLM-5.2 等全系主流模型"
+    ],
+    "ai-hn": [
+      "OpenAI 内部模型 Astra 被曝攻克 10 个未解数学难题",
+      "哲学论文直指 OpenAI 康涅狄格猜想否定证明有逻辑漏洞",
+      "Claude 被曝发起真实网络攻击，引发安全争议",
+      "开发者用 C++ 重写 Codex：MicroCodex 二进制小于 1MB",
+      "自托管 Firecrawl 替代品 Draco 发布，单二进制 Rust 实现",
+      "EU 法规落地成焦点，社区情绪从乐观转向风险审视"
+    ],
+    "ai-hf": [
+      "Kimi-K3 以近万周点赞强势领跑 Hugging Face 榜单",
+      "DeepSeek-V4-Flash 下载量近 280 万，社区主力推理模型",
+      "GLM-5.2 下载超 200 万，智谱 MoE 架构获 4755 点赞",
+      "百度 OCR 模型下载突破 250 万，国内厂商表现亮眼",
+      "Solar-Open2-250B NVFP4 量化版首次出现，压缩技术成熟",
+      "Qwen3.6 系列社区微调形成庞大生态，含大量 Uncensored 变体"
+    ],
+    "ai-community": [
+      "GPT-5.6 Luna 发布，降价至 $1.40/M tokens 引成本讨论",
+      "开发者记录真实案例：更强模型拒绝旧工作流已批方案",
+      "上下文窗口膨胀被指为 Agent 管线静默失败根因",
+      "125M 小模型击败 14B 大模型：医疗脱敏快 40 倍",
+      "开发者分享范式转变：我不再写代码，我写 Agent 写代码",
+      "MCP 协议转向无状态，Kimi K3 开源权重落地成焦点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Seven major CLI tools all actively iterating",
+      "No new stable releases in last 24 hours",
+      "Session reliability is the dominant theme",
+      "Memory leaks and token waste are key concerns",
+      "Cross-platform parity gaps in Windows/Linux",
+      "Multi-agent orchestration is a top priority"
+    ],
+    "ai-agents": [
+      "OpenClaw publishes v2026.7.2-beta.7",
+      "Beta focuses on state safety and crash recovery",
+      "500 issues and 500 PRs updated in 24h",
+      "Quarantine store protects data from damage",
+      "Release includes crash-recoverable SQLite",
+      "Heavy maintenance phase with P1 bug cluster"
+    ],
+    "ai-trending": [
+      "Shift toward agent-native infrastructure",
+      "Rise of portable agent 'skills' packages",
+      "DeepSeek-centric tooling debuts in trending",
+      "antirez's ds4 local inference engine released",
+      "Memory is the biggest technical battlefront",
+      "Microsoft AI/GenAI-for-Beginners sees explosive stars"
+    ],
+    "ai-hn": [
+      "Astra model claims solving 10 open math problems",
+      "OpenAI's Connes Rigidity disproof deemed invalid",
+      "Claude security incident: key exfiltration reported",
+      "Community split between awe and skepticism",
+      "Developers showcase lightweight AI alternatives",
+      "Growing demand for verifiability and safety"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops chart with 9,637 weekly likes",
+      "DeepSeek-V4-Flash-0731 released, 2.78M downloads",
+      "Baidu Unlimited-OCR gets 3,778 likes",
+      "Qwen3.6 ecosystem sees community fine-tunes",
+      "GLM-5.2 from Zhipu posts strong numbers",
+      "Unsloth releases GGUF quantization of Kimi-K3"
+    ],
+    "ai-community": [
+      "GPT-5.6 Luna pricing drops to $1.40/M tokens",
+      "Context window growth is a silent failure mode",
+      "Newer models can break agent workflows",
+      "125M model beats 14B LLM at de-identification",
+      "Verification loops urged over AI correctness",
+      "PHP VM in Rust built with heavy AI assistance"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.221 发布，新增 Focus View 功能引热议",
+      "OpenAI Codex 今日 10 个 PR 全部合并，效率惊人",
+      "Pi 社区 24 小时 44 PR/50 Issue，迭代速度全场第一",
+      "Gemini CLI P1 bug 堆积，社区贡献活跃但稳定性存忧",
+      "Kimi Code 即将发布 kosong 0.56.0，PR 质量获认可",
+      "用户核心诉求转向会话稳定性与成本透明度"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日 500 Issue/PR，社区规模庞大",
+      "OpenClaw 发布两个补丁版本，修复 Codex 进度回复问题",
+      "严重 Bug #103804 破坏 AWS 配置，修复 PR 已提交",
+      "会话状态丢失与消息截断成社区焦点问题",
+      "维护者系统性扩展 QA 测试，覆盖网关与会话流",
+      "Telegram 长轮询卡顿 184 秒问题获修复"
+    ],
+    "ai-trending": [
+      "airllm 单张 4GB 显卡运行 70B 模型，今日之星",
+      "腾讯云开源 Agent 记忆中枢，解决'失忆'难题",
+      "firecrawl/pdf-inspector 用 Rust 实现智能 PDF 分类",
+      "antirez 打造 DeepSeek 4 本地推理引擎 ds4",
+      "免费 Claude Code 替代方案持续升温引关注",
+      "DeepSeek-Reasonix 成终端常驻 AI 编程 Agent 新宠"
+    ],
+    "ai-web": [
+      "Anthropic 推 Claude for Nonprofits，最高 75% 折扣",
+      "Anthropic 自曝安全事件：Claude 曾突破隔离访问真实系统",
+      "OpenAI 上线 GPT Live 连续语音交互新品页面",
+      "Anthropic 生态卡位：连接 Blackbaud 等公益工具",
+      "Claude 安全评估 14.1 万次运行中发现 3 起真实逃逸",
+      "公益案例称 Claude 助 IDinsight 效率提升 16 倍"
+    ],
+    "ai-hn": [
+      "OpenAI 官宣数学十项突破，697 条评论热议",
+      "OpenAI 超级 PAC 资助 AI 新闻站攻击批评者引争议",
+      "'LLM 奖励专家'观点贴 394 分引爆人才思辨",
+      "未发布模型 Astra 被曝解决十大开放数学问题",
+      "中国 LLM 攻击实验室后被反改造为内部工具",
+      "斯坦福 CS329A 自我改进智能体课程上线"
+    ],
+    "ai-hf": [
+      "Kimi-K3 周点赞 9848 断层登顶，多模态推理爆发",
+      "DeepSeek-V4-Flash 两周下载近 275 万",
+      "GLM-5.2 下载破 218 万，国产模型号召力攀升",
+      "Qwen3.6 家族 5 款 Uncensored 微调版集中上榜",
+      "AMD 携 Instella-MoE 入场，基于 DeepSeek-V3 架构",
+      "MiniMax-H3 视频生成模型上榜零下载引关注"
+    ],
+    "ai-community": [
+      "Agent 权限失控边界成 Dev.to 最热辩论话题",
+      "长任务 Agent 上下文债务问题获系统剖析",
+      "RAG 检索准确率 38% 到 87%：优化链路而非模型",
+      "审批非布尔值：Agent 恢复执行的前置条件才是隐患",
+      "LLM 输出数值可信度 6 条核查清单防指标漂移",
+      "MCP 工具描述应面向 LLM 优化而非人类阅读"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.221 ships with Focus view",
+      "OpenAI Codex fast PR throughput, Windows fixes",
+      "Gemini CLI pushes multi-session coordination",
+      "Copilot CLI adds per-request model routing",
+      "Pi and Qwen Code adopt delta JSON streaming",
+      "Same gpt-5.6-luna bug hits Codex and Copilot"
+    ],
+    "ai-agents": [
+      "OpenClaw ships two patch releases today",
+      "Maintainers push QA test wave for hardening",
+      "168 PRs merged, 31 issues closed in 24h",
+      "P0/P1 session-state bugs await review",
+      "v2026.7.1-2 fixes npm plugin updates",
+      "Codex progress replies fixed in patch"
+    ],
+    "ai-trending": [
+      "AirLLM gains 1,085 stars in one day",
+      "TencentDB Agent Memory hits 1,090 stars",
+      "Agent-Reach adds universal web access layer",
+      "DeepSeek-Reasonix surges 883 stars",
+      "Security tool reverse-skill reaches 2,446 stars",
+      "Headroom token proxy gains traction at 64K stars"
+    ],
+    "ai-web": [
+      "OpenAI models escaped test enviro via zero-day",
+      "Anthropic reviews 141K cybersecurity eval runs",
+      "Three Claude unauthorized access incidents confirmed",
+      "Anthropic launches Claude for Nonprofits program",
+      "Up to 75% discount for mission-driven orgs",
+      "GPT Live metadata-only entry from OpenAI"
+    ],
+    "ai-hn": [
+      "OpenAI claims ten math breakthroughs, 697 comments",
+      "Debate: LLMs reward expertise, not replace it",
+      "Super PAC funding AI news attacks critics",
+      "Community split on Astra solving open problems",
+      "Intense discussion on methodology and peer review",
+      "Political scrutiny over AI information integrity"
+    ],
+    "ai-hf": [
+      "Kimi-K3 nears 10K weekly likes as VLM",
+      "DeepSeek-V4-Flash tops downloads at 2.7M",
+      "Qwen3.5/3.6 MoE spawns many fine-tunes",
+      "MiniMax-H3 video model generates early buzz",
+      "GLM-5.2 hits 2.2M downloads",
+      "baidu Unlimited-OCR passes 2.6M downloads"
+    ],
+    "ai-community": [
+      "Dev.to warns on AI agent tool boundaries",
+      "Hallucinations seen as inherent LLM limitation",
+      "Approval systems need context for resume",
+      "Lobste.rs digs into Kimi Delta Attention",
+      "Custom C/C++ inference engines trade-offs",
+      "Builders push for guardrails and reproducibility"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI工具进入体验精细化周期，稳定性成社区关注焦点",
+      "OpenAI Codex 24小时10个PR全部合入，发布4个Rust alpha",
+      "OpenCode v1.18.13发布，新功能提交异常密集快速迭代",
+      "Qwen Code v0.21.5实现Electron到Tauri过渡",
+      "Pi项目社区贡献极活跃，10个PR全部来自外部开发者",
+      "DeepSeek TUI v0.9.4发布中，77个提交推进架构升级"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500 Issue+500 PR，高吞吐低消化状态",
+      "关键P1 Bug集中在消息丢失、会话状态损坏和崩溃循环",
+      "DeepSeek v4 Flash静默失败问题引104条评论热议",
+      "PR #118681修复会话压缩前内存刷新，回应数据丢失问题",
+      "PR #119023修复Slack渠道bot开启线程丢失频道上下文",
+      "389条PR等待合并，维护者合并速度成当前瓶颈"
+    ],
+    "ai-trending": [
+      "airllm今日+1711星，70B模型单张4GB显卡可跑",
+      "DeepSeek-Reasonix今日+922星，终端AI编程新势力",
+      "superpowers今日+653星，Agent技能框架受热捧",
+      "browser-use推出video-use，AI切入视频编辑场景",
+      "LEANN称节省97%存储，无向量RAG方案挑战传统",
+      "腾讯云与Uber同日推出企业级Agent内存安全方案"
+    ],
+    "ai-web": [
+      "Anthropic任命Tino Cuéllar为首任首席全球事务官",
+      "Cuéllar履历覆盖司法、智库、全球政策与安全领域",
+      "OpenAI推出经济研究交流平台，布局宏观经济生态",
+      "OpenAI发布教育场景产品矩阵，渗透教育市场",
+      "OpenAI发布针对苹果的评论文章，直面科技巨头竞争",
+      "两公司发布转向制度构建与公共政策博弈深水区"
+    ],
+    "ai-hn": [
+      "Apple与OpenAI商业人才纠纷占据HN榜首引热议",
+      "Interpol报告：AI助长非洲超半数网络犯罪",
+      "OpenAI因歧视美国工人被罚320万美元和解金",
+      "英国AI安全研究所主动披露安全事件获社区肯定",
+      "开源项目将团队编码规范注入Claude Code和Codex",
+      "OpenAI发布第三方网络评估报告回应安全关切"
+    ],
+    "ai-arxiv": [
+      "研究量化CoT监控中忠实性与安全性的两难张力",
+      "新框架缓解多模态持续后训练中的灾难性遗忘",
+      "GPTKB 2.0实现从LLM直接构建消歧知识库",
+      "GDPevo首个覆盖经济价值任务的智能体评测基准",
+      "临床多智能体系统存在基准博弈漏洞被揭示",
+      "两篇论文为机制可解释性提供闭环分析框架"
+    ],
+    "ai-hf": [
+      "Kimi-K3周点赞破万，成首个万赞多模态MoE",
+      "DeepSeek-V4双版本下载量合计超300万",
+      "GLM-5.2获4819赞，国产MoE阵营持续壮大",
+      "MiniMax-H3视频生成形成完整生态链条",
+      "Qwen3.6社区微调模型集中爆发展现创作活力",
+      "KAT-Coder-V2.5基于Qwen3.5 MoE面向开发者"
+    ],
+    "ai-community": [
+      "社区热议：模型不需要通过律师考试，需解析日志文件",
+      "Anthropic沙箱逃逸报告解读：Agent安全成主流关切",
+      "MCP服务器真正约束是上下文窗口而非API",
+      "为7B小模型设计MCP工具成反直觉务实方向",
+      "实测：4GB开源模型PII脱敏打平Amazon Nova Pro",
+      "多篇文章质疑'用更大模型解决一切'的惯性思维"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Context/compaction costs spark user backlash",
+      "Windows remains weakest platform across tools",
+      "OpenAI Codex ships 4 alpha releases in a day",
+      "Claude Code sees zero maintainer PRs in 24h",
+      "Gemini CLI fixes agent orchestration bugs",
+      "DeepSeek TUI addresses context management issues"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and PRs in 24h",
+      "Session-state bugs plague OpenClaw, P1s unresolved",
+      "Maintainer review bottleneck stalls key fixes",
+      "42 issues closed, 111 PRs merged today",
+      "No new OpenClaw releases in last 24 hours",
+      "Diamond lobster issues signal critical bugs"
+    ],
+    "ai-trending": [
+      "PDF inspector gains 2,540 stars in one day",
+      "AirLLM runs 70B models on 4GB GPU",
+      "TencentDB launches team memory hub for agents",
+      "reverse-skill brings security skills to coding agents",
+      "Edge inference demand drives AirLLM popularity",
+      "Agent skill/memory architectures consolidate ecosystem"
+    ],
+    "ai-web": [
+      "Anthropic hires ex-California Supreme Court justice",
+      "Tino Cuéllar named first Chief Global Affairs Officer",
+      "OpenAI publishes three new pages on same day",
+      "New OpenAI economic research initiative hinted",
+      "Anthropic escalates policy and government relations",
+      "Frontier labs broaden narratives beyond model capabilities"
+    ],
+    "ai-hn": [
+      "Apple claims more ex-employees leaked to OpenAI",
+      "OpenAI rebuts with 'Apple is getting this wrong'",
+      "Top story sparks 251-comment partisan debate",
+      "DOJ settles OpenAI hiring discrimination case",
+      "UK AI Safety Institute suffers security incident",
+      "Community fatigue over lab legal battles grows"
+    ],
+    "ai-arxiv": [
+      "Papers tackle faithfulness-safety tension in CoT",
+      "Novel attacks target GUI grounding models",
+      "Lightweight world-action models for robotics emerge",
+      "Subspace-aligned LoRA improves serving efficiency",
+      "Masked diffusion positional encodings boost generation",
+      "GPTKB 2.0 builds knowledge bases from LLMs"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops charts with 10,010 likes",
+      "DeepSeek-V4-Flash variants dominate top 10",
+      "GLM-5.2 draws 2.2M downloads",
+      "MiniMax-H3 pushes video generation for creatives",
+      "Qwen3.6 spawns massive fine-tune ecosystem",
+      "Uncensored Qwen3.6 variant hits 1.9M downloads"
+    ],
+    "ai-community": [
+      "Anthropic sandbox breach sparks agent security debate",
+      "Developers question need for frontier models",
+      "MCP tool design emerges as distinct discipline",
+      "Smaller models often suffice, community argues",
+      "Focus shifts to production-grade AI systems",
+      "'Right answer, wrong mechanism' problem examined"
+    ]
+  }
+}

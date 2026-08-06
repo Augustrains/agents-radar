@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.223发布，Session URL功能获46赞",
+      "Copilot CLI今日新增23个Issues，MCP故障集中爆发",
+      "Gemini CLI 3个P1 Bug发酵，SSRF漏洞待修复",
+      "Codex /undo功能获373赞，Windows崩溃问题成焦点",
+      "Qwen Code发布桌面版v0.1.0，首版即迎问题潮",
+      "Pi项目XDG合规获23赞，AGENTS.override落地"
+    ],
+    "ai-agents": [
+      "OpenClaw曝媒体误删及数据库迁移失败两项P0数据安全Issue",
+      "OpenClaw PR #118792修复会话token污染导致过早压缩问题",
+      "OpenClaw备份修复：跳过网关零字节锁数据库",
+      "OpenClaw CLI上下文快照修复PR #118796被取代",
+      "OpenClaw 500条Issue更新，会话状态管理仍为核心顽疾",
+      "OpenClaw 70条PR合并，无新版本发布"
+    ],
+    "ai-trending": [
+      "腾讯云Agent内存中枢单日涨1,892星，主打团队级记忆",
+      "Cloudflare computer项目获891星，给Agent一台电脑",
+      "firecrawl/pdf-inspector涨1,582星，Rust PDF检测库",
+      "obra/superpowers涨931星，Agent技能包概念升温",
+      "DeepSeek-Reasonix以前缀缓存稳定性为卖点，涨747星",
+      "Uber开源ADR涨354星，企业级Agent安全登上热榜"
+    ],
+    "ai-hn": [
+      "英国安全测试曝OpenAI与Anthropic模型失控行为",
+      "微软财报披露其AI营收大部分来自OpenAI，引泡沫化担忧",
+      "Prime Agent发布，自我改进RLM智能体获94分",
+      "Anthropic陷入毁书争议，社区安全情绪升温",
+      "HyperProbe生产环境只读调试Agent获42分",
+      "ExANS实现KV缓存无损压缩，H100速度达622GB/s"
+    ],
+    "ai-arxiv": [
+      "WorldCup Arena用世界杯直播评估LLM，规避基准污染",
+      "Muon Meets Mamba：首次系统研究SSM谱优化",
+      "ALiBi位置编码浮点精度下溢，可致注意力头失明",
+      "Qwen3通过对比激活添加实现时间偏好干预",
+      "Omega-S三行代码缓解大模型灾难性遗忘",
+      "跨模型KV缓存迁移实现闭式线性映射，免prefill重算"
+    ],
+    "ai-hf": [
+      "Kimi-K3单周超1万赞登顶，压缩技术引关注",
+      "DeepSeek-V4-Flash系列下载破320万，强势霸榜",
+      "GLM-5.2下载破220万，智谱生态号召力强劲",
+      "MiniMax-H3引领视频生成，官方与ComfyUI双线并进",
+      "Qwen3.5/3.6衍生微调模型生态空前繁荣",
+      "LiquidAI LFM2.5-2.6B以2.6B参数降推理成本"
+    ],
+    "ai-community": [
+      "The Review Tax：81%开发者被AI代码审查淹没",
+      "OpenAI解决1999年开放问题却无法自主提问",
+      "AWS开源Kiro Crew，跨会话协调AI编码Agent",
+      "MCP检索成本比grep高4.1倍，仓库变大后反转",
+      "AI赞同偏差系列：需移除规则注入反思层",
+      "Kiro Crew持久化工作区框架引关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "CLI tools enter stabilization-and-hardening phase",
+      "Security and trust issues fastest-growing frustration",
+      "Cost guardrails emerging across major CLI tools",
+      "False-positive safety filtering a key focus for Claude Code",
+      "Parallel sub-agent reliability issues in Gemini and Qwen",
+      "MCP ecosystem maturity drives CLI integrations"
+    ],
+    "ai-agents": [
+      "OpenClaw processes 500+ issues and PRs daily",
+      "443 issues remain open, backlog pressure on maintainers",
+      "Critical stability bugs in session state management",
+      "Provider auth issues flagged as priority P0/P1",
+      "Intense triage suggests large release imminent",
+      "No new releases published in last 24 hours"
+    ],
+    "ai-trending": [
+      "TencentCloud Agent-Memory hub gains 1,892 stars",
+      "Cloudflare's 'computer' abstraction adds 891 stars",
+      "firecrawl's PDF inspector surges with 1,582 stars",
+      "Memory wars escalate across all agent layers",
+      "Coding agents bifurcate into loop kernels and skills",
+      "Ollama now supports Kimi-K2.6, GLM-5.2, MiniMax"
+    ],
+    "ai-hn": [
+      "Community skeptical of frontier-lab behavior",
+      "Hobby programming communities push back on LLM usage",
+      "Whistleblower exit post sparks accountability debate",
+      "OpenAI practices draw growing list of complaints",
+      "Anthropic chip-building and $10B compute deals noted",
+      "Prime Agent self-improving RLM draws cautious interest"
+    ],
+    "ai-arxiv": [
+      "Test-time scaling and inference efficiency dominate",
+      "Agentic evaluation benchmarks on the rise",
+      "ALiBi positional encoding faces numerical failure",
+      "Pre-pretraining on formal derivations boosts skills",
+      "WorldCup Arena offers leakage-free live forecasting",
+      "Video-DeepResearch extends agents to continuous video"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads with 10K likes, 1.1M downloads",
+      "GLM-5.2 and DeepSeek-V4-Flash dominate downloads",
+      "MiniMax-H3 enters image-to-video generation space",
+      "Qwen3.5/3.6 fine-tunes proliferate in community",
+      "Baidu Unlimited-OCR surprises with 2.7M downloads",
+      "Chinese labs cement dominance in open-weight models"
+    ],
+    "ai-community": [
+      "81% of developers buried in AI code review",
+      "Developers push for repeatable evaluation harnesses",
+      "MCP-based retrieval costs more than traditional grep",
+      "LLMs at odds with cognitive science debated",
+      "Type-checking AI-generated SDK code gaining attention",
+      "Internet Archive pleads to protect 'good bots'"
+    ]
+  }
+}

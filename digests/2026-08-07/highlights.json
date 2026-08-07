@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 权限系统成社区焦点，讨论热度破百",
+      "OpenAI Codex 发布 rust-v0.147.0，修复进程泄漏",
+      "Gemini CLI 更新 v0.54.2，但 Auto Memory 存隐患",
+      "GitHub Copilot CLI v1.0.79-6 发布，NixOS 兼容待解",
+      "OpenCode 社区最活跃，订阅服务故障引热议",
+      "Pi v0.84.0 发布，Windows 支持策略成讨论中心"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500 Issue 500 PR，极高活跃",
+      "Agent 数据库迁移失败 #119263 成最严重阻塞问题",
+      "totalTokens 膨胀致过早压缩，引发 P0 级关注",
+      "A2UI HEAD 响应修复 #117961 已合并主干",
+      "2026.7.2 版本被指存在关键回归，或需补丁",
+      "95 个 PR 合入，Bug 修复速度略慢于新增"
+    ],
+    "ai-trending": [
+      "三个 Agent 技能框架同日登榜，新增超3300星",
+      "ollama 177,948 星，成本地大模型运行标准",
+      "DeepSeek-Reasonix 今日 +888 星，终端 Agent 受捧",
+      "纯 Rust PDF 检测库 firecrawl/pdf-inspector 爆发",
+      "Agent 记忆赛道升温，TencentDB-Agent-Memory 登榜",
+      "本地优先工具链密集登榜，直击 token 成本痛点"
+    ],
+    "ai-web": [
+      "OpenAI 今日三连更，Anthropic 零更新",
+      "OpenAI 发布 GPT-5.6-sol 模型改进，剑指产品化",
+      "OpenAI 与 APA 达成负责任 AI 合作引关注",
+      "ChatGPT 全球应用案例汇总上线官网",
+      "Anthropic 静默蓄力？或酝酿重大发布",
+      "OpenAI 以高频小步快跑巩固消费级市场"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Luna 向免费用户开放，引发热议",
+      "AI 智能体协作策划攻击事件成最大争议点",
+      "微软财报：70% AI 收入依赖 OpenAI 引担忧",
+      "vLLM 架构深度解析获 59 高分，值得一读",
+      "Wallfacer 终端会话管理器，助 Claude Code 工作流",
+      "mcp-use v2 重建，适配无状态 MCP 规范"
+    ],
+    "ai-arxiv": [
+      "Poli-Bias 新框架，量化 LLM 政治冲突偏见",
+      "LangChoiceBench 揭示 LLM 编程语言选择偏好",
+      "免训练 token 级个性化写作引导方法提出",
+      "SiPE 将句法注入位置编码，让 Transformer 更懂语法",
+      "递归自蒸馏 AgentOPSD，解决长程决策难题",
+      "Web 智能体路由可学习性边界被系统测量"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 视频生成模型主导榜单，生态庞大",
+      "DeepSeek-V4-Flash 下载破 260 万，头部效应明显",
+      "Kimi-K3 周点赞破万，登顶语言模型榜",
+      "GLM-5.2 下载逼近 240 万，国产开源主力",
+      "百度 Unlimited-OCR 一己之力拉动专用模型热度",
+      "FLUX.1-dev 文生图领域依然坚挺"
+    ],
+    "ai-community": [
+      "AI Agent 可观测性成社区最热话题",
+      "Kimi K3 史上最大开源权重，但多数人跑不动",
+      "AWS Kiro Crew 实测：单次事故成本仅 $0.04",
+      "电路熔断模式引入 AI Agent，提供安全参考",
+      "LLM 评测存在'通道盲区'，纯文本有局限",
+      "开发者用 134 条规则深度落地 AI 管理实践"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "9 tools compared, security and reliability top concerns",
+      "Windows stability a shared pain point across tools",
+      "Convergence on MCP integration and permission systems",
+      "Claude Code has 10 hot issues, 2 with 30+ upvotes",
+      "OpenAI Codex differentiates via cloud integration",
+      "Gemini CLI stands out with subagent architecture"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in 24 hours",
+      "Heavy triage backlog: 432 open vs 68 closed issues",
+      "No new P0 issues opened today, fix PRs in flight",
+      "No releases published in last 24 hours",
+      "PR #117961 fixes A2UI HEAD Content-Length",
+      "Project consolidating toward next stable cut"
+    ],
+    "ai-trending": [
+      "Cloudflare's 'computer' hits +2,802 stars today",
+      "TencentDB Agent Memory surges +1,057 stars",
+      "DeepSeek-Reasonix gains +888 on prefix-cache focus",
+      "Agent skills and memory infrastructure dominate trends",
+      "Local-first code intelligence tools on the rise",
+      "AutoGPT remains foundational at 186k stars"
+    ],
+    "ai-web": [
+      "OpenAI publishes 3 articles in one day",
+      "GPT-5.6 'SOL' is a new technical term",
+      "OpenAI partners with American Psychological Association",
+      "Anthropic publishes zero new content today",
+      "OpenAI focuses on enterprise use cases",
+      "No technical details available for new articles"
+    ],
+    "ai-hn": [
+      "Hugging Face breach saga dominates HN discussions",
+      "Experts allege research misconduct in OpenAI math claims",
+      "GPT-5.6 Sol/Luna announcement draws modest engagement",
+      "Microsoft: 70% of AI revenue tied to OpenAI",
+      "Community skeptical of OpenAI governance and safety",
+      "vLLM deep dive and MCP projects get lighter interest"
+    ],
+    "ai-arxiv": [
+      "Medical AI leads with synthetic data and hospital agents",
+      "Temporal adaptation emerges as key research thread",
+      "New framework measures LLM political bias",
+      "SiPE: syntax-informed positional embeddings proposed",
+      "Post-training efficiency and reliability papers prominent",
+      "Reproducible local healthcare systems gain focus"
+    ],
+    "ai-hf": [
+      "Kimi-K3 breaks out with 10,200 likes and 1.25M downloads",
+      "MiniMax-H3 video ecosystem hits 5.2M downloads",
+      "Baidu's Unlimited-OCR reaches 2.79M downloads",
+      "DeepSeek-V4-Flash sees major production adoption",
+      "Surge in 'uncensored' community fine-tunes on Qwen",
+      "FLUX.1-dev remains most-liked model despite age"
+    ],
+    "ai-community": [
+      "Managing AI with 134 standing rules instead of permissions",
+      "AWS's Kiro Crew handles P1 incident for $0.04",
+      "LLM judges need filesystem checks, says analysis",
+      "Circuit breaker pattern for AI agents proposed",
+      "Debate: Can AI security systems stop cheating?",
+      "Question: Is Kimi K3 even runnable for most?"
+    ]
+  }
+}

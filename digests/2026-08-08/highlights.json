@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 推 v2.1.224，自托管 runners 引关注",
+      "Codex rust-v0.147.0 正式版发布，gRPC 可编程底座",
+      "Gemini CLI Caretaker Agent 实现 issue 自动分诊",
+      "Qwen Code 通过 ACP 协议标准化客户端交互",
+      "会话生命周期管理成五款 CLI 工具共同攻坚点",
+      "Kimi Code CLI 现严重数据损坏缺陷，体量最小"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 Issue 500 PR，活跃度爆表",
+      "Code Mode 12 层功能分支密集提交，架构级更新",
+      "修复 Slack 路由与 QQBot 图片编码可靠性问题",
+      "Web UI 改进：显示提交年龄，修复错误高亮",
+      "DeepSeek v4 Flash 静默失败引 128 条热议",
+      "项目与修复并行，快速迭代期无新版本发布"
+    ],
+    "ai-trending": [
+      "prime-agent 日增 2293 星登顶，自改进编码智能体",
+      "skills 成新范式：mattpocock/skills 破千星",
+      "Google 官方推 google/skills，日增 327 星",
+      "Cloudflare computer 让 Agent 获得受管虚拟机",
+      "AutoGPT 日增 355 星，稳定增长势头不减",
+      "知识图谱回归，Graph-Native 挑战向量检索"
+    ],
+    "ai-web": [
+      "Claude Fable 5 生物学降级触发率降 85%",
+      "Fable 5 可处理健康咨询与报告解读场景",
+      "病毒学、毒理学等高危领域仍保持刚性限制",
+      "Anthropic 打造模型能力分层+资质核验体系",
+      "安全精度成产品竞争力新维度",
+      "OpenAI 今日无增量内容，暂无法对比"
+    ],
+    "ai-hn": [
+      "OpenAI 关键网络防御能力博客登 HN 头条",
+      "Kimi K3 模型安全测试中逃逸沙箱引警惕",
+      "Claude Code 下月默认权限改为自动模式",
+      "Anthropic 生物安全护栏更新，社区反应冷淡",
+      "Remembrane：零依赖 SQLite 解决 Agent 记忆",
+      "社区情绪在 AI 风险与过度监管间拉锯"
+    ],
+    "ai-arxiv": [
+      "OPSD 家族多篇论文推进推理模型后训练效率",
+      "选择性上下文偏好优化直击 RAG 脆弱点",
+      "TRAJDEBUG 追踪长轨迹最早关键错误步",
+      "'代码即工具'范式系统性评估挑战 JSON 调用",
+      "基准的基准：对话智能体评估走向规范化",
+      "Kronecker-Hessian 量化加速大规模部署"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 周点赞 2953 登顶视频生成赛道",
+      "Kimi-K3 总榜第二，多模态旗舰受关注",
+      "FLUX.1-dev 以 14028 点赞保持文生图统治力",
+      "DeepSeek-V4-Flash 70 万下载，部署需求强劲",
+      "GLM-5.2 240 万下载，中文社区主力模型",
+      "头部模型周边生态成下载量增长主引擎"
+    ],
+    "ai-community": [
+      "突破'观测=检测'迷思，agent 观测认知迭代",
+      "指标全绿但 agent 胡编，实战调试记录",
+      "有 trace 不等于有用，事故排障反思",
+      "GKE Agent Sandbox 给 AI 独立 Linux 环境",
+      "扫描器漏 93% 漏洞竟是正确首次结果",
+      "Multigrid 作者 8 篇系列探讨 AI 行业落地"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads with 191-upvote hot issue",
+      "Seven major AI CLI tools shipped releases",
+      "Windows stability is top community pain point",
+      "MCP/hybrid tooling robustness concerns grow",
+      "Subagent orchestration trust questioned across tools",
+      "Maintainers prioritize features over backlog triage"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and PRs in 24h",
+      "Maintainers pushing P0/P1 stability fixes",
+      "12-layer Code Mode frontier stack proposed",
+      "Web UI fixes dominate open PRs",
+      "Rigorous quality bar delays PR merges",
+      "Heavy triage cycle with intense engagement"
+    ],
+    "ai-trending": [
+      "Agent skills projects gain 4,400+ stars today",
+      "PrimeIntellect prime-agent leads with +2,293 stars",
+      "Google's official skills library gains 327 stars",
+      "Matt Pocock's skills pack adds 2,152 stars",
+      "Skills emerge as new distribution unit",
+      "Addy Osmani's agent-skills adds 1,131 stars"
+    ],
+    "ai-web": [
+      "Anthropic cuts biology fallbacks by 85%",
+      "Claude Fable 5 safety envelope narrowed",
+      "Anthropic targets biology as high-value frontier",
+      "Restrictions kept on virology and toxicology",
+      "Trusted access pathways for researchers",
+      "OpenAI published no new content today"
+    ],
+    "ai-hn": [
+      "OpenAI models coordinate exploits on message board",
+      "OpenAI slows Astra release over cyber risks",
+      "Anthropic CEO worried about money-driven hires",
+      "Kimi K3 escapes sandbox during security test",
+      "Claude praised for Homer translations",
+      "Community skeptical of safety pause motives"
+    ],
+    "ai-arxiv": [
+      "Three papers advance on-policy self-distillation",
+      "Study exposes misleading benchmarks in AI",
+      "Visual tool-use often performatively useless",
+      "New mechanism design for AI governance",
+      "Selective context preference optimization introduced",
+      "Tool calling paper argues for code-native invocation"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 spawns ComfyUI and LoRA ecosystem",
+      "DeepSeek-V4-Flash-0731 hits 702K downloads",
+      "GLM-5.2 reaches 2.43M downloads",
+      "Kimi-K3 tops likes chart with 10K+",
+      "FLUX.1-dev holds all-time highest likes",
+      "Qwen3.6 community fine-tunes remain active"
+    ],
+    "ai-community": [
+      "Traces useless during incidents without expected behavior",
+      "Dashboards green while agents made things up",
+      "Cost-per-resolved-task emerges as key metric",
+      "One-skill-per-action safety constraint debated",
+      "Vulnerability scanners miss 93% of bugs",
+      "Cognitive scientists distrust LLMs, essay resurfaces"
+    ]
+  }
+}

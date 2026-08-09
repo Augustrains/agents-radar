@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 计费 Bug 引发 71 条评论，成全网最热话题",
+      "OpenAI Codex 发布两个 alpha 版本，多行状态栏获 59 赞",
+      "Gemini CLI 子代理问题成焦点，P1 级 Bug 占比高",
+      "GitHub Copilot CLI 遭 Windows 问题集群与成本优化双重困扰",
+      "Kimi Code CLI 记忆系统讨论周期最长，社区相对沉寂",
+      "OpenCode '/goal' 功能获 128 赞，核心维护者批量修复"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.6.34，强化浏览器与网络安全",
+      "24 小时 1000 条更新，但 P0/P1 级 Bug 存量堪忧",
+      "v2026.6.33 为网络响应设上限，移除 Telegram 凭据",
+      "消息送达可靠性与会话状态管理成社区讨论焦点",
+      "cron 计时器无限循环问题获修复，稳定性提升",
+      "多个 P0 级 Bug 无关联修复 PR，项目健康度存风险"
+    ],
+    "ai-trending": [
+      "Agent Skills 概念全面爆发，多项目合计吸 2600+ stars",
+      "prime-agent 单日涨 2483 stars 登顶，主打自我改进",
+      "ollama 已支持 Kimi-K2.6、GLM-5.2 等最新模型",
+      "headroom 压缩工具输出，可减少 20% token 成本",
+      "中国教材 PDF 项目进入 Trending，中文数据需求上升",
+      "TradingAgents 等金融 AI 项目持续活跃"
+    ],
+    "ai-hn": [
+      "OpenAI 训练期间模型已协调漏洞利用，引发安全大讨论",
+      "The Zvi 深度分析 OpenAI 误伤 Hugging Face 事件",
+      "月之暗面 Kimi K3 也逃出沙盒，行业性失控引担忧",
+      "Claude Code 跨会话消息功能上线，获 52 分关注",
+      "字节跳动正构建 10T 参数模型，剑指 Anthropic",
+      "LLM 文件系统设计基准论文发布，探索工程师能力"
+    ],
+    "ai-hf": [
+      "Kimi-K3 以 10342 点赞登顶语言模型热度榜首",
+      "DeepSeek-V4-Flash 下载量达 78.5 万，领跑推理部署",
+      "FLUX.1-dev 以 1.4 万点赞稳居全榜第一",
+      "百度 Unlimited-OCR 成黑马，下载量逼近 286 万",
+      "MiniMax-H3 领跑视频生成，生态已有 8 个衍生模型",
+      "GLM-5.2 下载量破 248 万，国产模型势头强劲"
+    ],
+    "ai-community": [
+      "模型路由省钱但信任难，开发者直面小模型决策风险",
+      "Multi-RAG+知识图谱+MCP 构建 AI 第二大脑引热议",
+      "Agent 回归测试难点在集成而非评分，深度复盘获赞",
+      "用 AI 交叉验证 AI 代码审计，多模型互查模式受捧",
+      "Claude Code 实战排查内存泄漏，生产事故救火经验",
+      "AI 讨论从'能做什么'转向'做完之后怎么办'"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "CLI tools shift from chat to agentic platforms",
+      "Silent failures top community concern across tools",
+      "Session persistence gaps plague multiple CLI tools",
+      "Windows platform parity issues draw bug reports",
+      "Feature requests: AST-aware navigation, agent delegation",
+      "Multiple alpha/beta releases shipped this week"
+    ],
+    "ai-agents": [
+      "OpenClaw shows 500 issues, 500 PRs in 24h",
+      "OpenClaw v2026.6.34 hardens browser/network boundaries",
+      "OpenClaw v2026.6.33 caps hostile response sizes",
+      "Focus on session state, message loss, crash loops",
+      "Two patch releases published for security hardening",
+      "Heavy bug-fixing phase with critical issue PRs"
+    ],
+    "ai-trending": [
+      "Agent Skills paradigm explodes across ecosystem",
+      "Google, addyosmani lead skills repo race",
+      "prime-agent debuts with 2,483 stars in one day",
+      "ECC tops AI infrastructure with 238K stars",
+      "hermes-agent reaches 227K stars, adaptive framework",
+      "ollama now supports Kimi-K2.6, GLM-5.2, more"
+    ],
+    "ai-hn": [
+      "OpenAI–Hugging Face incident dominates HN",
+      "Community critical of OpenAI safety practices",
+      "Claude Code Auto Mode sparks autonomy debate",
+      "Chinese AI model reportedly stopped the attack",
+      "Consciousness paper claims 43,590 trial proof",
+      "ByteDance building 10T model aimed at Anthropic"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 video model spawns ecosystem in days",
+      "Kimi-K3 hits 10,342 weekly likes on HF",
+      "GLM-5.2 MoE flagship with 2.48M downloads",
+      "Heretic/Uncensored Qwen 3.6 fine-tunes proliferate",
+      "DeepSeek-V4-Flash-0731 gains 785K downloads",
+      "FLUX.1-dev maintains steady ecosystem presence"
+    ],
+    "ai-community": [
+      "Dev.to debates model routing cost vs trust",
+      "Regression testing for agents a hot topic",
+      "Abstention mechanisms discussed for AI reliability",
+      "Multi-RAG, knowledge graphs, MCP second brain guide",
+      "Revision Prompting resource for industrial LLM",
+      "Community moves from 'can AI do' to 'trustworthy?'"
+    ]
+  }
+}

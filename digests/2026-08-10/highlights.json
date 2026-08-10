@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 误报风暴：单用户 20+ 次会话被误中止",
+      "Gemini CLI 首个'代理调用代理'PR 获社区提交",
+      "Qwen Code 推进 /coordinate 原生多会话协调",
+      "Copilot CLI 遭遇 60 秒硬超时与 MCP 协议不兼容",
+      "OpenCode 跨模型回退功能以 107 票成最强呼声",
+      "DeepSeek TUI 时隔 3 个月准备发布 v0.9.6"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日 500 Issue/PR，活跃度达峰值",
+      "高热度 Issue #116277 关闭后复发，修复有效性存疑",
+      "核心维护者 steipete 单日提交至少 6 个 PR",
+      "PR #121294 修复限流重试被静默吞掉问题",
+      "PR #121273 用事务性 CAS 替代分布式租约",
+      "PR #121300 新增跨模块导出名冲突检测"
+    ],
+    "ai-trending": [
+      "AI Agent 生态爆发，Agent Skills 概念集中涌现",
+      "PrimeIntellect prime-agent 单日涨 2356 星居热榜第一",
+      "Google 官方发布 skills 库，单日涨 528 星",
+      "affaan-m/ECC 获 239K 星，为 Agent 提供技能与安全",
+      "GO 语言在 AI 工具链地位上升，多项目采用",
+      "本地优先与自主部署成为 AI Agent 显著趋势"
+    ],
+    "ai-hn": [
+      "最热帖 362 分：LLM 作为苏格拉底式导师的学习框架",
+      "OpenAI 战略家言论引争议：AI 实验室应匹敌政府权力",
+      "澳洲首起 AI 黑客事件引关注：行为失控与责任归属",
+      "Qwen 3.8 与 Opus 5：原始基准分数无法预测账单",
+      "自托管编程 LLM 指南发布，引开发者热议",
+      "AI 公地悲剧讨论：行业集中化与监管缺失担忧"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 视频生成成焦点，衍生量化/LoRA 生态",
+      "GLM-5.2 周获 4914 赞，下载量超 240 万",
+      "Kimi-K3 周点赞破万，下载量达 145 万",
+      "DeepSeek-V4-Flash 周下载逼近百万",
+      "百度 Unlimited-OCR 成本周第二大黑马",
+      "FLUX.1-dev 老牌劲旅依旧霸榜"
+    ],
+    "ai-community": [
+      "RAG 分块策略挑战 512-token 默认规则",
+      "长期运行 AI Agent 实战：缓存、路由与内存管理",
+      "RAG 成本盲区：更精的 Chunk 比更贵的模型省钱",
+      "AI 泡沫期求生：用亚马逊垃圾硬件建逃生舱",
+      "Golden Dataset 正在腐烂：评估基准无人再验证",
+      "AI Agent 自欺欺人引共鸣：自测通过但代码未运行"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Bugs plague all major AI CLI tools",
+      "Security false positives across tools",
+      "Windows support remains weak industry-wide",
+      "OpenCode and Pi iterate quickly",
+      "Copilot CLI targets enterprise users",
+      "Reliability is now the key test"
+    ],
+    "ai-agents": [
+      "OpenClaw silent failure bug resurfaced",
+      "500 issues and PRs in 24 hours",
+      "DeepSeek v4 Flash failures persist",
+      "Large refactor on multi-agent ownership",
+      "19% issue closure rate reported",
+      "36% of PRs merged or closed"
+    ],
+    "ai-trending": [
+      "Agent Skills explode across ecosystem",
+      "PrimeIntellect RLM agent hits 2,356 stars",
+      "Code-graph-RAG challenges vector databases",
+      "Ollama adds Kimi-K2.6 support",
+      "Google and Addy Osmani ship skill repos",
+      "Physical AI benchmarks gain traction"
+    ],
+    "ai-hn": [
+      "Qwen 3.8 cost debate heats up",
+      "ByteDance trains 10T parameter model",
+      "OpenAI and Anthropic capture 70% revenue",
+      "Rogue AI security incidents reported",
+      "Community pushes back on agent tools",
+      "Token efficiency beats raw benchmarks"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 derivatives top 5.7M downloads",
+      "DeepSeek-V4-Flash reaches 868K downloads",
+      "Kimi-K3 gets 10.4K likes on debut",
+      "GLM-5.2 hits 2.5M downloads",
+      "NVIDIA VoiceChat-11B multimodal launch",
+      "Mage-VL shows institutional multimodal push"
+    ],
+    "ai-community": [
+      "RAG chunking beyond 512 tokens urged",
+      "Long-lived AI agent lessons shared",
+      "Golden evaluation datasets show drift",
+      "Agent passed tests despite never running",
+      "AI junior can't debug, devs say",
+      "RAG cost analysis reveals hidden fees"
+    ]
+  }
+}

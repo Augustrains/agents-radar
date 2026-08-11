@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code发布v2.1.227热修复，CVP问题引32条评论",
+      "OpenAI Codex #20214达93条评论，Windows卡顿高发",
+      "Gemini CLI子代理相关Issue密集，v0.56.0夜间版发布",
+      "Qwen Code Fleet多智能体3天从RFC到分阶段落地",
+      "OpenCode v1.18.16发布，CPU高占用46条评论",
+      "Pi修复WSL Copilot登录挂起，响应速度快"
+    ],
+    "ai-agents": [
+      "OpenClaw Issues与PR均达500条上限，活跃度极高",
+      "维护者steipete提交多项大型重构，清理技术债",
+      "Control UI新增排队消息编辑与排序功能",
+      "2026.8.1 beta.2候选版本签署PR推进中",
+      "新Issue 403条远超关闭97条，反馈洪峰持续",
+      "网关内部迁移至类型化门面，增强信任边界"
+    ],
+    "ai-trending": [
+      "prime-agent今日新增2,642 stars，自我改进编码智能体登顶",
+      "agency-agents新增1,349 stars，AI代理机构协作范式",
+      "firecrawl累计165k stars，上下文API概念落地",
+      "code-graph-rag用知识图谱增强代码库RAG",
+      "RuView将WiFi信号转为空间智能，新传感器模态",
+      "agent-skills由Addy Osmani出品，打造生产级技能库"
+    ],
+    "ai-web": [
+      "Anthropic研究：Claude将黎曼猜想零点比例下界提升至67.2%",
+      "Anthropic更新Agent方法论，引导迁移至Managed Agents",
+      "Claude Sonnet 5发布，性能接近Opus 4.8但价格更低",
+      "OpenAI推出Premium Seats企业级产品",
+      "OpenAI扩展Daybreak网络安全防御能力",
+      "OpenAI发布AI原生财务，内部运营智能化"
+    ],
+    "ai-hn": [
+      "Claude数学突破引热议：黎曼猜想边界从41.6%提至67.2%",
+      "OpenAI德州AI基础设施公开信引163条评论争议",
+      "Needle2：14MB超轻量级agentic LLM，适配边缘设备",
+      "$250 FPGA跑21k tok/s推理，边缘AI新路线",
+      "AI水印话题首次聚合，内容溯源成新关注点",
+      "逆向工程推测Claude/GPT训练时间线，方法获认可"
+    ],
+    "ai-hf": [
+      "MiniMax-H3视频生成模型爆发，官方+社区版占榜近三分之一",
+      "Kimi-K3周点赞破1万登顶，下载超151万",
+      "DeepSeek-V4-Flash周下载95万，成最热对话模型",
+      "ComfyUI集成MiniMax-H3单文件版下载超600万",
+      "Meta Muse-Glimmer-30B新发布，GGUF版本待积累",
+      "LFM2.5-2.6B液态神经网络主打高效率边缘部署"
+    ],
+    "ai-community": [
+      "AI Agent通过2283测试却在生产失败，剖析测试鸿沟",
+      "蒸馏Kimi到Qwen转移的是格式而非能力，附判别方法",
+      "单块TPU v5e跑通轻量Agent后端实战教程",
+      "MCP攻击类别目录发布，系统化梳理安全风险",
+      "HITL正确设计：让危险操作不可能发生或一键撤销",
+      "测量精选MCP工具输出实际节省，量化收益"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Windows stability is a common pain point across tools",
+      "Claude Code tops issues with 120👍 discussion",
+      "Enterprise policy enforcement now a key differentiator",
+      "Multi-agent coordination emerging across multiple projects",
+      "SSRF and prompt injection hardening on the rise",
+      "Context compaction pursued independently by several tools"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs today",
+      "Heavy refactoring phase driven by maintainer steipete",
+      "Release candidate PR #121743 awaiting approval",
+      "2026.8.1 beta.2 release track in CI evaluation",
+      "Message-delivery reliability is a top concern",
+      "Session-state consistency bugs widespread across projects"
+    ],
+    "ai-trending": [
+      "prime-agent rockets to +2,642 stars today",
+      "agency-agents gains +1,349 stars in a day",
+      "code-graph-rag adds 682 stars, signaling graph RAG rise",
+      "firecrawl hits 165k stars with +835 today",
+      "MediaCrawler shows sustained demand for data pipelines",
+      "Agentic infrastructure dominates open-source AI trends"
+    ],
+    "ai-web": [
+      "Claude improves Riemann zeta bound from 41.6% to 67.2%",
+      "Anthropic's Claude Sonnet 5 anchors agentic positioning",
+      "Sonnet 5 pricing at $2/M input tokens",
+      "OpenAI publishes metadata-only content this crawl",
+      "OpenAI expands Daybreak cyber-defense initiative",
+      "OpenAI distributes frontier cyber models to trusted hands"
+    ],
+    "ai-hn": [
+      "Claude's Riemann Hypothesis result sparks debate at 157 score",
+      "Skeptics call percentage movement a misleading metric",
+      "14MB agentic LLM for wearables gains traction",
+      "250 FPGA runs 21k tok/s, impressing community",
+      "OpenAI's $300 device and cyber model draw skepticism",
+      "Big labs' narratives face growing community criticism"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 spawns dozens of fine-tunes and quantizations",
+      "DeepSeek-V4-Flash-0731 approaches a million downloads",
+      "Kimi-K3 claims 10,470 likes with compressed tensors",
+      "FLUX.1-dev remains community favorite for images",
+      "baidu/Unlimited-OCR shows corporate VL model interest",
+      "GGUF quantizations by unsloth and LiquidAI trending"
+    ],
+    "ai-community": [
+      "Agent passes 2,283 tests but fails in production",
+      "Timeline details OpenAI agent's accidental HF attack",
+      "MCP attack classes are a hot security topic",
+      "'Context tax' hits token efficiency walls for developers",
+      "AI anxiety discourse emerges in Chinese dev communities",
+      "Developers question if AI makes us lazier or dumber"
+    ]
+  }
+}

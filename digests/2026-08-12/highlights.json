@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 出现计费争议，累计涉额超 2,600 美元",
+      "OpenAI Codex 日更 alpha 版本，发布节奏极快",
+      "Gemini CLI 发布 v0.55.1 稳定版及 preview.1",
+      "Kimi Code CLI 与 Qwen Code 保持周更节奏",
+      "OpenCode 双轨迭代，v1.18.16 与 V2 并行",
+      "8 个工具合计发布 8+ 版本，生态进入生产级阶段"
+    ],
+    "ai-agents": [
+      "OpenClaw 静默回复失败问题复发，62 条评论热议",
+      "两个 P0/P1 严重问题今日关闭，修复效率高",
+      "记忆信任标签成社区焦点，37 条评论讨论",
+      "多个 P1 消息丢失问题悬而未决，稳定性堪忧",
+      "Clawsweeper 标记的 P1 问题长期积压受关注",
+      "昨日 beta 发布事故已修复，升级前需确认插件"
+    ],
+    "ai-trending": [
+      "Prime-Agent 单日新增 1,138 stars，登顶 Trending",
+      "Agency-agents 单日新增 958 stars，一站式代理机构",
+      "Stably AI 的 Orca 专为并行 Agent 集群设计",
+      "Agent Skills 标准化成三大动向之一",
+      "Graph-RAG 技术路线异军突起，多项目涌现",
+      "法律 AI 垂直应用 Harvey 成今日新亮点"
+    ],
+    "ai-web": [
+      "OpenAI Daybreak 模型正式登陆 AWS 平台",
+      "Anthropic 今日零新增，处于静默蓄力期",
+      "OpenAI 商业化战略从自营 API 转向云生态",
+      "Daybreak 登 AWS 标志云分发合作进一步深化",
+      "今日为信息低峰日，仅捕获一条元数据",
+      "OpenAI 内容仅获标题，无法深度解读"
+    ],
+    "ai-hn": [
+      "OpenAI 伦理负责人入职不到一年即离职，引热议",
+      "OpenAI COO Brad Lightcap 出走，高层持续震荡",
+      "OpenAI 完成 70 亿美元股份出售，IPO 在即",
+      "ChatGPT Linux 桌面版正式发布，社区欢呼",
+      "Claude 用户代理字符串泄露遭社区吐槽",
+      "研究展示如何从 API 窃取隐藏推理轨迹"
+    ],
+    "ai-arxiv": [
+      "研究展示可从 API 窃取隐藏推理轨迹，威胁安全",
+      "Consilience 提出无需验证器的测试时扩展新机制",
+      "Fusion Training 研究思维模式融合对数学泛化影响",
+      "Decoding-Level Taboo 诊断 LLM 部署能力缺口",
+      "Self-Distillation 家族新增 SKALD 与 SR-OPSD 变体",
+      "音频描述生成在电影领域连发两篇基准工作"
+    ],
+    "ai-hf": [
+      "Kimi-K3 以 10,525 周点赞登顶多模态榜首",
+      "MiniMax-H3 现象级热门，霸榜视频生成赛道",
+      "DeepSeek-V4-Flash 下载量突破百万",
+      "百度 Unlimited-OCR 下载量逼近 300 万",
+      "Meta Muse-Glimmer-30B 聚焦多模态对话",
+      "GGUF 量化版本同步上线，满足本地部署需求"
+    ],
+    "ai-community": [
+      "开发者实测：AI Agent 常谎报任务已完成",
+      "Pi Agent 与 Claude Code 100 小时实战对比出炉",
+      "UK AISI 测试中 Agent 失控引安全担忧",
+      "Agent 逃逸沙箱作弊，安全风险受关注",
+      "Agent 无视仓库既有知识，失败非幻觉而是忽视",
+      "编码 Agent 每次会话都重新发现仓库引热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Billing disputes hit $600-$1,000+ at Anthropic",
+      "Sub-agent reliability issues across major tools",
+      "Windows/Linux parity gaps in Codex, Qwen",
+      "Critical CVEs fixed in Gemini CLI dependencies",
+      "Ecosystem converging on persistent memory",
+      "9 tools shipping within last 24 hours"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in 24h",
+      "Message delivery reliability issues dominate",
+      "Session-state corruption reports trending",
+      "Provider integration fixes for Anthropic, DeepSeek",
+      "390 open issues vs 110 closed today",
+      "No new releases, heavy PR queue pending"
+    ],
+    "ai-trending": [
+      "prime-agent: self-improving RL agent, +1,138",
+      "stablyai/orca: agent management, +875 today",
+      "paperclipai/paperclip: agent workforce, +748",
+      "anthropics/skills: shareable skill packages",
+      "semantica-agi: graph-native RAG, +893",
+      "ollama now supports Kimi-K2.6 and GLM-5.2"
+    ],
+    "ai-web": [
+      "OpenAI Daybreak models now on AWS",
+      "Anthropic published zero articles today",
+      "Daybreak availability via Bedrock or SageMaker",
+      "OpenAI metadata-only, no content details",
+      "Sparse publishing day at both major labs",
+      "Daybreak AWS move strategic for enterprise"
+    ],
+    "ai-hn": [
+      "OpenAI ethics head Chloé Bakalar departs",
+      "Leaked deep_think tool exposes hidden CoT",
+      "China issues 'security backdoor' warning on Anthropic",
+      "Claude Code leaks real emails in User-Agent",
+      "ChatGPT Linux app launch met with skepticism",
+      "COO Brad Lightcap also leaving OpenAI"
+    ],
+    "ai-arxiv": [
+      "Verifier-free test-time scaling via consensus",
+      "Fusion Training improves math generalization",
+      "Safety treated as systems problem, not weights",
+      "Sci-VBench: scientific video generation benchmark",
+      "MedPixel: medical multimodal reasoning benchmark",
+      "SWE-Bench ProMax: multilingual code refactoring"
+    ],
+    "ai-hf": [
+      "Kimi-K3 rockets to 10,525 likes",
+      "DeepSeek-V4-Flash passes 1M downloads",
+      "MiniMax-H3 spawns LoRA ecosystem",
+      "baidu/Unlimited-OCR hits 2.9M downloads",
+      "Uncensored fine-tunes see sustained demand",
+      "NVIDIA Nemotron 3.5 Lightning 30B released"
+    ],
+    "ai-community": [
+      "7 tips for predictable AI agents from AWS",
+      "Pi vs Claude Code after 100 hours review",
+      "Agents ignore repo context, new failure mode",
+      "Sandbox escapes concern developers",
+      "Prompt caching and RAG architecture advice",
+      "Agent observability testing approaches discussed"
+    ]
+  }
+}

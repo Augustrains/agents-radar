@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.229发布，Linux桌面版诉求获498👍高居榜首",
+      "OpenAI Codex rust-v0.148.0-alpha.9发布，Windows Computer Use故障成焦点",
+      "Gemini CLI v0.56.0-nightly，P1 Agent可靠性问题持续5个月未解",
+      "OpenCode v1.18.17发布，Zen免费额度误判成最大吐槽点",
+      "Pi本地Ollama代理已合入，auto-compaction失效讨论升温",
+      "Qwen Code发布5个版本，长任务自动运行失败受激烈吐槽"
+    ],
+    "ai-agents": [
+      "OpenClaw今日异常活跃，更新500条Issue和500条PR但无新版本",
+      "子代理、消息丢失等核心可靠性问题修复仍阻塞，技术债突出",
+      "PR #122883修复多智能体所有权显式化导致的扩展测试失败",
+      "Web UI模型选择器移位问题已修复，UI稳定性获提升",
+      "模型内部反思块泄露至可见回复的问题已修复",
+      "消息丢失和可靠性成社区最热话题，长期未解决的高优问题"
+    ],
+    "ai-trending": [
+      "diagram-design单日+2855⭐，29种Claude Code编辑图表模板成黑马",
+      "agency-agents +1873⭐，多角色Agent矩阵走向开箱即用",
+      "affaan-m/ECC以239K⭐领跑，Agent Harness成最热基础设施赛道",
+      "macro-inc/macro等出现，AI原生工作流从个人走向团队协作",
+      "ollama以178K⭐持续领跑，本地推理基础设施地位稳固",
+      "deepseek-ai/DeepSeek-V4-Flash-0731百万下载，推理模型商业化领跑"
+    ],
+    "ai-web": [
+      "Anthropic发布重磅经济研究：56项RCT元分析再培训计划效果",
+      "培训后就业率提升2-3个百分点，年收入增加约1000美元",
+      "每人培训成本13,000美元，政府可回收超一半投入",
+      "Anthropic构建从现象→测量→政策→评估的完整研究闭环",
+      "OpenAI仅元数据更新，企业应用页面缺乏正文内容",
+      "Anthropic正塑造'AI政策制定者智库'角色而非仅模型供应商"
+    ],
+    "ai-hn": [
+      "冒用ClaudeBot名义漏洞扫描引发AI爬虫信任危机热议",
+      "Anthropic获外部资本支持建设数据中心引关注",
+      "国会致函OpenAI要求解释HuggingFace事件成焦点",
+      "从专有LLM API窃取推理轨迹论文切中模型安全痛点",
+      "AI课程将围棋混淆为Go语言，暴露生成内容可靠性问题",
+      "社区情绪审慎，高度关注AI基础设施可持续性与安全性"
+    ],
+    "ai-arxiv": [
+      "跨语言安全对齐'幻觉'：英语安全训练无法迁移低资源语言",
+      "ASMI框架将注意力路径脆弱性作为不确定性信号",
+      "CLAUDE.md无界增长被诊断为'灾难性记忆'问题",
+      "Actions Speak Louder：评测跨语言策略保留而非仅结果",
+      "ReRound解决权重量化中点歧义，降低精度损失",
+      "GUI视觉定位模型测试时自进化，无需标注适应新界面"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10,583赞断层登顶，压缩感知架构引热议",
+      "MiniMax-H3生态爆发，衍生Turbo版、ComfyUI版等十余模型",
+      "DeepSeek-V4-Flash-0731百万级下载，推理模型热度持久",
+      "Qwen3.8-2.4T-A95B发布：2.4T参数MoE激活仅95B",
+      "NVIDIA Nemotron 3.5 Lightning 30B-A3B发布，NVFP4优化Blackwell",
+      "模型页面开始展示政府许可编号，监管框架正落地"
+    ],
+    "ai-community": [
+      "AI Agent可靠性危机成核心：上下文溢出致误删文件等事故频发",
+      "Devin完成$40B融资，Agent商业化加速成型",
+      "200家日本SaaS仅41款通过AI-agent就绪度评估",
+      "OpenAI对安全研究者差异化访问承诺遭实测挑战",
+      "开发者角色正从'写实现'转向'定意图、做编排'",
+      "AI行事权限正从虚拟空间延伸至物理世界引担忧"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Windows crashes, session corruption top complaints",
+      "Security hardening lands across Gemini, Copilot, Codex",
+      "SSRF patches and MCP config fail-open fixes shipped",
+      "Pi and DeepSeek TUI lead OSS innovation",
+      "Claude Code ships patch v2.1.229",
+      "Ecosystem splits: enterprise reliability vs hacker-led"
+    ],
+    "ai-agents": [
+      "500 issues and PRs updated in 24 hours",
+      "Subagent orchestration reliability bugs remain P1",
+      "Fix for extension fixtures unblocks CI pipeline",
+      "Maintainers prioritize new work over backlog",
+      "Consolidation phase with many fix PRs awaiting review",
+      "No new releases published today"
+    ],
+    "ai-trending": [
+      "Agent ops platforms surge: Macro, Orca trending",
+      "diagram-design gains 2,855 stars for better LLM diagrams",
+      "Kronos raises 266 stars for financial AI",
+      "Edge AI emerges with 14MB mobile models",
+      "Agent-native workspace tools target enterprises",
+      "Coding agents become primary runtime substrates"
+    ],
+    "ai-web": [
+      "Anthropic challenges worker retraining efficacy",
+      "Meta-analysis of 56 US randomized studies released",
+      "OpenAI pushes enterprise productization article",
+      "Anthropic deepens economic policy authority",
+      "Both firms diverge: policy vs go-to-market",
+      "Report signals data-driven AI labor impact"
+    ],
+    "ai-hn": [
+      "Mass scans spoof AI crawlers like ClaudeBot",
+      "Attackers abuse trusted bot user-agents",
+      "YC launch: AI agents for materials discovery",
+      "Guardian op-ed eyes nationalization of AI firms",
+      "Interview questions assume costly AI tool access",
+      "Community wary of AI agent agency in production"
+    ],
+    "ai-arxiv": [
+      "Cross-lingual safety gaps exposed in low-resource languages",
+      "TrustNLP workshop: six years of interpretability insights",
+      "New method maps LLM behavioral evolution",
+      "Quantum computing meets AI in two new papers",
+      "Human-AI case study on Grothendieck constant",
+      "Policy convergence tracked in national AI strategies"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates with 10.5K likes, 1.5M downloads",
+      "DeepSeek-V4-Flash-0731 tops 1M downloads",
+      "MiniMax-H3 ecosystem spawns many community fine-tunes",
+      "NVIDIA's Nemotron-3.5-Lightning pushes efficiency",
+      "Qwen's 2.4T-parameter MoE with 95B active",
+      "Chinese open-weight contenders: Ling-3.0, maple-preview"
+    ],
+    "ai-community": [
+      "Agent permanently lost video premiere in live test",
+      "Agent deleted working files after misread instruction",
+      "Context window overflow yields confident wrong answers",
+      "Cognition's reported $40B round bets on agent budgets",
+      "Only 21% of Japanese SaaS rated AI-agent-ready",
+      "AI companies destroying physical books raises alarm"
+    ]
+  }
+}

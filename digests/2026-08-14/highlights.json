@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Max 限额争议持续5个月，评论达832条",
+      "Qwen Code 多智能体 fleet 架构密集迭代追赶头部",
+      "OpenCode V2 重构引发社区反弹，安全兼容问题爆发",
+      "Pi 终端体验细节获好评，TUI 体验领先同类工具",
+      "DeepSeek TUI 更名 CodeWhale，引入双层 Auto-Review",
+      "Gemini CLI 安全 PR 占比高，eval 基建成重点"
+    ],
+    "ai-agents": [
+      "OpenClaw 消息丢失与会话状态异常成最热标签",
+      "PR 合并率仅21.2%，394 条待审查积压严重",
+      "models.list 永久返回空列表 bug 已修复并合并",
+      "Control UI 自动化创建报错问题获修复",
+      "无界上下文数组刷爆 prompt 问题待确认用例",
+      "OpenAI WebSocket 压缩恢复逻辑修复进行中"
+    ],
+    "ai-trending": [
+      "Anthropic 官方 Agent Skills 仓库发布，日增312星",
+      "macro 用 Rust 构建 Agent 原生工作空间，日增1239星",
+      "NVIDIA Switchyard 成多模型路由新赛道，日增408星",
+      "needle 14MB 基础模型为微型设备辟新路",
+      "LTX-2 开源音视频生成模型发布引关注",
+      "holaOS 定义 AI Agent 操作系统获大量关注"
+    ],
+    "ai-web": [
+      "未发布 Claude 将黎曼零点下界从41.6%提升至67.2%",
+      "Anthropic 红队预警多智能体系统性意外失败风险",
+      "Claude 自主阅读数学文献产出可形式化验证证明",
+      "Anthropic 安全研究从单模型对齐转向系统博弈",
+      "OpenAI Ultrafast 新品预览上线，细节尚未披露",
+      "OpenAI 高管任命更新，暗示产品侧快速迭代"
+    ],
+    "ai-hn": [
+      "Codex 登陆 Linux 桌面版成预览，HN 获443分",
+      "Anthropic 传拟2万亿美元 IPO 引发热议",
+      "Anthropic 6B 收购 Decart 引商业泡沫争论",
+      "概念推理指数发布，测抽象理解能力引热议",
+      "Google 研究：模型知识存储远超可回忆量",
+      "AI 水印与作弊检测话题意外走红占热帖两席"
+    ],
+    "ai-arxiv": [
+      "长上下文训练损害参数化知识，挑战主流假设",
+      "模型排名随推理预算翻转，基准可比性遭质疑",
+      "混合线性注意力 LLM 大规模激活现象首次揭示",
+      "低资源语言群体在 AI 基础设施中系统性失语",
+      "DreamFly 引入因果记忆解决无人机长期规划",
+      "VAKRA 新基准统一评估 API 调用与文档检索"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 系列屠榜，点赞超7000下载破1200万",
+      "Kimi-K3 登顶周榜，10621赞成最强 VLM 黑马",
+      "DeepSeek-V4-Flash 轻量版下载量达143万",
+      "Qwen3.8-2.4T-A95B 发布，巨型 MoE 新旗舰",
+      "LiquidAI 2.6B 小模型实现高效推理引关注",
+      "NVIDIA Nemotron 30B-A3B 推 NVFP4 边缘部署版"
+    ],
+    "ai-community": [
+      "开发者自建 Gatekeeper 为 AI Agent 工具调用把关",
+      "AI 代码测试通过但逻辑缺陷成最大安全隐患",
+      "Gemma 4 在 Graviton2+GPU 异构实例部署实战",
+      "AI 降低自建门槛，重定义 build vs buy 决策",
+      "Agent 记忆系统公平基准框架获社区认可",
+      "MCP C# SDK 回退协商或静默改变线上契约"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex lead in engagement",
+      "Gemini CLI fixes CVEs, OpenCode audited",
+      "MCP protocol emerging as universal standard",
+      "Reliability backlash over context compaction",
+      "Qwen Code closes multi-agent gap",
+      "Security hardening accelerates across tools"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues, 500 PRs",
+      "No new releases amid stabilization push",
+      "Silent reply failures erode trust",
+      "Subagent orchestration bugs pile up",
+      "Session-state integrity concerns mount",
+      "Maintainer team in catch-up mode"
+    ],
+    "ai-trending": [
+      "Agent Skills becomes new package format",
+      "cactus-compute/needle: 14MB on-device model",
+      "Anthropic opens Agent Skills repository",
+      "NVIDIA Switchyard routes models across providers",
+      "macro-inc/macro up 1,239 stars today",
+      "RAGFlow hits 88,013 stars, +465 today"
+    ],
+    "ai-web": [
+      "Claude improves Riemann zero bound to 67.2%",
+      "AI math breakthrough verified by experts",
+      "Anthropic analyzes multiagent failure modes",
+      "OpenAI posts Ultrafast product preview",
+      "Claude's result advances 1859 open problem",
+      "New C-level appointment at OpenAI"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol Ultrafast preview hits 14x",
+      "Codex launches on Linux, 443 points",
+      "Anthropic to buy Decart for $6B",
+      "Anthropic IPO planned at $2T valuation",
+      "Watermarking feature sparks surveillance debate",
+      "OpenAI study reveals real ChatGPT usage"
+    ],
+    "ai-arxiv": [
+      "Long-context training undermines parametric knowledge",
+      "LLM rankings shift with inference budget",
+      "Multi-agent RL suffers simulator collapse",
+      "Skill-hijacking attacks analyzed in new paper",
+      "AI infrastructure excludes underrepresented languages",
+      "New benchmark for vulnerability detection released"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 video model gets 1.6M downloads",
+      "Kimi-K3 leads multimodal with 10,621 likes",
+      "DeepSeek-V4-Flash hits 3,319 likes",
+      "Qwen3.8-2.4T MoE pushes open-weight frontier",
+      "Meta Muse-Glimmer-30B gains traction",
+      "Video generation heats up with fine-tunes"
+    ],
+    "ai-community": [
+      "Dangerous AI code passes all tests",
+      "Gatekeeper tool-trust layer gains traction",
+      "MCP negotiation pitfalls documented",
+      "Approval workflows let proposers self-approve",
+      "Fair memory benchmarks called for",
+      "OpenAI-HF incident analyzed on Lobsters"
+    ]
+  }
+}

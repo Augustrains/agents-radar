@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.233发布，Advisor触发时API无响应问题引热议",
+      "OpenAI Codex密集推进5个Rust alpha迭代，修复Windows卡顿",
+      "Gemini CLI v0.56.0-nightly修复子代理MAX_TURNS误报",
+      "Kimi Code CLI Memory System跨会话记忆引39条评论关注",
+      "OpenCode修复48位ID时间戳回绕致会话失效问题",
+      "Pi v0.84.2发布，社区调研Windows平台使用情况"
+    ],
+    "ai-agents": [
+      "OpenClaw今日无新版本，高活跃高积压状态持续",
+      "Issue #121058静默回复失败反复出现，已积94条评论",
+      "PR #116489为安装策略警告引入确认机制，增强安全性",
+      "修复会话密钥规范化后重复创建session_nodes问题",
+      "空工作区memory index误报成功问题已修复",
+      "维护者密集提交测试精简和重构PR，改善代码健康度"
+    ],
+    "ai-trending": [
+      "holaOS（AI Agent工作台）今日获769星，表现抢眼",
+      "semantica图原生上下文基础设施单日暴涨1181星",
+      "needle仅14MB端侧模型获662星，适配微型设备",
+      "affaan-m/ECC以240k星领跑Agent工具链赛道",
+      "macro Agent协作空间获436星，登Trending榜",
+      "Agent记忆与上下文成为新兴热点方向"
+    ],
+    "ai-web": [
+      "Anthropic详解Claude文本水印技术，回应EU AI法案合规",
+      "Anthropic发布56项RCT元分析，评估工人再培训成效",
+      "水印承诺质量无损、零额外成本，不影响隐私",
+      "Anthropic称多家主流AI厂商已签署统一行为准则",
+      "水印被定位为产品功能而非学术成果，战略意图明确",
+      "OpenAI今日无增量更新，数据受限"
+    ],
+    "ai-hn": [
+      "Anthropic年度风险报告公开，社区深度拆解安全盲区",
+      "Claude Code会话价值最大化指南登顶，获122分",
+      "Graft工具通过hooks削减42% grep token引热议",
+      "Mole深度研究Agent进终端，开源新秀引关注",
+      "Shoehorn库可量化LLM适配Mac VRAM，获38分",
+      "社区担忧OpenAI人才流失与IPO前景"
+    ],
+    "ai-arxiv": [
+      "DFM Mimir v1仅1B参数用合规数据达前沿性能",
+      "Synthetic Persona Pretraining颠覆先预训练后对齐范式",
+      "AutoDesign提出长时程智能体设计的元强化学习框架",
+      "OmniScientist打造全模态全学科AI科学家",
+      "LittleLearner发布88B-token可控知识暴露语料库",
+      "指令微调致模型口头过度自信机制被系统揭示"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10672周点赞登顶，下载近200万",
+      "MiniMax-H3视频生成家族霸榜，下载超1400万",
+      "Qwen3.8-2.4T-A95B旗舰MoE发布，周点赞913",
+      "DeepSeek-V4-Flash下载量突破160万，部署火热",
+      "NVIDIA Nemotron 3.5闪电版30B-A3B支持NVFP4量化",
+      "Qwen3.8-27B新发布，周点赞近9000"
+    ],
+    "ai-community": [
+      "向量数据库不足以支撑长期记忆，架构性缺陷引热议",
+      "Gemma 4在Graviton2+NVIDIA实战部署，揭示64KiB限制",
+      "'没人审计OpenAI发票'，成本核算痛点引发共鸣",
+      "土木工程师将作品集改造成MCP服务器，展示民主化",
+      "编码Agent记忆用一份文件即可解决，挑战SaaS叙事",
+      "AI协作流水线错误源头在简报而非代码，深层问题揭示"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.233 adds GitLab MR support",
+      "Windows support weak across all major AI CLIs",
+      "Silent failures eroding trust in AI coding tools",
+      "Context management problems plague CLI tools",
+      "Shift toward sub-agent hierarchies and dynamic models",
+      "OpenAI Codex and Gemini CLI lead release velocity"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues, 500 PRs in 24h",
+      "95 PRs merged, no new release today",
+      "Codex integration instability among top issues",
+      "Memory leaks and message loss are P0 priorities",
+      "ClawSweeper-labeled PRs stream in from maintainers",
+      "Critical issues remain open for extended periods"
+    ],
+    "ai-trending": [
+      "Semantica gains 1,181 stars for graph AI",
+      "holaOS adds agent workspace with MCP support",
+      "Cactus's Needle: 14MB model for tiny devices",
+      "GitHub's Spec-Kit drives spec-driven development",
+      "Unsloth now supports Qwen3.8, Kimi K3, more",
+      "RAGFlow solidifies lead as open-source RAG engine"
+    ],
+    "ai-web": [
+      "Anthropic explains Claude text watermarking",
+      "Watermarking complies with EU AI Act from Aug 2",
+      "Claims zero impact on quality, cost, or privacy",
+      "Anthropic study: worker retraining cost-effectiveness",
+      "OpenAI posts no new content in this window",
+      "Anthropic sets agenda with two major publications"
+    ],
+    "ai-hn": [
+      "Top post: maximizing Claude Code session value",
+      "Three Anthropic items dominate front page",
+      "AI-coded-revolution fatigue sparks debates",
+      "OpenAI talent exodus ahead of IPO discussed",
+      "Guardian's nationalization proposal stirs tension",
+      "Contract-grade verifier for LLM GPU kernels"
+    ],
+    "ai-arxiv": [
+      "Agentic AI for science and software workflows",
+      "Formal verification integrated with LLMs advances",
+      "Speculative decoding efficiency gains continue",
+      "SAEVerbalizer explains sparse autoencoder features",
+      "DFM Mimir v1: frontier performance at 1B params",
+      "Robust learning with linear sample complexity"
+    ],
+    "ai-hf": [
+      "Qwen3.8 family explodes with dense and MoE",
+      "MiniMax-H3 spawns LoRA and GGUF ecosystem",
+      "Kimi-K3 tops weekly likes with 10,672",
+      "NVIDIA Nemotron-3.5 Lightning hybrid sparse",
+      "GGUF quantizations become first-class concern",
+      "DeepSeek-V4-Flash-0731 hits 1.6M downloads"
+    ],
+    "ai-community": [
+      "Debate: vector DBs vs Markdown for memory",
+      "OpenAI–Hugging Face incident sparks security worry",
+      "Nobody audits their OpenAI invoice, says post",
+      "Checkpointing long LLM jobs before timeouts",
+      "Durable memory requires more than embeddings",
+      "Benchmarking models vs harnesses questioned"
+    ]
+  }
+}

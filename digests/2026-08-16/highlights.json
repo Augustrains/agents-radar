@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 会话自动延续 Issue 获 197 赞，成社区最热话题",
+      "Codex 磁盘空间失控，Crashpad 每日狂占 5GB+ 存储",
+      "Gemini CLI 通用代理挂起，SSRF 安全漏洞引发关注",
+      "Kimi Code CLI 记忆系统引 40 条评论，上下文管理成刚需",
+      "OpenCode 遭大量扣款但余额不足投诉，计费透明度遭质疑",
+      "Qwen Code 修复 runner 安全隔离问题，等级列为 P1 最高优先"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时涌 500 Issue 和 500 PR，社区活跃度爆棚",
+      "OpenClaw 新 Beta 版支持 GPT-5.6 Ultra，并强化密钥主机绑定安全",
+      "OpenClaw 合并 PR 构建安装策略警告，供应链安全迈出实质一步",
+      "项目核心稳定性修复进展缓慢，消息丢失等回归 Bug 频现",
+      "维护者响应速度疑似成瓶颈，大量高优先级问题待处理",
+      "Web UI 修复空字符串配置错误，提升配置操作安全性"
+    ],
+    "ai-trending": [
+      "GitHub 官方 spec-kit 今日飙升 892 星，AI 规范驱动开发成新方向",
+      "cordis 提出时空可组合 Meta-Framework，重构 AI Agent 底层架构",
+      "端侧 AI 加速渗透，ego-lite 与 FluidVoice 轻量方案获热捧",
+      "unsloth 单日增 434 星，本地训练推理需求持续走强",
+      "ECC 以 24 万星登顶，为 Claude Code 等提供统一优化框架",
+      "AI Agent 基础设施成最热赛道，通信与跨会话记忆项目密集涌现"
+    ],
+    "ai-web": [
+      "Anthropic 红队发文警告：智能体交互量或将超人际交互总量",
+      "Anthropic 公布文本水印技术原理，全面合规欧盟 AI 法案",
+      "水印不增 Token 消耗无隐藏字符，且不携带任何身份识别信息",
+      "多智能体系统涌现性故障风险成焦点，研究重心转向系统级安全",
+      "OpenAI 今日零更新，Anthropic 借安全与合规双轮驱动抢话语权",
+      "Anthropic 率先公开水印细节，成为主要实验室合规承诺先行者"
+    ],
+    "ai-hn": [
+      "AI 工作记忆远超人脑但思考有限，引发记忆与智能关系激辩",
+      "Debian 社区投票是否接受 AI 代码，自由软件纯度之争白热化",
+      "Netflix 公开 LLM 原生推荐架构，性价比之争再起",
+      "CNBC 警告 OpenAI IPO 前人才流失是巨大红旗",
+      "38 美元 DIY Claude 用量 HUD 走红，成本可视化需求凸显",
+      "Meta 训练数据选择引关注，AI 监管议题从边缘走向主流"
+    ],
+    "ai-hf": [
+      "Kimi-K3 周点赞破万登顶，多模态对话模型成社区新宠",
+      "Qwen3.8-27B 官方与量化双线发力，霸榜多席位",
+      "MiniMax-H3 视频生态爆发，衍生 Turbo 等变体下载破千万",
+      "DeepSeek-V4-Flash 下载达 180 万，轻量高效路线获认可",
+      "NVIDIA 新 4-bit 格式 NVFP4，成 Llama 系推理新标杆",
+      "多模态模型占比超三分之一，视觉对话时代全面到来"
+    ],
+    "ai-community": [
+      "4200 次试验揭示 LLM Agent 可靠性瓶颈，隐性失败点曝光",
+      "多 Agent 编排器竟选择零工人，调度层陷阱引警示",
+      "RAG 系统越界自信回邮件，自动化场景可靠性遭质疑",
+      "'AI 徽章'衡量标准遭质疑，22 赞热议其真实含义",
+      "印度开发者 10 天造语音 Agent，多语言支持成刷屏主题",
+      "AI Agent 记忆问题被重定义为信任问题，新框架视角引关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Windows stability is the top pain point across CLI tools.",
+      "Session management is the top feature demand across tools.",
+      "Self-hosted users want configurable budgets and sandboxing.",
+      "Managed providers face billing transparency scrutiny.",
+      "Context persistence and cross-device sync are key demands.",
+      "Core agentic loop expected reliable and stateful by default."
+    ],
+    "ai-agents": [
+      "OpenClaw sees heavy activity with 500 issues and PRs.",
+      "OpenClaw beta v2026.8.1 adds secret egress host binding.",
+      "Message loss and session corruption bugs persist in OpenClaw.",
+      "Maintainer capacity bottleneck flagged for OpenClaw issues.",
+      "OpenClaw has a large backlog of maintainer-review issues.",
+      "Subagent reliability remains a critical concern in OpenClaw."
+    ],
+    "ai-trending": [
+      "ego-lite: browser built specifically for AI agents.",
+      "diagram-design gained +1,607 stars today, leading trends.",
+      "cactus-compute/needle: 14MB on-device foundation model.",
+      "MakazhanAlpamys/Soup: 8B model fine-tuned on 4GB GPU.",
+      "affaan-m/ECC tops 240K stars for agent harnesses.",
+      "unsloth now supports Qwen3.8, Kimi K3, DeepSeek-V4."
+    ],
+    "ai-web": [
+      "Anthropic publishes multiagent systems red team report.",
+      "Anthropic confirms watermarking for EU AI Act compliance.",
+      "Anthropic pivots to multiagent safety and regulatory work.",
+      "OpenAI posts no new content, shifting engagement cadence.",
+      "Watermarking integrated into future Claude models.",
+      "EU AI Act effective August 2, 2026, drives changes."
+    ],
+    "ai-hn": [
+      "HN debate: AI's edge is memory, not reasoning.",
+      "OpenAI talent exodus ahead of IPO sparks discussion.",
+      "Anthropic withholds stronger model over safety concerns.",
+      "Nvidia downsizes data center guarantee, HN reports.",
+      "AI drug discovery underdelivers, sober assessment.",
+      "Anthropic IPO valuation controversy discussed on HN."
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops likes with 10,725, a multimodal MoE.",
+      "DeepSeek-V4-Flash hits 1.8M downloads, fast variant.",
+      "Qwen3.8 and MiniMax-H3 dominate trending models.",
+      "Video generation is the hottest HF category this week.",
+      "Qwen3.8-27B quantization ecosystem matures.",
+      "MiniMax-H3 variants flood with LoRAs and ComfyUI."
+    ],
+    "ai-community": [
+      "Voice agent wave: 10-day builds for Indian users.",
+      "AI badge called 'theater' in EU AI Act critique.",
+      "Agents have a trust problem, not memory, says post.",
+      "Controlled trials show agents failing at high rates.",
+      "OpenAI verified defender access policy ambiguity exposed.",
+      "Lobste.rs debates latent reasoning model interpretability."
+    ]
+  }
+}

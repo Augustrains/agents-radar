@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 集中关闭账号/计费高频问题，订阅权限争议 61 赞",
+      "OpenAI Codex 合并速度极高，Windows 性能问题霸榜 85 赞",
+      "Gemini CLI 子代理挂起 P1 级 bug，PR 由 AI 辅助生成",
+      "OpenCode 'Ctrl+C 退出' 高赞 49 长期未解决，v2 打磨中",
+      "Pi 核心 bug 当日确认并修复，tool_calls 顺序问题解决",
+      "Qwen Code 多智能体 bug 集中爆发，维护者主导子系统重构"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时处理 500 Issues 和 500 PRs，关闭 82 个",
+      "长期问题聚焦消息丢失和会话状态损坏，社区关注度高",
+      "修复 Linux 工具子进程未被分离问题，macOS 仍未解决",
+      "Control UI 新增安装策略警告审查，安全机制加强",
+      "新 Release 归档 Gateway profile 证据，非功能更新",
+      "PR #119681 修复消息发送，合并进程快节奏推进"
+    ],
+    "ai-trending": [
+      "unsloth 日增 572 星，14MB 端侧模型本地训练 UI",
+      "LangChain 144K 星、vLLM 89K 星仍为生态基础设施核心",
+      "RAG 与 Agent 主导主题搜索，Graphify 挑战传统范式",
+      "Agent 记忆与性能优化成新刚需，社区从能跑转向跑得省",
+      "端侧智能加 Agent 工程化双轮驱动 AI 开源趋势",
+      "llama_index 51K 星，专注文档 Agent 与企业私有数据"
+    ],
+    "ai-hn": [
+      "Anthropic 系统提示词发布与营收暴涨霸榜热榜",
+      "Stripe 天价收购 OpenRouter 引资本狂热讨论",
+      "低年级语料训练 LLM 研究引知识天花板激辩 234 分",
+      "Anthropic 多智能体系统报告获赞冷静，需求存分歧",
+      "开发者将 DeepSeek V4 Flash 压缩至 57GB 本地跑起编译器",
+      "首个反 AI 抗议者入狱引发社会焦虑两极讨论"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周赞过万登顶，GGUF 下载破 190 万",
+      "Kimi-K3 用压缩张量技术引关注，点赞 10,767",
+      "MiniMax-H3 全家桶霸榜多席，Comfy-Org 版下载 1,340 万",
+      "DeepSeek-V4-Flash 下载 187 万，成社区部署首选",
+      "NVIDIA Nemotron 3.5 双版本 NVFP4 与 BF16 齐发",
+      "Jamba 式混合架构与 FP8 量化成本周技术关键词"
+    ],
+    "ai-community": [
+      "社区转向务实，探讨 AI 代理记忆与存储真实痛点",
+      "LLM 画图表不碰像素的创新架构获 25 赞",
+      "Kimi K3 2.8T 参数，推理服务挑战比参数规模更难",
+      "AI 代理需'凭证回执'而非无限记忆，架构师必读",
+      "周末编程挑战催生视觉 AI 趣味项目",
+      "OpenAI 与 Hugging Face 安全事件解析引关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Session state integrity is top cross-tool concern",
+      "Codex merged 18 PRs in 24 hours",
+      "Qwen Code pushes multi-agent orchestration",
+      "Pi and OpenCode focus on TUI polish",
+      "Recurring session-loss and auth bugs persist",
+      "Rapid PR activity signals healthy iteration"
+    ],
+    "ai-agents": [
+      "OpenClaw backlog pressure: 463 open issues",
+      "82 PRs merged in last 24 hours",
+      "Session permission modes under development",
+      "Cloud worker profiles in the works",
+      "Critical message-loss bugs persist",
+      "Maintainers stretched thin by workload"
+    ],
+    "ai-trending": [
+      "Cactus needle: 14MB model for tiny devices",
+      "Unsloth UI now supports Qwen3.8, Kimi K3",
+      "ECC hits 240K stars, Hermes-agent 231K",
+      "Token compression cuts 65% of context",
+      "Shift from building to hardening agents",
+      "Ollama adds Kimi-K2.6, GLM-5.2 support"
+    ],
+    "ai-hn": [
+      "Stripe buys OpenRouter for $7B+",
+      "Anthropic Q2 revenue hits $11.5B",
+      "Anthropic IPO hinges on $190-200B forecast",
+      "Watermark system prompts called 'perversion'",
+      "Nvidia chips found in Russian missiles",
+      "Community mood shifts from wow to whoa"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B tops with 10K likes",
+      "Kimi-K3 gains 10,767 likes, 2.1M downloads",
+      "MiniMax-H3 Comfy-Org hits 13.4M downloads",
+      "DeepSeek-V4-Flash logs 1.87M downloads",
+      "Video and audio generation trending heavily",
+      "Massive multimodal MoE models dominate"
+    ],
+    "ai-community": [
+      "Agents need receipts, not bigger context",
+      "Context loss is a storage architecture issue",
+      "MCP server Rust walkthrough published",
+      "OpenAI–Hugging Face incident debated",
+      "Latent reasoning interpretability questioned",
+      "Dog Days challenge spawns AI pet apps"
+    ]
+  }
+}

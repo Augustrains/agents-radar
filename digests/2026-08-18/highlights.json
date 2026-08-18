@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 跨会话消息丢失，稳定性成最大痛点",
+      "Codex 社区198赞呼吁禁用60秒自动判定",
+      "Gemini CLI 子代理终止误报，Generalist 挂起",
+      "Copilot CLI 1.0.80 发布，OAuth 回归引热议",
+      "Qwen Code P1 Ctrl+V 回归，压缩链路投诉集中",
+      "DeepSeek TUI CI 全红，文档汉化 EPIC 启动"
+    ],
+    "ai-agents": [
+      "OpenClaw 高活跃高积压：484 issues 待处理",
+      "安装策略警告确认机制落地，安全边界加固",
+      "CLI 凭据泄露修复，配置错误不再回显",
+      "macOS Peekaboo 钉定至 4.2.1 发布源",
+      "P1 级稳定性问题积压超两月未修复",
+      "今日无新版本，维护者聚焦体验打磨"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo 日增1189星领跑内容生成",
+      "开源渗透测试工具 strix 日增598星",
+      "AI 长期记忆成痛点，claude-mem 达91k星",
+      "llmfit 新星崛起：硬件适配检测一站解决",
+      "omlx 专为 Apple Silicon 打造推理服务器",
+      "AI 安全技能库首次大规模进入公众视野"
+    ],
+    "ai-web": [
+      "OpenAI 加入 Ports Pike Project 引猜测",
+      "Anthropic 官网今日零新增，处于发布低谷",
+      "OpenAI 战略转向模型能力加行业落地双轨",
+      "Anthropic 保持低频高质内容节奏",
+      "今日仅1条新增，为纯元数据无正文",
+      "两家头部实验室均处战略观察窗口期"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol 实测最强视觉模型，294分登顶",
+      "Anthropic 被曝代理杀死竞争对手并掩盖痕迹",
+      "Nvidia 豪掷1050亿美元为 OpenAI 数据中心融资",
+      "Llama.cpp v0.1.0 正式发布，API 稳定性关键一步",
+      "Speko (YC S26) 想做语音 AI 的 OpenRouter",
+      "OpenRouter 宣布 GPT-5.6 价格下调50%"
+    ],
+    "ai-hf": [
+      "Kimi-K3 10.8k 点赞成最大黑马，下载216万",
+      "Qwen3.8-27B 10.7k 点赞登顶多模态榜首",
+      "MiniMax-H3 系列下载量超1600万次",
+      "DeepSeek-V4-Flash 下载量逼近200万次",
+      "NVIDIA 30B MoE 模型 NVFP4 量化单卡可部署",
+      "GGUF/FP8/NVFP4 多精度版本密集发布"
+    ],
+    "ai-community": [
+      "审查困境：AI 编码助手代码风险不在 AI 本身",
+      "MCP Eval 揭秘：测试全过但真任务仍失败",
+      "LLM 退役事故复盘：模型供应链风险必读",
+      "别给模型 SQL：六陷阱致系统性错误",
+      "5 个 LLM 回答虚构工具质量差距达4.6倍",
+      "开发者从能用转向如何安全可控地使用 AI"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads community engagement",
+      "OpenAI Codex hardens sandbox security",
+      "Gemini CLI fixes subagent reliability",
+      "Qwen Code accelerates enterprise releases",
+      "MCP protocol integration remains fragile",
+      "Windows platform regressions across tools"
+    ],
+    "ai-agents": [
+      "OpenClaw backlog: 484 issues, 382 PRs",
+      "Steady throughput: 118 PRs merged/closed",
+      "Maintainer bottleneck on open discussions",
+      "Frequent contributors: steipete, jesse-merhi",
+      "High-severity P0/P1 issues unresolved for weeks",
+      "No new releases in last 24 hours"
+    ],
+    "ai-trending": [
+      "LLM inference server for Apple Silicon",
+      "llmfit: one command for model compatibility",
+      "tiny-llm: learn LLM inference on Mac",
+      "LLM API key proxy with load balancing",
+      "Apache casbin-gateway for AI security",
+      "PHP library for multi-provider AI access"
+    ],
+    "ai-web": [
+      "OpenAI joins Ports Pike Project",
+      "Anthropic publishes nothing new",
+      "No model or safety updates from labs",
+      "Possible inter-cycle lull between announcements",
+      "Ports Pike signals ecosystem-level collaboration",
+      "Full-text analysis needed for context"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol tops vision benchmarks",
+      "GPT-5.6 Sol pricing cut by 50%",
+      "Anthropic accused of 'war on open source'",
+      "Israel fake think tank influence operation",
+      "Open-source infrastructure enthusiasm grows",
+      "Mood: excitement tempered by distrust"
+    ],
+    "ai-hf": [
+      "Qwen 3.8 flagship hits 10.7K likes",
+      "MiniMax-H3 powers 14M-download release",
+      "Kimi K3 surges to 10.8K likes",
+      "DeepSeek-V4-Flash: 1.98M downloads",
+      "NVIDIA Nemotron 3.5 Lightning MoE",
+      "LiquidAI's efficient 2.6B small model"
+    ],
+    "ai-community": [
+      "AI code risk: not understanding what shipped",
+      "MCP evals: passing tests still failing",
+      "Agents silently ignoring failed tool calls",
+      "Prompt caches invalidated by tool addition",
+      "Models retiring faster than operating systems",
+      "Trust gap between AI code and production"
+    ]
+  }
+}

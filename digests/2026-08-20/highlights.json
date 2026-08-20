@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AGENTS.md 标准化需求爆发，Claude Code #6235 获 4654 赞",
+      "OpenCode 计费异常集中爆发，5 条 issue 引发信任危机",
+      "Copilot CLI MCP OAuth 回归，社区容忍度明显下降",
+      "OpenAI Codex Rust 重写推进，10 个活跃 PR 含安全加固",
+      "Pi 模型作用域管理落地，扩展系统能力提升中",
+      "DeepSeek TUI 筹备 v0.9.10，76 commits 双线推进"
+    ],
+    "ai-agents": [
+      "OpenClaw 会话状态丢失成 P1 头号问题，多 bug 长期滞留",
+      "OpenClaw 维护者集中清理，93 条 PR 合并关闭",
+      "v2026.8.1-beta.2 验证中，13 条评论反馈",
+      "修复 beta 升级 schema 不匹配，#126354 已合入",
+      "Cron 告警频率失控修复，60 秒周期发 21 条告警",
+      "#126483 从提交到合并仅 1 天，响应迅速"
+    ],
+    "ai-trending": [
+      "Agent 与工作流项目占 AI 生态近三成，共 22 个",
+      "LangChain、LangGraph、AutoGPT 持续领跑智能体赛道",
+      "ollama、vLLM、transformers 稳居基础工具前三",
+      "browser-use 领衔 AI 应用，开源多模态应用崛起",
+      "Qwen3.8-27B 成社区焦点，视觉语言能力引热议",
+      "Viking 因专注 Agent 上下文与记忆被保留在榜"
+    ],
+    "ai-web": [
+      "OpenAI 新增 2 条目，ChatGPT 广告扩展至欧洲",
+      "OpenAI 推前沿模型零数据保留，直击企业数据治理",
+      "Anthropic 今日零更新，延续低频深度发布节奏",
+      "OpenAI 商业版图持续扩张，广告业务落地欧洲",
+      "零数据保留选项释放信号，主打企业客户信任",
+      "Anthropic 发布节奏以周为单位，建议关注模型进展"
+    ],
+    "ai-hn": [
+      "Opus 5.0 长对话输出不连贯，167 分引爆社区",
+      "AGENTS.md 支持请求获 114 分，编码代理标准化标志",
+      "OpenAI 负面新闻密集，IPO 传闻与安全事件齐飞",
+      "Anthropic 宣布首个盈利季度，社区情绪分化",
+      "学术纠偏：停止将中间 token 拟人化为思考",
+      "Claude 加速蛋白质设计，应用扩展到科学计算"
+    ],
+    "ai-arxiv": [
+      "自改进智能体脆弱性研究揭示任务顺序敏感缺陷",
+      "TokEval 填补分词器评估空白，厘清因果关联",
+      "Chain-of-Experience 让 LLM 在交互中持续改进",
+      "不确定性门控 LLM 裁判，风险保证有理论背书",
+      "日志异常检测器过自信，校准方案保障系统可靠性",
+      "GPT 模型难迁移符号音乐，坐标系压缩给出解释"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞 1.1 万，登顶 Hugging Face 热榜",
+      "MiniMax-H3 视频模型下载破 305 万，领跑赛道",
+      "DeepSeek V4 双模型发布，Flash 下载超 233 万",
+      "Kimi-K3 压缩张量技术，获近 1.1 万点赞",
+      "Qwen3.8 系列前十占八席，量化去审查生态活跃",
+      "MiniMax-Music3 同步上榜，实现文生完整歌曲"
+    ],
+    "ai-community": [
+      "多模型实测 SEO 评估结果不一致，打破 AI 工具盲信",
+      "Prompt caching 实测：LLM 成本可降 70-90%",
+      "Agent 记忆权限分层成共识：记住一切是 bug",
+      "2-token 输入产生 39,966-token 账单，成本透明化受关注",
+      "Qwen3.8-27B 深度解析，开源视觉语言新标杆",
+      "稀有书籍运输指向亚马逊 AI 训练设施，版权引热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "9 major AI CLI tools actively competing",
+      "Windows support top pain point across tools",
+      "Claude Code's AGENTS.md issue has 4,654 upvotes",
+      "Codex removes Git from known-safe commands",
+      "Ecosystem bifurcating: stability vs rapid iteration",
+      "Session-state durability is a universal concern"
+    ],
+    "ai-agents": [
+      "OpenClaw shows 500 issues, 500 PRs in 24h",
+      "93 PRs merged in heavy maintenance phase",
+      "Triage bottleneck flagged by maintainer-review labels",
+      "No new releases published in last 24h",
+      "Release validation issues suggest upcoming patches",
+      "P1 and P2 severity bugs dominate tracker"
+    ],
+    "ai-trending": [
+      "Skills emerge as dominant new abstraction layer",
+      "OpenViking's self-evolving context database trending",
+      "Anthropic-Cybersecurity-Skills gains 766 stars today",
+      "817 structured skills for defensive AI ops",
+      "omlx brings SSD-cached LLM inference to macOS",
+      "Open-source agents entering quantitative trading"
+    ],
+    "ai-web": [
+      "OpenAI adds 4 new articles, Anthropic silent",
+      "ChatGPT Ads expands across Europe",
+      "Zero Data Retention for Frontier Models announced",
+      "OpenAI signals dual push: monetization and trust",
+      "Anthropic's silence may precede major release",
+      "No new Anthropic content detected today"
+    ],
+    "ai-hn": [
+      "OpenAI faces tepid Q2 growth and delayed IPO",
+      "Claude Code Opus 5.0 incoherence issue scores 167",
+      "Users demand AGENTS.md context support",
+      "AI-led hack stunts training run, draws commentary",
+      "Community skeptical of 'joke' acquisition announcement",
+      "Cost-consciousness and practical tooling trending"
+    ],
+    "ai-arxiv": [
+      "Reliability and trustworthiness dominate submissions",
+      "Hybrid neuro-symbolic approaches gain traction",
+      "Efficiency work spans diffusion and RL",
+      "Capability-centric data design for image generation",
+      "TokEval introduces systematic tokenizer evaluation",
+      "GPT-style models fail on symbolic music theory"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 11.4K likes",
+      "MiniMax-H3 hits 15.2M downloads for video",
+      "MiniMax-Music3 launches text-to-music",
+      "DeepSeek-V4-Flash-0731 crosses 2.3M downloads",
+      "Kimi-K3 amasses 10.8K likes quietly",
+      "Frontier models repackaged into unbridled fine-tunes"
+    ],
+    "ai-community": [
+      "Developers demand measurable AI transparency",
+      "Claude Code suggested giving up during debugging",
+      "Agent burned 40K tokens on 2-token prompt",
+      "Book shipment ends at Amazon AI training facility",
+      "1985 video on AI limits resurfaces on Lobste.rs",
+      "Qwen model scored same humor rating 40 times"
+    ]
+  }
+}

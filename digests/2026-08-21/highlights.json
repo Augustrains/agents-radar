@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 模型质量退化争议发酵，获 316 赞成最热议题",
+      "CodeWhale 发布 v0.9.10，max_tokens 回归影响面大",
+      "Pi 的 auto-compaction 功能获 17 赞，Windows 普查引热议",
+      "Qwen Code 发布 v0.21.15，/review 适配 Aone 井喷",
+      "OpenCode 修复内存泄漏，TUI 崩溃问题集中报告",
+      "AI CLI 工具竞争转向稳定性、成本与可控性"
+    ],
+    "ai-agents": [
+      "OpenClaw 活跃度拉满，500 条 Issue 与 PR 更新",
+      "安装策略需确认，安全边界迈出重要一步",
+      "多个 P0 级 Bug 仍开放，会话数据丢失风险未解",
+      "Control UI 可审查安装策略警告，与 #116489 配套",
+      "incognito 会话可见性等高质量 PR 待维护者检视",
+      "v2026.8.1-beta 验证周期中，无新版本发布"
+    ],
+    "ai-trending": [
+      "mattpocock/skills 日增 2192 星，技能即代码爆发",
+      "caveman 以原始人语风格实现 65% Token 削减",
+      "腾讯开源 AI-Infra-Guard，供应链扫描系统化",
+      "cursor/plugins 日增 449 星，定义插件生态标准",
+      "MoneyPrinterTurbo 与 career-ops 应用层持续升温",
+      "AI Agent 开发从框架绑定走向跨平台技能标准化"
+    ],
+    "ai-web": [
+      "Anthropic 发布蛋白质设计研究，成功率 93%",
+      "Claude 在分析化学中 23 分钟完成 NMR/LC-MS 解析",
+      "Claude 结合成功率 22%-35%，远超行业基准",
+      "Claude Opus 5 纯度计算与实验室误差仅 0.07%",
+      "OpenAI 今日无新增内容，进入发布静默期",
+      "Anthropic 以科研用例强化垂直场景不可替代性"
+    ],
+    "ai-hn": [
+      "Huzzah 新 AI 编程范式登顶热榜，获 200 星",
+      "Vomit 用 LLM 清理 Claude 输出，讽刺引热议",
+      "Asana 称 Codex 两周清 5 年工程，社区质疑 PR 包装",
+      "OpenAI 与 Anthropic IPO 预期成资本叙事焦点",
+      "AI 数据中心引发社区抗议，资本与现实阻力对比",
+      "NYT 专栏与 agent 失控报道持续占据话题度"
+    ],
+    "ai-arxiv": [
+      "SPADE 自博弈框架，突破静态目标分布限制",
+      "Beyond Teacher Likelihood 提出群组校准蒸馏",
+      "VLA 框架可监测多智能体间隐蔽协调",
+      "单个训练样本对模型贡献首次被直接测量",
+      "AI 后训练实证：揭示执行层与方法论层瓶颈",
+      "胶囊网络在视觉任务中应用成今日新热点"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 11.7K 周赞登顶，衍生版本霸榜",
+      "MiniMax-H3 下载破 330 万，领跑视频生成",
+      "Kimi-K3 获 10.9K 赞，压缩技术成亮点",
+      "DeepSeek-V4-Flash 下载量达 255 万，低延迟首选",
+      "Qwen3.8 FP8 版下载反超原版，显存门槛大降",
+      "社区涌现 Qwen3.8 去审查微调变体生态文化"
+    ],
+    "ai-community": [
+      "Agent 可靠性危机成焦点，prompt 注入测试失效引反思",
+      "'测试 LLM'成显学，陷阱式考题评估模型能力",
+      "记忆成 Agent 架构新热点，推理账本与 MCP 服务器",
+      "Agent 需'影响域感知'，否则事故现场是 Ansible",
+      "1985 年《The Limits of AI》视频获高分理性对冲",
+      "RAG 检索将从'步骤'升维为'决策'的架构哲学"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex lead in feature maturity",
+      "Windows support remains weak across most tools",
+      "Security hardening now a first-class concern",
+      "MCP integration reliability a shared focus",
+      "Agent orchestration capabilities converging",
+      "Pi, Kimi, CodeWhale iterate on UX polish"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 151 PRs merged, heavy stabilization",
+      "No new releases, focusing on bug fixes",
+      "Backlog of P0/P1 issues with unmerged fix PRs",
+      "Realtime Talk support and UI improvements in dev",
+      "Community engagement strong with vocal user base",
+      "Gateway and memory reliability being hardened"
+    ],
+    "ai-trending": [
+      "mattpocock/skills surges +2,192 stars today",
+      "MoneyPrinterTurbo explodes with +2,761 stars",
+      "obra/superpowers gains +727 for agentic skills",
+      "OpenViking's self-evolving context DB +950 stars",
+      "cursor/plugins formalizes AI IDE ecosystems",
+      "Agent-native tooling dominates open source trends"
+    ],
+    "ai-web": [
+      "Claude protein design beats industry baselines 22-35%",
+      "Opus 5 autonomously parses chemistry data in 30 min",
+      "Anthropic pivots to scientific discovery partner",
+      "Zero new content from OpenAI today",
+      "Claude succeeds against 14 of 15 protein targets",
+      "Agentic workflows produce lab-acceptable results"
+    ],
+    "ai-hn": [
+      "Huzzah novel coding approach tops HN today",
+      "Vomit satirical tool sparks 193-comment thread",
+      "Anthropic IPO expected to rival SpaceX scale",
+      "OpenAI CFO suggests 2026 IPO timeline possible",
+      "40% of new music now uses AI, study finds",
+      "Rogue OpenAI agent and data center protests"
+    ],
+    "ai-arxiv": [
+      "SPADE self-play framework adaptively generates environments",
+      "Group-calibrated distillation corrects long-context teacher bias",
+      "Research pushes self-improving systems via SPADE",
+      "Verification trust: detecting covert latent agent communication",
+      "On-policy multi-teacher distillation for long-context reasoning",
+      "Papers argue 'precision' over capability as key metric"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B exceeds 7.8M downloads this week",
+      "Kimi-K3 challenger with over 10.8K likes",
+      "MiniMax-Music3 expands H3 video gen family",
+      "DeepSeek V4 Pro and Flash enter trending chart",
+      "7 'uncensored' Qwen3.8 community fine-tunes",
+      "Qwen and DeepSeek race for open-weight supremacy"
+    ],
+    "ai-community": [
+      "Prompt injection test passed while attack worked",
+      "Agent can't see blast radius of destructive ops",
+      "Symbol indexing slashed from 30s to 98ms",
+      "AI bills cut from $500 to $12 with optimizations",
+      "CrewAI replaced with pure Go stdlib workflows",
+      "Instruction tuning inflates confidence, not accuracy"
+    ]
+  }
+}

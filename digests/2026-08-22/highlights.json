@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.239 发布，但 AUP 误报批量提交成焦点",
+      "OpenAI Codex 24小时连发6个alpha，迭代速度惊人",
+      "Gemini CLI v0.56.0-nightly，子代理假成功问题修复中",
+      "Copilot CLI BYOK切换限制引热议，需求持续霸榜",
+      "Pi 压缩机制讨论热烈，50条更新9个PR",
+      "OpenCode 响应中断问题集中反馈，发布 v1.18.21 补丁"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时合并117个PR，密集开发期",
+      "P0 问题积压：Gateway 内存泄漏致 OOM 崩溃",
+      "多频道消息可靠性修复，覆盖16+频道",
+      "Claude CLI OAuth 认证恢复，Gateway 重启不再失效",
+      "流式响应失败传播修复，避免误导用户",
+      "安装策略警告增加确认机制，安全加固进行中"
+    ],
+    "ai-trending": [
+      "mattpocock/skills 单日涨 3362 星，成今日最大黑马",
+      "skills 概念爆发：4个项目集中登榜，工具链标准化信号",
+      "PostHog 推 AI 可观测性 Agent，AgentOps 进入主流视野",
+      "cursor/plugins 官方插件规范发布，Agent 工具链标准化",
+      "NousResearch/hermes-agent 23.4万星，社区热度极高",
+      "本地优先与CLI集成成AI Agent 新趋势，apache/maka 上榜"
+    ],
+    "ai-hn": [
+      "Claudette 吐槽 Claude 营销腔，185分登顶引共鸣",
+      "Codex on AWS 计费 Bug 致 10 倍费用，引发热议",
+      "900 次空响应！Claude Opus 4.6 可靠性遭质疑",
+      "自托管沙箱 Agent 软件工厂，成本隐私双控制",
+      "Claude Mythos 5 安全能力开放，社区反应谨慎",
+      "AI 文本水印失效与监控化倾向，警惕感增强"
+    ],
+    "ai-arxiv": [
+      "AI4AI-Bench 新基准：评估 AI 能否改进自身训练算法",
+      "ConceptGuard 首个上下文敏感未学习基准发布",
+      "Phantom Gains 揭示自改进评估的测量伪影问题",
+      "Daedalus-150M 专为 CPU 推理设计，边缘部署新思路",
+      "OenoBench 葡萄酒领域基准，3266道题四层难度",
+      "当文本与数字冲突：LLM 证据仲裁行为受关注"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞破万登顶，多模态生态全面开花",
+      "MiniMax-H3 下载量突破361万，视频生成新霸主",
+      "DeepSeek-V4-Flash 下载量达283万，高效推理首选",
+      "Qwen3.8 系列衍生生态霸榜，量化去审查版本火爆",
+      "MiniMax Music3 同期发布，音乐生成赛道引关注",
+      "llama.cpp/GGUF 量化与 abliterated 去审查持续火爆"
+    ],
+    "ai-community": [
+      "157 个 Agent 实测：规划比执行更容易出错",
+      "Pi vs OpenCode 百小时实测对比，选型参考",
+      "15 美元树莓派实现 5.3% RTF 常开唤醒词",
+      "Felony Bench 将'AI 会不会犯罪'作为评测维度",
+      "金融 Agent 护栏'看不见钱'，设计缺陷剖析",
+      "128k 上下文被指幻觉式宣传，实测引发讨论"
+    ]
+  },
+  "en": {}
+}

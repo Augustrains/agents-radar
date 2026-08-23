@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 多账户诉求升温，后台任务可靠性成共性痛点",
+      "OpenAI Codex 高频迭代，发布 0.149/0.150 alpha 版本",
+      "Gemini CLI 安全修复合入，双线推进子代理可靠性",
+      "Qwen Code v0.22.0 发布，Review 管线仍是核心",
+      "OpenCode 内存问题引热议，135 评论催生讨论帖",
+      "Pi 集中修复 Windows 问题，压缩策略备受关注"
+    ],
+    "ai-agents": [
+      "OpenClaw 合并积压显著，430 个 PR 待处理",
+      "v2026.8.1-beta.2 验证中，曝出 SQLite 损坏等回归",
+      "对话投递修复已关闭，多智能体安全边界提升",
+      "Claude CLI OAuth 丢失问题修复，已合并进主分支",
+      "安装策略审查新功能落地，管理员可拦截风险插件",
+      "上下文管理成热点，子代理投递可靠性受关注"
+    ],
+    "ai-trending": [
+      "mattpocock/skills 今日之星，日增 2683 star",
+      "ECC 系统横跨多生态，为 Agent 提供技能与安全增强",
+      "openai/codex 热度飙升，日增 1544 star",
+      "obra/superpowers 框架走红，日增 592 star",
+      "Agent 工程化与 Skills 方法论成今日主旋律",
+      "AI 安全与基础设施智能化，正从应用层向平台层延伸"
+    ],
+    "ai-hn": [
+      "社区质疑 Claude Code 被降智，信任危机发酵",
+      "GPT 5.6 Sol 降价 20%，引发'便宜=变笨'讨论",
+      "本地 LLM 感觉更笨？只因使用姿势不对",
+      "Anthropic IPO 将AI反弹列为风险因素引热议",
+      "Nvidia 通知客户 AI 相关价格上涨超 15%",
+      "社区情绪审慎，AI 泡沫担忧持续升温"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，周点赞 1.2 万领跑生态",
+      "Kimi-K3 紧随其后，点赞破万下载超 260 万",
+      "DeepSeek-V4-Flash 下载近 300 万，速度智能平衡",
+      "MiniMax-H3 成最强视频生成候选，获 4300 赞",
+      "Qwen 生态霸榜，衍生模型包揽 Top30 半数席位",
+      "量化与无审查版模型，本地部署热情空前"
+    ],
+    "ai-community": [
+      "更大模型无法修复 Planner 重复犯的相同三个错误",
+      "Token 计数是模型相关的，而非请求属性",
+      "用户关闭标签页，正悄悄浪费你的 LLM 算力",
+      "9 种 RAG 技术，有效提升检索质量",
+      "模型升级未部署，AI Agent 行为却悄然漂移",
+      "Codex CLI 生态扩张，多任务与 CI/CD 集成成焦点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.240 ships maintenance release",
+      "OpenAI Codex releases 2 alpha versions",
+      "Gemini CLI fixes macOS sandbox escape",
+      "Kimi Code community grows with UX pain points",
+      "Agent reliability top concern across tools",
+      "Multi-account support dominant unmet need for Claude Code"
+    ],
+    "ai-agents": [
+      "OpenClaw faces P0 regressions in beta",
+      "SQLite corruption and event-loop blocking reported",
+      "500 issues and PRs updated in 24h",
+      "Session management top backlog concern",
+      "No new releases today, fixes in progress",
+      "Maintainers pushing security critical PRs"
+    ],
+    "ai-trending": [
+      "mattpocock/skills hottest repo, +2,683 stars",
+      "ECC positions as agent harness optimizer",
+      "obra/superpowers framework gains 592 stars",
+      "Agent skill frameworks dominate trending",
+      "Focus shifts to applied agentic workflows",
+      "Chinese ecosystem matures with AI security"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol price cut 20% sparks debate",
+      "Anthropic IPO ambitions raise sustainability concerns",
+      "Linus Torvalds endorses AI-assisted debugging",
+      "Local LLM quality gap discussion gains traction",
+      "Claude Code effort levels under scrutiny",
+      "AI market valuations face growing skepticism"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B dominates with 12K likes",
+      "Kimi-K3 launches with 10.9K likes",
+      "MiniMax-H3 draws 4.3K likes",
+      "DeepSeek-V4 Flash nears 3M downloads",
+      "Abliterated Qwen variants surge in popularity",
+      "Video and music generation expand frontier"
+    ],
+    "ai-community": [
+      "Model routing benchmarks highlight reliability",
+      "Developers worry about token economics waste",
+      "Codex CLI viewed as versioned pipeline steps",
+      "Smaller models favored over frontier defaultism",
+      "Trust calibration key for AI code review",
+      "12-year-old builds SaaS on Android phone"
+    ]
+  }
+}

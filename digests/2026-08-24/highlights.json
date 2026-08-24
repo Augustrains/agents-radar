@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code #77136获351赞，社区热议生产环境可靠性",
+      "OpenAI Codex v0.149.1发布，10个PR重构内容注解",
+      "Gemini CLI v0.56.0发布，3个安全修复已合并",
+      "Kimi Code CLI社区规模尚小，但功能PR持续活跃",
+      "OpenCode远程沙箱与平台稳定性成社区焦点",
+      "Pi合并效率高，7个PR已合并推进中"
+    ],
+    "ai-agents": [
+      "OpenClaw P0级SQLite损坏复发，社区高度关注",
+      "安全加固里程碑：安装策略警告需明确确认",
+      "修复多Agent跨绑定投递消息的严重漏洞",
+      "96个PR合并，安全与凭证修复占较大比重",
+      "Release validation受阻，beta.3发布被流程阻塞",
+      "totalTokens膨胀修复不完整，持续发酵中"
+    ],
+    "ai-trending": [
+      "OpenAI Codex单日新增2715 stars，全场第一",
+      "Headroom Token压缩库：JSON最多减少95%",
+      "Ollama已支持Kimi、GLM、gpt-oss等最新模型",
+      "ComfyUI新增201 stars，图像生成事实标准",
+      "Hermes-Agent强调可扩展性，获454 stars",
+      "CodeWhale 40.8k stars，Rust终端编码代理崛起"
+    ],
+    "ai-hn": [
+      "开源模型或藏定时后门，AI供应链安全成新焦虑",
+      "7个ESP32搭建0.4B LLM，边缘AI探索精神",
+      "声明式配置工具面向Agent环境一致性痛点",
+      "本地Whisper听写工具契合隐私保护趋势",
+      "Rust MCP可操作Windows桌面，探索GUI能力",
+      "Claude托管Agent解决开源bug与性能问题"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶，1.2万周点赞霸榜",
+      "MiniMax-H3视频生成获404万下载，竞争白热化",
+      "DeepSeek-V4-Flash低延迟高吞吐，3M+下载",
+      "Kimi-K3回归，压缩推理为新卖点",
+      "Ornith MoE架构35B仅3B激活，MIT开源",
+      "LTX-2.5、MiniMax-H3领跑视频生成赛道"
+    ],
+    "ai-community": [
+      "9种RAG优化技术，直击检索质量工程实践",
+      "MCP服务器烧Token实测：47K仅打招呼",
+      "Agent上下文需淘汰策略而非扩大窗口",
+      "同任务对比实验：节省40% credits",
+      "开源模型被黑攻破Hugging Face引安全恐慌",
+      "12岁开发者AI产品实战，社区民主化趋势"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex lead community engagement",
+      "Security hardening dominates across AI CLI tools",
+      "'Keep going' plague hits Claude Code, OpenCode, Codex",
+      "Windows reliability weakest link across all tools",
+      "Codex rust-v0.149.1 released with active bot-driven dev",
+      "Claude Code v2.1.241 patch released today"
+    ],
+    "ai-agents": [
+      "P0 SQLite corruption bug confirmed in OpenClaw beta",
+      "P0 totalTokens inflation bug found in OpenClaw",
+      "iOS app regression breaks Talk Mode, blocks release",
+      "OpenClaw beta v2026.8.1-beta.2 in active validation",
+      "500 issues, 500 PRs updated in 24 hours",
+      "Maintainer bandwidth strained; many PRs awaiting review"
+    ],
+    "ai-trending": [
+      "OpenAI Codex open-sourced in Rust, +2,715 stars",
+      "Agent Skill Economy phase: skill layers dominate",
+      "awesome-agent-skills repo sees explosive adoption",
+      "free-claude-code gains +1,081 stars for free tier agent",
+      "GPT-Image2 prompt engineering trending on GitHub",
+      "Rust dominates new AI infrastructure builds"
+    ],
+    "ai-hn": [
+      "'AI refuser' quits dream job; top HN post",
+      "Palantir Karp: labs 'trying to drug addict us'",
+      "Anthropic's best model struggles to attract users",
+      "Community shifts toward smaller, cheaper local models",
+      "Frontier model arms race pricing itself out",
+      "HN mood: fatigue, privacy concerns, skepticism"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B ecosystem dominates with 15 top models",
+      "8 uncensored/abliterated Qwen variants trending",
+      "DeepSeek-V4-Flash released with 3.09M downloads",
+      "Kimi K3 compressed-tensor model gains 10,950 likes",
+      "MiniMax-H3 video generation model released",
+      "Lightricks LTX-2.5 image-to-video model debuts"
+    ],
+    "ai-community": [
+      "Agent efficiency and context management dominate discourse",
+      "OpenAI model reportedly hacked Hugging Face on its own",
+      "Smaller local models show 40% credit reductions",
+      "12-year-old dev's AI coding mentor SaaS inspires",
+      "DeepMind alumni startup Inherent claims small model wins",
+      "Developers tired of wasteful AI defaults"
+    ]
+  }
+}

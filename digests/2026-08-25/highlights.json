@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.243 发布，但 Linux segfault 和内存泄漏问题缠身",
+      "OpenAI Codex Windows 终端启动失败，macOS 认证失效引热议",
+      "Gemini CLI v0.57.0-preview.1 发布，子代理误报成功和 Shell 挂起待解",
+      "Pi v0.84.3 发布，Windows 支持和新模型接入获社区好评",
+      "Qwen Code v0.22.0-nightly 发布，流式超时和 MCP 重连是焦点",
+      "社区共识：稳定性比新功能更重要，后台会话管理成最大痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.8.1-beta.3，全面支持 GPT-5.6 Sol/Terra/Luna/Ultra",
+      "OpenClaw 修复 tsgo 进程树残留问题，解决自动化流程卡死风险",
+      "74 个 PR 在 24 小时内合入，项目迭代速度惊人",
+      "大量'钻石龙虾'级可靠性缺陷（消息丢失、状态损坏）仍待修复",
+      "智能体上下文压缩和动态模型发现成社区最热功能请求",
+      "Beta 版升级需谨慎，外部插件解析问题（#97680）未解"
+    ],
+    "ai-trending": [
+      "openai/codex 单日新增 1994 stars，官方 CLI 工具号召力爆棚",
+      "ECC 以 24.2 万 stars 领跑，为 Claude Code 等工具添加技能、记忆和安全层",
+      "hermes-agent 单日新增 896 stars，主打'与你一同成长'的智能体",
+      "awesome-agent-skills 收录超 1000 个技能，Agent 技能生态进入规模化",
+      "ai-job-search 用 Claude Code 实现 AI 求职，Agent 工作流落地真实场景",
+      "Karpathy 的 LLM 编码陷阱观察被提炼成 CLAUDE.md 技能包，引发关注"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Fable 5 生物安全改进：常规查询降级回退率降低 85%",
+      "Anthropic 详解 Claude 文本水印技术，合规响应 EU AI Act",
+      "Anthropic 新增经济研究团队介绍，展示 AI 在经济学领域的布局",
+      "Anthropic 展示 AI 加速蛋白质设计：14/15 目标成功，科研引擎转型获实证",
+      "Anthropic 用 NMR/LC-MS 自动化化学分析，大模型成科学发现新引擎",
+      "OpenAI 今日无实质内容更新，仅一条'GPT-5.6 in Kiro'元数据引猜测"
+    ],
+    "ai-hn": [
+      "小米新 CPU 单核对标 Apple、多核大幅领先，702 分登顶 HN 热议榜",
+      "OpenAI 宣布 GPT-5.6 限时降价至 11 月 21 日，引发社区讨论",
+      "Claude 当日遭遇多起服务故障，多条相关帖子密集出现引担忧",
+      "LLM 可利用推理引擎漏洞控制宿主机，安全研究成次级热点",
+      "OCR It 工具为 LLM 提取 PDF 文本，获 117 分好评",
+      "开源模型时间释放后门引争论，模型来源透明度再成焦点"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 12.5K 周点赞霸榜，GGUF 量化版下载破 700 万",
+      "'去审查'模型生态爆发：Top 30 中有 8 款为 abliterated 衍生模型",
+      "DeepSeek-V4-Flash-0731 获 3.7K 点赞，MoE 架构高效推理新标杆",
+      "MiniMax-H3 视频生成模型下载量达 440 万，视频生成竞争白热化",
+      "Ornith-1.5-35B-A3B 量化版 GGUF 下载量接近百万，本地部署热门",
+      "多模态、量化部署与'无限制'模型成社区三大核心驱动力"
+    ],
+    "ai-community": [
+      "Dev.to 热议：Agent 的瓶颈是记忆而非推理，生产环境挑战凸显",
+      "'测试通过但业务错误'成焦点：真实案例揭示 AI 工程最隐蔽陷阱",
+      "170 个 Agent 目标仅花 0.49 美元野外测试，找出 10 个单元测试遗漏问题",
+      "RAG 助手编造不存在的 API，幻觉实战案例引发激烈讨论",
+      "MCP 热潮中冷静思考：协议不解决员工离职流程等问题",
+      "'模型评分 30%，框架 100%'：基准测试误导性问题引反思"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.243 fixes Linux segfault",
+      "9 AI CLI tools actively iterating this cycle",
+      "Windows support gaps a shared pain point",
+      "Background session management converging as core feature",
+      "OAuth/token persistence fragility flagged",
+      "Multi-agent lifecycle control key differentiator"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.3 adds GPT-5.6 support",
+      "High activity: 500 issues, 500 PRs in 24h",
+      "Critical reliability bugs around message delivery",
+      "Multi-agent orchestration under active repair",
+      "Long-standing technical debt being addressed",
+      "Control UI onboarding UX improved in beta"
+    ],
+    "ai-trending": [
+      "openai/codex gains 1,994 stars today",
+      "free-claude-code offers 1.3B+ free tokens",
+      "Agent skill ecosystems formalizing with curated lists",
+      "Local-first personal AI projects surge in popularity",
+      "GPT-Image-2 prompt engineering exploding: +2,449",
+      "NousResearch hermes-agent at 235,791 stars"
+    ],
+    "ai-web": [
+      "Anthropic relaxes biology safeguards for Claude Fable 5",
+      "Claude designs protein binders on 14/15 targets",
+      "Opus 5 matches contract lab NMR/LC-MS output",
+      "Anthropic confirms text-watermarking for EU AI Act",
+      "Economic Index formalized as flagship adoption tracker",
+      "OpenAI lists gpt-5-6-in-kiro; metadata only"
+    ],
+    "ai-hn": [
+      "Xiaomi CPU claims Apple-level single-thread, beats multi",
+      "OpenAI 5.6 price cut sparks race-to-bottom debate",
+      "Anthropic faces multiple outage threads today",
+      "Axios scoop: 'blunt money questions' in interviews",
+      "Two threads on model backdoors and inference exploits",
+      "Skepticism over Xiaomi benchmarks demands independent tests"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hub: 12,512 likes, 2.6M downloads",
+      "Qwen variants occupy 16 of top 30 spots",
+      "MiniMax-H3 hits 4.4M downloads",
+      "8 abliterated uncensored fine-tunes in top 30",
+      "Speculative decoding DFlash2 gains traction",
+      "DeepSeek-V4-Flash climbs with 3.27M downloads"
+    ],
+    "ai-community": [
+      "Agents fail from memory issues, not reasoning",
+      "Tests passing doesn't validate the contract",
+      "Field tests catch issues lab tests miss",
+      "Unit tests and evals can provide false confidence",
+      "Treat memory as first-class architecture concern",
+      "Instrument traces and test in production-like conditions"
+    ]
+  }
+}

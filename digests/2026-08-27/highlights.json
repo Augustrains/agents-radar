@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.247发布，新增SendFeedback工具",
+      "OpenAI Codex v0.150.1稳定版发布，多方向活跃PR",
+      "Gemini CLI v0.59.0-nightly，以安全修复为主",
+      "Qwen Code v0.22.2及桌面版发布，含2条P1安全修复",
+      "DeepSeek TUI (CodeWhale) v0.9.12修复中，5条PR已合并",
+      "多工具面临Agent循环失控、后台进程资源泄漏等共同挑战"
+    ],
+    "ai-agents": [
+      "OpenClaw日吞吐量约1000条更新，社区健康循环",
+      "PR #126424修复多代理会话消息误投递，涉及8个渠道",
+      "PR #125471修复Gateway重启后Claude CLI OAuth丢失",
+      "PR #116489加固安全边界：安装策略警告需用户确认",
+      "PR #128995实现从聊天头部访问完整会话操作",
+      "无新版本发布，最新仍为v2026.8.1-beta.3"
+    ],
+    "ai-trending": [
+      "Anthropic发布claude-plugins-official，官方入局插件生态",
+      "Basecamp的omarchy发行版将AI工具链集成进操作系统层",
+      "ECC以24.3万star成为Agent工程化标杆项目",
+      "tiny-llm火了：Apple Silicon上从零构建推理引擎",
+      "apache/casbin-gateway：Apache孵化AI/MCP安全网关",
+      "Rust生态rig框架加速渗透AI应用层，star 8,416"
+    ],
+    "ai-web": [
+      "Claude机器人研究：控制抽象层级决定模型表现上限",
+      "Anthropic与NNSA合作开发核安全分类器，准确率96%",
+      "Claude机器狗（Unitree Go2）+模拟人形机器人实证",
+      "OpenAI与Anthropic同频布局AI教育普及",
+      "Anthropic发布Persona vectors：监测控制性格特征",
+      "AI安全评估从网络空间扩展至核安全领域"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash发布引爆HN：950分、474条评论",
+      "OpenAI与Hugging Face安全事件持续发酵成焦点",
+      "OpenExecutive开源项目：开发者开源AI CEO取代老板",
+      "\"AI取代程序员\"讨论引273分、169条评论热议",
+      "Claude Code开发者体验争议形成多线程讨论",
+      "Laion发布Big Video Dataset，为视频生成提供数据"
+    ],
+    "ai-arxiv": [
+      "Prefix Sliding挑战\"推理越长越好\"，降低测试时计算成本",
+      "Muon优化器超越Adam机制被揭示，并提出改进方案",
+      "首次为LoRA秩选择提供任务依赖理论误差界",
+      "剪枝会破坏稀疏自编码器特征结构，研究给出保持策略",
+      "物理AI基准冗余审计：51模型×12基准揭示低区分度",
+      "人类对AI生成图\"关系型缺陷\"识别准确率显著偏低"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B霸榜：12.9k赞、330万下载",
+      "DeepSeek-V4-Flash下载近400万，单日点赞3.7k",
+      "Kimi-K3压缩推理路线亮眼，11k赞、290万下载",
+      "MiniMax-H3视频模型下载量突破479万",
+      "Qwen3.8-27B解禁变体多达8个，生态空前活跃",
+      "GLM-5.3-Flash刚上线即登榜，待社区验证"
+    ],
+    "ai-community": [
+      "DEV平台官方引入AI内容披露分层机制",
+      "实测5款设计转代码工具：统一基准比较生成与返工",
+      "MCP Token浪费实测：比CLI多4-32倍，附修复策略",
+      "WAF对LLM Agent行为完全失明，每个调用都是攻击面",
+      "Vibe Coding没问题，但Vibe Debugging会杀死你",
+      "反思：AI工具是提效还是新型分心物引热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code, Copilot CLI release daily",
+      "Security hardening dominates CLI ecosystem",
+      "Windows/WSL2 support most fragile",
+      "O(n²) bugs and token bloat reported",
+      "Multi-agent orchestration gaps exposed",
+      "Daemon reliability a universal pain point"
+    ],
+    "ai-agents": [
+      "OpenClaw: 1,000 issues/PRs in 24h",
+      "66% of issues remain open",
+      "No new releases; between betas",
+      "Priority-0 data loss issues central",
+      "Maintainers pushing large refactors",
+      "Community bug reports flooding in"
+    ],
+    "ai-trending": [
+      "'Agent Skills' shift dominates GitHub",
+      "awesome-gpt-image-2 +4,050 stars today",
+      "Anthropic formalizes plugin directories",
+      "tinyhumansai/openhuman: Rust personal AI",
+      "DietrichGebert/ponytail: lazy AI philosophy",
+      "hermes-agent: 236,987 stars"
+    ],
+    "ai-web": [
+      "Anthropic opens Claude telemetry to researchers",
+      "Anthropic Insights pilot for external audits",
+      "OpenAI posts unreadable metadata-only",
+      "OpenAI 'Hugging Face Incident' post repeated",
+      "Anthropic: 30 new articles today",
+      "Strategic divergence: Anthropic vs OpenAI"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash scores 950 with 474 comments",
+      "OpenAI/Hugging Face security incident unfolds",
+      "Satirical 'AI CEO' project goes viral",
+      "Community debates price-performance claims",
+      "GLM-5.3-Flash price point called disruptive",
+      "AI agent security concerns growing"
+    ],
+    "ai-arxiv": [
+      "Shift to agentic self-evolving AI systems",
+      "Prefix Sliding cuts test-time scaling cost",
+      "Autoresearch agents design ML algorithms",
+      "MBTI analysis of quantized LLMs revealed",
+      "Neural speech models retain 'forgotten' languages",
+      "AsymSpec improves speculative decoding"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B spawns 14+ model ecosystem",
+      "MiniMax-H3, Music3 expand into media",
+      "DeepSeek-V4-Flash: 3.8M downloads",
+      "Ornith-1.5 models gain MIT license traction",
+      "Kimi-K3 surges to 11K likes",
+      "Abliterated 'uncensored' variants popular"
+    ],
+    "ai-community": [
+      "MCP token overhead 4-32x waste identified",
+      "'Vibe debugging' failure mode analyzed",
+      "Traditional security tooling inadequate",
+      "Design-to-code tools benchmarked",
+      "Multi-agent determinism challenge raised",
+      "AI productivity questioned in meta-debate"
+    ]
+  }
+}

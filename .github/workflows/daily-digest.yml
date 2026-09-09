@@ -41,6 +41,11 @@ jobs:
           PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
           DIGEST_REPO: ${{ github.repository }}
         run: pnpm start
+        env:
+            LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
+            OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+            OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+            OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
 
       - name: Commit digest files
         run: |

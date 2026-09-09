@@ -36,6 +36,7 @@ jobs:
       - name: Run daily digest
         run: pnpm start
         env:
+            GITHUB_TOKEN: ${{ github.token }}
             LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
             OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
             OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
